@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Berlin Events
 permalink: /berlin/events
+title: Berlin Tech Worker Events
 ---
-{{page.title}}
+<h1>{{page.title}}</h1>
 <ul class="list">
 {% assign events = (site.berlin_events | sort: 'date') | reverse %}  
 {% for post in events %}
