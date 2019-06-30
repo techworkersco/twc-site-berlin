@@ -5,14 +5,15 @@ title: Berlin Tech Worker Events
 ---
 <h1>{{page.title}}</h1>
 <ul class="list">
-{% assign events = (site.berlin_events | sort: 'date') | reverse %}  
-{% for post in events %}
-  <li class="list__item">
-    <div class="list__item-inner">
-      <a class="list__primary-content" href="{{ post.url }}">{{ post.title }}</a>: {{ post.date | date: '%d %B, %Y' }}
-    </div>
-  </li>
-{% endfor %}
+  {% assign sorted_posts = site.berlin_events | sort: 'date' | reverse %}
+  {% for post in sorted_posts %}
+    <li>
+      <div>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <b>{{ post.date | date: '%A, %d %B, %R' }}</b>
+      </div>
+    </li>
+  {% endfor %}
 </ul>
 
 <ul class="pagination">
