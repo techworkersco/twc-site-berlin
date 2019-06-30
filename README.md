@@ -6,6 +6,7 @@ This repository is responsible for most content visible on the website [TechWork
 
 1. Install dependencies: `bundle install`
 2. Start a local server: `bundle exec jekyll serve`
+3. Verify all internal links are valid: `bundle exec rake`
 
 Open a browser to localhost:8080
 
