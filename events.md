@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /berlin/events
+permalink: /events
 title: Berlin Tech Worker Events
 ---
 <h1>{{page.title}}</h1>
 <ul class="list">
-  {% assign sorted_posts = site.berlin_events | sort: 'date' | reverse %}
+  {% assign sorted_posts = site.events | sort: 'date' | reverse %}
   {% for post in sorted_posts %}
     <li>
       <div>
