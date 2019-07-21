@@ -16,7 +16,7 @@
 title: Tech Workers Coalition
 email: hello@techworkersco.org
 description: A coalition of tech industry workers, labor organizers, community organizers, and friends cultivating solidarity among all workers in tech.
-url: "https://techworkerscoalition.org" # the subpath of your site, e.g. /blog
+url: "https://techworkersberlin.com" # the subpath of your site, e.g. /blog
 baseurl: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TechWorkersBerlin
 timezone: "Europe/Berlin"
@@ -29,19 +29,17 @@ exclude:
   - Gemfile
   - Gemfile.lock
 header_links:
-  - url: /#learn
+  - url: https://techworkerscoalition.org/#learn
     text: Learn
-  - url: /#connect
+  - url: https://techworkerscoalition.org/#connect
     text: Connect
-  - url: /subscribe
+  - url: https://techworkerscoalition.org/subscribe
     text: Join
 footer_links:
   - url: https://sites.google.com/view/tech-workers-coalition/learning-club
     text: Learning Club
     newTab: true
-  # - url: /contact-us/
-  #   text: Contact
-  - url: /community-guide/
+  - url: https://techworkerscoalition.org/community-guide/
     text: Community Guide
   - url: https://medium.com/tech-workers-coalition
     text: Medium Blog
@@ -53,17 +51,16 @@ footer_links:
     text: Facebook
     newTab: true
 
-collections_dir: city_local/berlin
 future: true
 collections:
-  berlin_events:
+  events:
     output: true
-    permalink: berlin/events/:title
+    permalink: events/:title
 defaults:
   - scope:
       path: ""
-      type: "berlin_events"
+      type: "events"
     values:
-      layout: "berlin_event"
+      layout: "event"
 
 port: 8080
