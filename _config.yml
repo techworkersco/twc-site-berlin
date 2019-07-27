@@ -66,5 +66,10 @@ defaults:
       type: "events"
     values:
       layout: "event"
-
+  - scope:
+      path: ""
+      type: "learning"
+    values:
+      layout: "event"
+  
 port: 8080
