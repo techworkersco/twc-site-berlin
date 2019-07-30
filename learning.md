@@ -1,18 +1,20 @@
 ---
 layout: page
 permalink: /learning
-title: Berlin Tech Worker Learning Group Sessions
+title: Berlin Tech Worker Coalition Learning Group
 ---
 <h1>{{page.title}}</h1>
 <ul class="list">
-  {% assign sorted_posts = site.learning | sort: 'date' | reverse %}
+  {% assign sorted_posts = site.events | sort: 'date' | reverse %}
   {% for post in sorted_posts %}
+  {% if post.tags contains 'learning' %}
     <li>
       <div>
         <a href="{{ post.url }}">{{ post.title }}</a>
         <b>{{ post.date | date: '%A, %d %B, %R' }}</b>
       </div>
     </li>
+  {% endif %}
   {% endfor %}
 </ul>
 

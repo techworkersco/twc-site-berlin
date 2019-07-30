@@ -56,20 +56,11 @@ collections:
   events:
     output: true
     permalink: events/:title
-  learning:
-    output: true
-    permalink: learning/:title
 
 defaults:
   - scope:
       path: ""
       type: "events"
     values:
-      layout: "event"
-  - scope:
-      path: ""
-      type: "learning"
-    values:
-      layout: "event"
-  
+      layout: "event" 
 port: 8080
