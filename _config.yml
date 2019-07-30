@@ -36,7 +36,7 @@ header_links:
   - url: https://techworkerscoalition.org/subscribe
     text: Join
 footer_links:
-  - url: https://sites.google.com/view/tech-workers-coalition/learning-club
+  - url: /learning
     text: Learning Club
     newTab: true
   - url: https://techworkerscoalition.org/community-guide/
@@ -56,11 +56,11 @@ collections:
   events:
     output: true
     permalink: events/:title
+
 defaults:
   - scope:
       path: ""
       type: "events"
     values:
-      layout: "event"
-
+      layout: "event" 
 port: 8080
