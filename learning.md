@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /learning
-title: Berlin Tech Worker Coalition Learning Group
+title: Berlin Learning Group
 ---
 <h1>{{page.title}}</h1>
 <ul class="list">
