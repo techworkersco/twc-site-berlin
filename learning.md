@@ -1,18 +1,21 @@
 ---
 layout: page
-title: Berlin Events
-permalink: /berlin/events
+permalink: /learning
+title: Berlin Learning Group
 ---
-{{page.title}}
+<h1>{{page.title}}</h1>
 <ul class="list">
-{% assign events = (site.berlin_events | sort: 'date') | reverse %}  
-{% for post in events %}
-  <li class="list__item">
-    <div class="list__item-inner">
-      <a class="list__primary-content" href="{{ post.url }}">{{ post.title }}</a>: {{ post.date | date: '%d %B, %Y' }}
-    </div>
-  </li>
-{% endfor %}
+  {% assign sorted_posts = site.events | sort: 'date' | reverse %}
+  {% for post in sorted_posts %}
+  {% if post.tags contains 'learning' %}
+    <li>
+      <div>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <b>{{ post.date | date: '%A, %d %B, %R' }}</b>
+      </div>
+    </li>
+  {% endif %}
+  {% endfor %}
 </ul>
 
 <ul class="pagination">
