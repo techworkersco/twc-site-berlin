@@ -1,0 +1,35 @@
+langs:
+  en: English
+home:
+  title: Berlin Tech Workers Coalition
+  summary: We first gathered on 20 June 2019. We have been busy organising since. Join our email listserv to find out about future meetings and events!
+
+  about:
+    title: About
+    summary: |
+      <ul>
+        <li>We are a coalition of workers in and around the tech industry, labour organisers, community organisers, and friends.</li>
+        <li>Our meetings are currently only in English, however we are working on expanding documentation in other languages as well as hosting events in German.</li>
+      </ul>
+
+  events:
+    title: Events
+    summary: Find more events [here](/events)
+
+  connect:
+    title: Connect With Us
+    links: |
+      <ul>
+        <li>Listserv: Send an email to <a href="mailto:techworkersberlin-subscribe@lists.riseup.net">TechWorkersBerlin-subscribe@lists.riseup.net</a></li>
+        <li>Twitter: <a href="https://twitter.com/TechWorkersBER">@TechWorkersBER</a></li>
+        <li>Facebook: <a href="https://facebook.com/TechWorkersBER">TechWorkersBER</a></li>
+      </ul>
+
+
+global:
+  code_of_conduct:
+    title: Code of Conduct
+    summary: All meetings and communications are covered under the [Berlin Code of Conduct](https://berlincodeofconduct.org/). The privacy and safety of our members is important to us. Sharing the identity of members and or taking/sharing photos are strictly forbidden unless express consent is given.
+  accessibility:
+    title: Accessibility
+    summary: We understand accessibility in a broad sense and strive to do better. We try to host meetings that are wheelchair accessible, smoke free, short(er) and provide child care.

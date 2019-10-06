@@ -25,9 +25,12 @@ timezone: "Europe/Berlin"
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-multiple-languages-plugin
 exclude:
   - Gemfile
   - Gemfile.lock
+languages: ["en"]
+exclude_from_localizations: ["assets"]
 header_links:
   - url: https://techworkerscoalition.org/#learn
     text: Learn
@@ -62,5 +65,5 @@ defaults:
       path: ""
       type: "events"
     values:
-      layout: "event" 
+      layout: "event"
 port: 8080

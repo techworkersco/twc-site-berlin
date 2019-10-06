@@ -1,8 +1,3 @@
----
-layout: translated
-permalink: /
----
-
 <style>h1, .main-wrapper h2, h3 {text-align: left; font-weight: bold;}</style>
 # {% t home.title %}
 {% t home.summary %}

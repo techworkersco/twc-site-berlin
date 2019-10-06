@@ -8,15 +8,17 @@ header {
   }
 }
 
-
 .header {
 
   // overflow: auto;
   position: fixed;
-  box-shadow: 2px 0 10px rgba(0,0,0,.2);
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
   width: 100%;
   background-color: white;
   z-index: 9;
+
+  display: flex;
+  justify-content: space-between;
 
   .logo {
     background-color: none;
@@ -54,9 +56,7 @@ header {
     font-size: 1.125em;
     float: right;
     list-style-type: none;
-    // margin: 0;
     padding: 0;
-    // width: 40%;
     display: inline-flex;
     margin-right: 1em;
 
@@ -118,16 +118,14 @@ header {
 
   .work {
     font-weight: 100;
-    margin: 1em;
+    margin-left: 1em;
     display: -webkit-inline-box;
     text-transform: uppercase;
     text-decoration: none;
     font-size: 24px;
     color: #E6141B;
-    // padding-top: 24px;
-    // padding-bottom: 24px;
 
-    @include mobile {
+    @media screen and (max-width: 915px) {
       display: none;
     }
 
@@ -136,6 +134,4 @@ header {
       color: #212121;
     }
   }
-
-
 }
