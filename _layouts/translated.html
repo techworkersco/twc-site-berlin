@@ -1,0 +1,17 @@
+---
+layout: default
+---
+  <div class="content">
+    <div align="right">
+      {% for lang in site.languages %}
+        {% if site.languages.size == 1 %}
+
+        {% elsif site.lang == lang %}
+          <b>{% t langs.{{ lang }} %}</b>
+        {% else %}
+          <a href="{% tl {{ page.namespace }} {{ lang }} %}" >{% t langs.{{ lang }} %}</a>
+        {% endif %}
+      {% endfor %}
+    </div>
+    {{ content }}
+  </div>

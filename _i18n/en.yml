@@ -1,0 +1,28 @@
+langs:
+  en: English
+
+home:
+  title: Berlin Tech Workers Coalition
+  summary: Tech Workers have a lot of potential power to change society. Anyone who identifies as a tech worker and is interested in learning how to build collective power or get involved in a campaign is welcome.
+
+  events:
+    title: Latest Events
+    summary: Find even more events [here](/events)
+
+  connect:
+    title: Connect With Us
+    links: |
+      <ul>
+        <li>Listserv: Send an email to <a href="mailto:techworkersberlin-subscribe@lists.riseup.net">TechWorkersBerlin-subscribe@lists.riseup.net</a></li>
+        <li>Twitter: <a href="https://twitter.com/TechWorkersBER">@TechWorkersBER</a></li>
+        <li>Facebook: <a href="https://facebook.com/TechWorkersBER">TechWorkersBER</a></li>
+      </ul>
+
+
+global:
+  code_of_conduct:
+    title: Code of Conduct
+    summary: All meetings and communications are covered under the [Berlin Code of Conduct](https://berlincodeofconduct.org/). The privacy and safety of our members is important to us. Sharing the identity of members and or taking/sharing photos are strictly forbidden unless express consent is given.
+  accessibility:
+    title: Accessibility
+    summary: We understand accessibility in a broad sense and strive to do better. We try to host meetings that are wheelchair accessible, smoke free, short(er) and provide child care.
