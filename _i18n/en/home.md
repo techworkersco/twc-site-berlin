@@ -2,9 +2,6 @@
 # {% t home.title %}
 {% t home.summary %}
 
-## {% t home.about.title %}
-{% t home.about.summary %}
-
 ## {% t home.events.title %}
 {% t home.events.summary %}
 {% include events.html limit=4%}

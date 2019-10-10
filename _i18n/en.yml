@@ -1,20 +1,13 @@
 langs:
   en: English
+
 home:
   title: Berlin Tech Workers Coalition
-  summary: We first gathered on 20 June 2019. We have been busy organising since. Join our email listserv to find out about future meetings and events!
-
-  about:
-    title: About
-    summary: |
-      <ul>
-        <li>We are a coalition of workers in and around the tech industry, labour organisers, community organisers, and friends.</li>
-        <li>Our meetings are currently only in English, however we are working on expanding documentation in other languages as well as hosting events in German.</li>
-      </ul>
+  summary: Tech Workers have a lot of potential power to change society. Anyone who identifies as a tech worker and is interested in learning how to build collective power or get involved in a campaign is welcome.
 
   events:
-    title: Events
-    summary: Find more events [here](/events)
+    title: Latest Events
+    summary: Find even more events [here](/events)
 
   connect:
     title: Connect With Us
