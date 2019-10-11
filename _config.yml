@@ -32,26 +32,21 @@ exclude:
 languages: ["en"]
 exclude_from_localizations: ["assets"]
 header_links:
-  - url: https://techworkerscoalition.org/#learn
+  - url: /learning
     text: Learn
-  - url: https://techworkerscoalition.org/#connect
+  - url: /#connect
     text: Connect
-  - url: https://techworkerscoalition.org/subscribe
+  - url: /events
     text: Join
 footer_links:
   - url: /learning
-    text: Learning Club
+    text: Learning Group
     newTab: true
-  - url: https://techworkerscoalition.org/community-guide/
-    text: Community Guide
-  - url: https://medium.com/tech-workers-coalition
-    text: Medium Blog
-    newTab: true
-  - url: https://twitter.com/techworkersco
-    text: Twitter
-    newTab: true
-  - url: https://www.facebook.com/TechWorkersCoalition
+  - url: https://www.facebook.com/TechWorkersBER/
     text: Facebook
+    newTab: true
+  - url: https://twitter.com/TechWorkersBER
+    text: Twitter
     newTab: true
 
 future: true
