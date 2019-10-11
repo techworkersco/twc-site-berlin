@@ -5,3 +5,6 @@ _site
 s3_website.yml
 .letsencrypt
 *.log
+
+# Gems are cached in this directory when running the Docker setup
+vendor/bundle/
