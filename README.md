@@ -4,11 +4,22 @@ This repository is responsible for most content visible on the website [TechWork
 
 ## Getting Started
 
+### With Docker (recommended)
+
+We use Docker to have a reproducible development environment.
+Before proceeding, install [Docker Compose](https://docs.docker.com/compose/install/) on your system.
+
+1. Start the application with the command: `docker-compose up`
+2. Access the application in a browser at `localhost:4000`
+3. Execute other commands in the Docker container: `docker-compose run --rm --service-ports jekyll bash`
+
+### Without Docker
+
 1. Install dependencies: `bundle install`
 2. Start a local server: `bundle exec jekyll serve`
 3. Verify all internal links are valid: `bundle exec rake`
 
-Open a browser to localhost:8080
+Open a browser to localhost:4000
 
 ## Add an event
 
