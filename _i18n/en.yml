@@ -13,16 +13,17 @@ home:
     title: Connect With Us
     links: |
       <ul>
-        <li>Listserv: Send an email to <a href="mailto:techworkersberlin-subscribe@lists.riseup.net">TechWorkersBerlin-subscribe@lists.riseup.net</a></li>
-        <li>Twitter: <a href="https://twitter.com/TechWorkersBER">@TechWorkersBER</a></li>
-        <li>Facebook: <a href="https://facebook.com/TechWorkersBER">TechWorkersBER</a></li>
+        <li>Facebook: <a  target="_blank" href="https://facebook.com/TechWorkersBER">@TechWorkersBER</a></li>
+        <li>Listserv: To subscribe send an email to <a  target="_blank" href="mailto:techworkersberlin-subscribe@lists.riseup.net">techworkersberlin-subscribe@lists.riseup.net</a></li>
+        <li>Join the #local-berlin on Slack, by subscribing <a  target="_blank" href="https://techworkerscoalition.org/subscribe">here</a></li>
+        <li>Twitter: <a  target="_blank" href="https://twitter.com/TechWorkersBER">@TechWorkersBER</a></li>
       </ul>
 
 
 global:
   code_of_conduct:
     title: Code of Conduct
-    summary: All meetings and communications are covered under the [Berlin Code of Conduct](https://berlincodeofconduct.org/). The privacy and safety of our members is important to us. Sharing the identity of members and or taking/sharing photos are strictly forbidden unless express consent is given.
+    summary: All meetings and communications are covered under the a <a target="_blank" href="https://berlincodeofconduct.org">Berlin Code of Conduct</a>. The privacy and safety of our members is important to us. Sharing the identity of members and or taking/sharing photos are strictly forbidden unless express consent is given.
   accessibility:
     title: Accessibility
     summary: We understand accessibility in a broad sense and strive to do better. We try to host meetings that are wheelchair accessible, smoke free, short(er) and provide child care.
