@@ -4,7 +4,7 @@
 
 ## {% t home.events.title %}
 {% t home.events.summary %}
-{% include events.html limit=4%}
+{% include events.html limit=6%}
 
 ## {% t home.connect.title %}
 {% t home.connect.links %}
