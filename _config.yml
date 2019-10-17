@@ -26,6 +26,9 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
+
+sass:
+  style: compressed  
 exclude:
   - Gemfile
   - Gemfile.lock
