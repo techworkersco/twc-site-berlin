@@ -38,7 +38,9 @@ exclude_from_localizations: ["assets"]
 header_links:
   - url: /learning
     text: Learn
-  - url: /#connect
+  - url: /activities
+    text: Discover
+  - url: /#connect-with-us
     text: Connect
   - url: /events
     text: Join
