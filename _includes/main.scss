@@ -219,6 +219,29 @@ li {
   margin-bottom: 0.375em;
 }
 
+ul {
+  // this styling is incorrectly scoped it seems
+  padding-left: 0;
+}
+
+li.social {
+  font-weight: bold;
+  border: 2px #E6141B solid;
+  border-radius: 8px;
+  padding: 10px;
+  transition: 0.5s;
+
+  &:hover {
+    padding-left: 20px;
+    box-shadow: 10px;
+    & > a {
+      color: black;
+      text-decoration: underline;
+      text-decoration-color: #E6141B;
+    }
+  }
+}
+
 img {
   max-width: 75%
 }
