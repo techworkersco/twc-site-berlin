@@ -12,12 +12,13 @@ home:
     title: Connect
     links: |
       <ul>
-        <li>Facebook: <a  target="_blank" href="https://facebook.com/TechWorkersBER">@TechWorkersBER</a></li>
-        <li>Listserv: To subscribe send an email to <a  target="_blank" href="mailto:newsletter-subscribe@lists.techworkersberlin.com">newsletter-subscribe@lists.techworkersberlin.com</a></li>
-        <li>Join the #local-berlin on Slack, by subscribing <a  target="_blank" href="https://techworkerscoalition.org/subscribe">here</a></li>
-        <li>Twitter: <a  target="_blank" href="https://twitter.com/TechWorkersBER">@TechWorkersBER</a></li>
-      </ul>
+        <li class="social facebook">Facebook: <a  target="_blank" href="https://facebook.com/TechWorkersBER">@TechWorkersBER</a></li>
+        <li class="social twitter">Twitter: <a  target="_blank" href="https://twitter.com/TechWorkersBER">@TechWorkersBER</a></li>
+        <li class="social telegram">Telegram: <a  target="_blank" href="https://t.me/TechWorkersBer">@TechWorkersBER</a></li>
+        <li class="social email">Listserv: To subscribe send an email to <a  target="_blank" href="mailto:newsletter-subscribe@lists.techworkersberlin.com">newsletter-subscribe@lists.techworkersberlin.com</a></li>
+        <li class="social slack" >Join the #local-berlin on Slack, by subscribing <a  target="_blank" href="https://techworkerscoalition.org/subscribe">here</a></li>
 
+      </ul>
 
 global:
   code_of_conduct:
