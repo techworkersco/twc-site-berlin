@@ -18,14 +18,20 @@ email: hello@techworkersco.org
 description: A coalition of tech industry workers, labor organizers, community organizers, and friends cultivating solidarity among all workers in tech.
 url: "https://techworkersberlin.com" # the subpath of your site, e.g. /blog
 baseurl: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: TechWorkersBerlin
 timezone: "Europe/Berlin"
 
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-feed
   - jekyll-multiple-languages-plugin
+  - jekyll-seo-tag
+## SEO, Open Graph etc..
+image: "/assets/css/images/logo.png"
+twitter:
+  username: techworkersber
+facebook:
+  app_id: techworkersber
+##
 
 sass:
   style: compressed
