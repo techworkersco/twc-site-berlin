@@ -14,9 +14,7 @@ This document defines:
 1.2
 
 The Statute exists to foster participation in Berlin TWC by creating a transparent and democratic decisional and organizational framework. 
-
-1.2.1 What it mean to be a member
-
+ 
 1.3
 Berlin TWC has as its primary goal the empowerment of Tech Workers in their industry and in the society at large, in solidarity with other workers. Power here is understood as the capability of collectives to shape their own companies, governments. This goal will be pursued through workers’ organization, workers’ education and the progressive liberation of technological production.
 
@@ -28,7 +26,7 @@ The application and modification of this document must be driven by the principl
 
 The work conducted for and under Berlin TWC should aim to be transparent to the organization itself. While a degree of autonomy is recognized to individuals and Teams for operative purposes, sharing and reporting the activities conducted must be held as an high-priority aspect of one’s own participation in Berlin TWC. 
 
-1.4
+1.5
 
 Modifications to this document can be proposed to the Assembly and can be passed with a majority of (3/4)+1.
 
@@ -42,11 +40,6 @@ A Berlin TWC Assembly is a meeting that is defined by a date, a location and an 
 2.2
 
 A member of Berlin TWC is a person that has been ratified during an Assembly.
-
-[paragraph about registry and authentication]
-Members receive paper membership cards with unique numbers and passphrases.
-[option 1: some kind of key-based offline authentication]
-[option 2: entrust the coordination team with keeping a private list of members and verify documents in cases of contention. It can be fully analog or digital] 
 
 2.2.1
 
