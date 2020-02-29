@@ -26,6 +26,10 @@ Berlin TWC has as its primary goal the empowerment of Tech Workers in their indu
 The application and modification of this document must be driven by the principles of fairness, horizontality, inclusivity organizational scalability and safety of the members. 
 
 
+1.3.1
+
+The members of Berlin TWC should be considered equal among each other and equal to every other worker. A member is expected to show solidarity to other workers through the pursuit of the organization's goals. Each member contributes at the best of their intellectual, physical and economic capabilities.  
+
 1.4 
 
 The work conducted for and under Berlin TWC should aim to be transparent to the organization itself. While a degree of autonomy is recognized to individuals and Teams for operative purposes, sharing and reporting the activities conducted must be held as an high-priority aspect of one’s own participation in Berlin TWC. 
