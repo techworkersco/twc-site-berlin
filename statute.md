@@ -11,19 +11,19 @@ title: Berlin TWC Statute
 
 This document defines:
 * Decision making process of Berlin Tech Workers Coalition (Berlin TWC from now on)
-* How to become a member, and lose membership
+* How to receive and lose membership
 * Working Teams: scope, creation process, disband process
-* Credentials management and sharing
+* Credentials: management and sharing
 
 1.2
 
-The Statute exists to foster participation in Berlin TWC by creating a transparent and democratic decisional and organizational framework. 
+The Statute exists to foster participation in Berlin TWC by creating a transparent and democratic decision making framework.
  
 1.3
 Berlin TWC has as its primary goal the empowerment of Tech Workers in their industry and in the society at large, in solidarity with other workers. Power here is understood as the capability of collectives to shape their own companies, governments. This goal will be pursued through workers’ organization, workers’ education and the progressive liberation of technological production.
 
 
-The application and modification of this document must be driven by the principles of fairness, horizontality, inclusivity organizational scalability and safety of the members. 
+The application and modification of this document must be driven by the principles of fairness, horizontality, inclusivity, organizational growth and safety of the participants. 
 
 
 1.3.1
@@ -56,11 +56,11 @@ The requirements to apply for membership are the following:
 * participation in at least 3 Berlin TWC events within the last six months
 * a sponsorship by a current member of Berlin TWC
 
-The sponsor can present your application and guarantee that you have participated in the past. 
+The sponsor can present your application and vouch that you have participated in the past. 
 
 Any member in the Assembly can raise a case against the applicant. If one or more cases are raised, the Assembly must vote to confirm or reject the applicant. A rejected applicant can apply again after 3 months.
 
-An assembly can revoke the membership to a member that acted against the interests and principles of Berlin TWC. To revoke a membership, a member must raise a case that will be discussed in the Assembly to revoke or confirm the membership.
+During an Assembly, a member can raise a motion to revoke someone's membership, if they have acted against the interests and principles of Berlin TWC. To revoke a membership, a member must raise a case that will be discussed in the Assembly to revoke or confirm the membership.
 
 2.2.2 
 
@@ -78,7 +78,7 @@ Every Team must guarantee total transparency to the Assembly for any matter that
 
 The Assembly respects the organizational autonomy of a Team as long as no other Team or Berlin TWC is impacted.
 
-Participation in a group of a member is decided by the group itself according to their internal necessities and preferences.
+Participation in a Team of a member is decided by the group itself according to their internal necessities and preferences.
 
 3.1 
 
