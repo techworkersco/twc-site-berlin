@@ -49,11 +49,13 @@ A Berlin TWC assembly is a meeting that is defined by a date, a location and an 
 
 A member of Berlin TWC is a person that has been ratified during an assembly.
 
+
+
 2.2.1
 
 The requirements apply for membership applications:
 
-* participation in at least 3 Berlin TWC events within the last six months
+* participation in at least three Berlin TWC events within the last six months
 * a sponsorship by a current member of Berlin TWC
 
 The sponsor can present your application and vouch that you have participated in the past. 
@@ -65,6 +67,22 @@ During an assembly, a member can raise a motion to revoke someone's membership, 
 2.2.2 
 
 Members that physically participate in the assembly have the right to vote. A simple majority is sufficient to approve any decision, unless specified otherwise. The vote is collected by a show of hands.
+
+2.2.3
+
+It is responsibility of the Coordination Team to handle a membership registry. The registry must exist in at least two physical copies. The registry contains a list of IDs of TWC Members together with notes on non-identifying personal physical details. A member receives its ID after the approval vote. It also receives a membership card with the ID printed on it. 
+
+The IDs in the registry should never be paired with identifying or sensitive information.
+
+2.2.4
+
+During a voting session, if the members of the assembly believe that a person participating in the voting session is not a member of Berlin TWC, they can request the validation of the membership.
+
+The validation requires the following steps:
+
+* The Coordination Team verifies that the member is able to produce a membership card
+* The Coordination Team privately verifies that the ID on the card is present in the registry
+* Once found the entry in the registry, they validate that the notes on the physical details match the person.
 
 2.3
 
