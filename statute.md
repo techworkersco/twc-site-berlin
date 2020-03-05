@@ -130,3 +130,6 @@ HSC can be entrusted to a Member by the assembly through a vote and cannot be sh
 Social media accounts, server credentials, and storage of sensitive Berlin TWC data must be regarded as HSC.
 
 
+### 5
+
+Every Berlin TWC is covered by the [Berlin Code of Conduct]. Unacceptable behaviors under the Code of Conduct will be dealt with by the Coordination Team. 
