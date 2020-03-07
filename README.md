@@ -1,6 +1,6 @@
 # Berlin TWC
 
-This repository is responsible for most content visible on the website [TechWorkersBerlin.com](https://TechWorkersBerlin.com). The site is made with a static site generator called [Jekyll](https://jekyllrb.com/) in a language called Ruby
+This repository is responsible for most content visible on the website [TechWorkersBerlin.com](https://TechWorkersBerlin.com). The site is made with a static site generator called [Jekyll](https://jekyllrb.com/) in a language called Ruby.
 
 ## Getting Started
 
