@@ -1,7 +1,11 @@
-## Tech Workers Coalition Berlin
-# Statute
+---
+layout: page
+permalink: /statute
+title: Berlin TWC Statute
+---
+#  Berlin Tech Workers Coalition Statute
 
-# 1 
+### 1 
 
 1.1
 
@@ -30,7 +34,7 @@ The work conducted for and under Berlin TWC should aim to be transparent to the 
 
 Modifications to this document can be proposed to the Assembly and can be passed with a majority of (3/4)+1.
 
-# 2 
+### 2 
 
 2.1
 
@@ -62,7 +66,7 @@ Members that physically participate in the Assembly have the right to vote. A si
 
 Every proposal must be submitted to the Coordination Team at least 3 days before the Assembly. A proposal should be in the form of a binding statement that can be either approved or rejected. If the statement binds a specific Team, it must be said explicitly. 
 
-3
+### 3
 
 A Team is a self-organised group of Berlin TWC members. A member can belong to zero or more teams. Every Team must have at least one Credentials' holder (defined later) for the tools necessary for the team to perform their tasks.
 
@@ -93,7 +97,7 @@ The following Teams hold a special status in Berlin TWC. They must exist at all 
 * Relay Team: The Relay Team is responsible to organise the interaction between Berlin TWC and other organisations and institutions. Any inbound request for collaboration must go through the Relay Team. Ad-hoc Teams can be created for specific projects. They can be entrusted with handling the communication with other relevant institutions in the scope of said projects. In such a case, the ad-hoc Team and the Relay Team must agree on how to handle the interaction with other organizations in order to avoid overlaps and conflicts.
 
 
-4
+### 4
 
 A Credential is defined as a digital or analog capability to access, use, or control a system, location, or digital account belonging to Berlin TWC. A Credential can be a High Security Credential or a Low Security Credential. 
 

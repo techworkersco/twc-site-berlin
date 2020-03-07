@@ -63,6 +63,9 @@ footer_links:
   - url: https://twitter.com/TechWorkersBER
     text: Twitter
     newTab: true
+  - url: /statute
+    text: Statute
+    newTab: false
 
 permalink: pretty
 future: true
