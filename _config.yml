@@ -22,7 +22,11 @@ timezone: "Europe/Berlin"
 
 # Build settings
 markdown: kramdown
+feed:
+  collections:
+    - events
 plugins:
+  - jekyll-feed
   - jekyll-multiple-languages-plugin
   - jekyll-seo-tag
 ## SEO, Open Graph etc..
