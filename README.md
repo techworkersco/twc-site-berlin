@@ -15,8 +15,8 @@ Before proceeding, install [Docker Compose](https://docs.docker.com/compose/inst
 
 ### Without Docker
 
-1. Install dependencies: `bundle install`
-2. Start a local server: `bundle exec jekyll serve`
+1. Install dependencies: `bundle install && npm install`
+2. Start a local server: `npm start && bundle exec jekyll serve`
 3. Verify all internal links are valid: `bundle exec rake`
 
 Open a browser to localhost:4000
