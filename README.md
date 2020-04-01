@@ -45,3 +45,15 @@ Note, only the default [en.yml](_i18n/en.yml) must contain the names of each lan
 
 ### Supported Languages
 * English
+
+## Adding Netlify Build Plugins
+
+Netlify is both our server and continuous integration. It offers [plugins](https://docs.netlify.com/configure-builds/build-plugins/) which can be ran before deploying the site, to either perform some checks or optimizations. Check out our [netlify.toml], it has some build plugins installed. To test them locally on your own machine run:  
+```
+# Ensure that you have the netlify build command available
+# (in future this will be provided via the CLI)
+npm install @netlify/build -g
+
+# In the project working directory, run the build as netlify would with the build bot
+netlify-build
+```

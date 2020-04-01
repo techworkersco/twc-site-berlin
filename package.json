@@ -16,7 +16,10 @@
     "url": "https://github.com/techworkersco/twc-site-berlin/issues"
   },
   "homepage": "https://github.com/techworkersco/twc-site-berlin#readme",
-  "dependencies": {},
+  "dependencies": {
+    "netlify-plugin-a11y": "0.0.6",
+    "netlify-plugin-no-more-404": "0.0.14"
+  },
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
