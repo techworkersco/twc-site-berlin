@@ -5,8 +5,13 @@
   {% for post in sorted_posts limit: limit %}
     <li>
       <div>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        <b>{{ post.date | date: '%A, %d %B, %R' }}</b>
+        {% if post.layout == "event" %}
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          <b>{{ post.date | date: '%A, %d %B, %R' }}</b>
+        {% elsif post.layout == "news" %}
+          📝<a href="{{ post.url }}">{{ post.title }}</a>
+          <b>{{ post.date | date: '%d %B, %Y' }}</b>
+        {% endif %}
       </div>
     </li>
   {% endfor %}
