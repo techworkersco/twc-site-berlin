@@ -1,18 +1,18 @@
-[[plugins]]
-package = "netlify-plugin-image-optim"
-
-[[plugins]]
-package = "netlify-plugin-no-more-404"
-# all inputs are optional, we just show you the defaults below
-  [plugins.inputs]
-
-  # either "warn" or "error"
-  on404 = "error"
-
-[[plugins]]
-package = "netlify-plugin-a11y"
-
-  # all inputs are optional, we just show you the defaults below
-  [plugins.inputs]
-  # required config
-  checkPaths = ['/'] # you can give an array of directories or paths to html files, that you want to run a11y checks on
+# [[plugins]]
+# package = "netlify-plugin-image-optim"
+#
+# [[plugins]]
+# package = "netlify-plugin-no-more-404"
+# # all inputs are optional, we just show you the defaults below
+#   [plugins.inputs]
+#
+#   # either "warn" or "error"
+#   on404 = "error"
+#
+# [[plugins]]
+# package = "netlify-plugin-a11y"
+#
+#   # all inputs are optional, we just show you the defaults below
+#   [plugins.inputs]
+#   # required config
+#   checkPaths = ['/'] # you can give an array of directories or paths to html files, that you want to run a11y checks on
