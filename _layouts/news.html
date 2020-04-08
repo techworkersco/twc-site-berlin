@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<!-- {% assign author = site.data.authors[page.author] %} -->
+<!-- Output author details if some exist. -->
+<style>h1, .main-wrapper h2, h3 {text-align: left; font-weight: bold;}</style>
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    {% if page.author %}
+        <span>
+          <!-- Written by <a href="{{ author.web }}">{{ author.name }}</a> -->
+          Written by {{ page.author}}
+        </span>
+    {% endif %}
+    {% if page.translator %}
+        <span>
+          <!-- Written by <a href="{{ author.web }}">{{ author.name }}</a> -->
+          And translated by {{ page.translator }}
+        </span>
+    {% endif %}
+  </header>
+  <div class="post-content">
+    {{ content }}
+    <h2>Contact info</h2>
+    {% translate home.connect.links %}
+  </div>
+</article>

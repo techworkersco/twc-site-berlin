@@ -25,6 +25,7 @@ markdown: kramdown
 feed:
   collections:
     - events
+    - news
 plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
@@ -63,8 +64,11 @@ footer_links:
     text: Twitter
     newTab: true
 
+permalink: pretty
 future: true
 collections:
+  news:
+    output: true
   events:
     output: true
     permalink: events/:title
@@ -75,3 +79,7 @@ defaults:
       type: "events"
     values:
       layout: "event"
+  - scope:
+      type: "news"
+    values:
+      layout: "news"
