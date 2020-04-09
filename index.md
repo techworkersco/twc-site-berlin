@@ -8,8 +8,8 @@ permalink: /
 
 ## {% t home.events.title %}
 {% t home.events.summary %}
-{% include events.html limit=5%}
 
+{% include all_posts.html limit=7 %}
 ## {% t home.connect.title %}
 {% t home.connect.links %}
 

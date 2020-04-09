@@ -1,0 +1,18 @@
+<ul class="list">
+  {% assign limit = include.limit %}
+  {% assign updates = site.news | concat: site.events %}
+  {% assign sorted_posts = updates | sort: 'date' | reverse %}
+  {% for post in sorted_posts limit: limit %}
+    <li>
+      <div>
+        {% if post.layout == "event" %}
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          <b>{{ post.date | date: '%A, %d %B, %R' }}</b>
+        {% elsif post.layout == "news" %}
+          📝<a href="{{ post.url }}">{{ post.title }}</a>
+          <b>{{ post.date | date: '%d %B, %Y' }}</b>
+        {% endif %}
+      </div>
+    </li>
+  {% endfor %}
+</ul>
