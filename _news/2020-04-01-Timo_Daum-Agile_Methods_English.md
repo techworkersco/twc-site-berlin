@@ -1,6 +1,6 @@
 ---
-date:   2020-04-01 00:00:00 +0200
 title: Agile Methods
+author: timo_daum
 ---
 
 ## Collaborative work culture or digital Taylorism?
