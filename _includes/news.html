@@ -1,0 +1,21 @@
+<ul class=" article-list list">
+  {% assign limit = include.limit %}
+  {% assign sorted_posts = site.news | sort: 'date' | reverse %}
+  {% for post in sorted_posts limit: limit %}
+    <li>
+      <div class="article-list-item">
+      <a href="{{post.url}}">
+        <span class="article-title">{{post.title}}</span>
+        {% assign author = site.data.authors[post.author] %}
+        {% if author %}
+          {% if author.picture %}
+            <img class="author-profile-image" src="{{author.picture}}" alt="{{author.name}}">
+          {% endif %}
+          <div>{{ author.name }}</div>
+        {% endif %}
+        <time class="news" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%-d %B %Y' }}</time>
+      </a>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

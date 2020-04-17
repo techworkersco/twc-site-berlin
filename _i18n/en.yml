@@ -8,6 +8,9 @@ home:
     title: Latest Events
     summary: Find [all upcoming events here](/events)
 
+  news:
+    title: Recent articles
+
   connect:
     title: Connect
     links: |
