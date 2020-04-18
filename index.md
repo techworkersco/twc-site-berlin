@@ -1,5 +1,6 @@
 ---
 layout: translated
+namespace: index
 permalink: /
 ---
 

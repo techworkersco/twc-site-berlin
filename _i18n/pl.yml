@@ -1,0 +1,32 @@
+langs:
+  pl: Polski
+
+home:
+  summary: 'Zgodnie ze znanym motto: "go fast and break things" startupy rozwijają się szybko, lecz równie szybko potrafią odcisnąć swe piętno na okolicy. Przyspieszają gentryfikację, pogłębiają luki płacowe między branżami i wypychają pracowników nietechnicznych z dzielnic, w których powstają nowe przedsiębiorstwa. Ale nie musi tak być. Jako część szerszej, ogólnoświatowej grupy, Berlin Tech Workers Coalition to oddolna organizacja, która wspiera pracowników ze startupów oraz branży IT w budowaniu silnej wspólnoty i angażowaniu się w kampanie, które mają pozytywny wpływ na nasze społeczeństwo.'
+
+  news:
+    title: Najnowsze artykuły
+
+  events:
+    title: Nadchodzące wydarzenia
+    summary: Zerknij, co planujemy w najbliższym czasie—albo przejrzyj całe [archiwum wydarzeń](/events).
+
+  connect:
+    title: Dołącz do naszej społeczności
+    links: |
+      <ul>
+        <li class="social facebook">Facebook: <a rel="noopener noreferrer" target="_blank" href="https://facebook.com/TechWorkersBER">@TechWorkersBER</a></li>
+        <li class="social twitter">Twitter: <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/TechWorkersBER">@TechWorkersBER</a></li>
+        <li class="social telegram">Telegram: <a rel="noopener noreferrer" target="_blank" href="https://t.me/TechWorkersBer">@TechWorkersBER</a></li>
+        <li class="social email">Listserv: Zapisz się do naszego anglojęzycznego newslettera - wystarczy, że wyślesz email na <a rel="noopener noreferrer" target="_blank" href="mailto:newsletter-subscribe@lists.techworkersberlin.com">newsletter-subscribe@lists.techworkersberlin.com</a></li>
+        <li class="social slack" >Dołącz do (anglojęzycznego) <a rel="noopener noreferrer" target="_blank" href="https://techworkerscoalition.org/subscribe">Slacka Tech Workers Coalition</a> - znajdziesz nas na kanale <b>#local-berlin</b></li>
+      </ul>
+
+global:
+  code_of_conduct:
+    title: Regulamin
+    summary: Wszystkie spotkania oraz komunikacja podlegają <a rel="noopener noreferrer" target="_blank" href="https://berlincodeofconduct.org/pl/">Berlińskiemu Kodeksowi Postępowania</a>. Prywatność i bezpieczeństwo członków naszych spotkań jest dla nas ważne; robienie zdjęć i filmów oraz udostępnianie tożsamości uczestników jest surowo zabronione, chyba, że dani uczestnicy wyrażą na to zgodę.
+
+  accessibility:
+    title: Dostępność
+    summary: Nieustannie pracujemy nad tym, by Berlin Tech Workers Collective było jak najbardziej dostępne. Staramy się, by spotkania odbywały się w miejscach dostępnych dla wózków inwalidzkich, bez dymu, za to z opieką dla dzieci oraz krótkim czasem trwania. Aby każdy mógł się odpowiednio przygotować, przed spotkaniami udostępniamy informacje o lokalizacji, łącznie z opisem wejścia, oświetlenia i poziomu hałasu, oraz zasadach dotyczących psów i psów-przewodników. Jeśli masz opinie lub sugestie dotyczące dostępności naszych spotkań, strony lub działań, napisz do nas na <email>

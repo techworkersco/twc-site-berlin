@@ -44,8 +44,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor/bundle/
-languages: ["en"]
-exclude_from_localizations: ["assets"]
+languages: ["en", "pl"]
+exclude_from_localizations: ["assets", "admin", "vendor"]
 header_links:
   - url: /learning
     text: Learn

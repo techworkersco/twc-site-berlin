@@ -23,7 +23,11 @@ Open a browser to localhost:4000
 
 ## Add an event
 
-Add file inside the [`_events`](_events) directory. Copy a previous file as a template, and make sure to include the right time zone for Berlin!
+Add a file inside the [`_events`](_events) directory. Copy a previous file as a template, and make sure to include the right time zone for Berlin!
+
+## Add an article/news/post
+
+Add a file inside the [`_news`](_news) directory. Copy a previous file as a template. If an author does not exist, add one inside [`_data/authors.yml`](_data/authors.yml). A name is only thing necessary, but photo is optional too.
 
 ## Translation
 
@@ -33,7 +37,6 @@ I18n (internationalization) is made available with the [jekyll-multiple-language
 1. Add new language key to [en.yml](_i18n/en.yml)
 2. Add two letter iso code in [config](_config.yml). The order here determines the order shown on the page. English must be first.
 3. Inside the [i18n](_i18n) directory create a
-  - `LANGUAGE/` directory (where LANGUAGE is two letter ISO code for that language)
   - `LANGUAGE.yml` with the language key and value in its own language, for example `es: Español`
 
 Note, only the default [en.yml](_i18n/en.yml) must contain the names of each language. The other language yaml files contain just their own language key.
@@ -41,10 +44,11 @@ Note, only the default [en.yml](_i18n/en.yml) must contain the names of each lan
 ![Screen Shot 2019-07-21 at 14 48 46](https://user-images.githubusercontent.com/7111514/61591397-cb0cd180-abc6-11e9-9876-1577d5c8b4bd.png)
 
 ### Supported Pages
-* Landing Page (home.html in each Language directory)
+* Landing Page [index.yml](_i18n/index.yml)
 
 ### Supported Languages
 * English
+* Polish/Polski
 
 ## Adding Netlify Build Plugins
 
