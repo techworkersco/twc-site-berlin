@@ -2,7 +2,8 @@ langs:
   en: English
 
 home:
-  summary: Tech Workers have a lot of potential power to change society. Anyone who identifies as a tech worker and is interested in learning how to build collective power or get involved in a campaign is welcome.
+  summary: The tech industry is "disruptive", —— including but not limited to gentrification, wage gaps, environmental pollution and militarism. But it does not have to be that way. The Berlin Tech Workers Coalition is a grassroots organization that empowers tech workers to build collective power and get involved in campaigns that make a positive impact on our society.
+
 
   events:
     title: Latest Events
@@ -15,9 +16,8 @@ home:
         <li class="social facebook">Facebook: <a rel="noopener noreferrer" target="_blank" href="https://facebook.com/TechWorkersBER">@TechWorkersBER</a></li>
         <li class="social twitter">Twitter: <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/TechWorkersBER">@TechWorkersBER</a></li>
         <li class="social telegram">Telegram: <a rel="noopener noreferrer" target="_blank" href="https://t.me/TechWorkersBer">@TechWorkersBER</a></li>
-        <li class="social email">Listserv: To subscribe send an email to <a rel="noopener noreferrer" target="_blank" href="mailto:newsletter-subscribe@lists.techworkersberlin.com">newsletter-subscribe@lists.techworkersberlin.com</a></li>
+        <li class="social email">Newsletter: To subscribe to our weekly newsletter, <a rel="noopener noreferrer" target="_blank" href="mailto:newsletter-subscribe@lists.techworkersberlin.com">send us an email</a></li>
         <li class="social slack" ><a rel="noopener noreferrer" target="_blank" href="https://techworkerscoalition.org/subscribe">Join the #local-berlin on Slack</a></li>
-
       </ul>
 
 global:
@@ -26,4 +26,4 @@ global:
     summary: All meetings and communications are covered under the a <a rel="noopener noreferrer" target="_blank" href="https://berlincodeofconduct.org">Berlin Code of Conduct</a>. The privacy and safety of our members is important to us. Sharing the identity of members and or taking/sharing photos are strictly forbidden unless express consent is given.
   accessibility:
     title: Accessibility
-    summary: We understand accessibility in a broad sense and strive to do better. We try to host meetings that are wheelchair accessible, smoke free, short(er) and provide child care.
+    summary: We understand accessibility in a broad sense and strive to do better. We try to host meetings that are wheelchair accessible, smoke free, short(er) and provide child care. We provide information on the meeting location, including a description of the entrance, lighting and sounds, and policy around companion and service dogs beforehand so that participants can best plan for their visit. If you have feedback or questions regarding the accessibility of our meetings or initiatives, please get in touch at <a rel="noopener noreferrer" target="_blank" href="mailto:accessibility@techworkersberlin.com">accessibility@techworkersberlin.com</a>.
