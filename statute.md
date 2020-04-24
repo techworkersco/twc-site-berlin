@@ -28,7 +28,7 @@ The application and modification of this document must be driven by the principl
 
 1.3.1
 
-The members of Berlin TWC should be considered equal among each other and equal to every other worker. A member is expected to show solidarity to other workers through the pursuit of the organisation's goals. Each member contributes at the best of their intellectual, physical and economic capabilities.  
+The members of Berlin TWC should be considered equal among each other and equal to every other worker. A member is expected to show solidarity to other workers through the pursuit of the organisation's goals. Every member is expected to contribute to the best of their abilities.  
 
 1.4 
 
@@ -42,7 +42,7 @@ Modifications to this document can be proposed to the assembly and can be passed
 
 2.1
 
-A Berlin TWC assembly is a meeting that is defined by a date, a location and an agenda produced by the Coordination team (defined later). 
+A Berlin TWC assembly is a meeting that is defined by a date, a location (physical or digital) and an agenda produced by the Coordination team (defined later). 
 
 
 2.2
@@ -117,7 +117,7 @@ The following teams hold a special status in Berlin TWC. They must exist at all 
 * Coordination Team: Concerned with organizing and moderate the assembly, accepting proposals for the agenda, communicating when and where the assembly will be held. The Coordination team is responsible for the accessibility of the assembly.
 * Press Team: Authorized to speak with journalists and conduct interviews on behalf of Berlin TWC. Press team also maintains a list of contacts, for press releases in service of Berlin TWC and tech worker organizing as a whole.
 * Relay Team: The Relay team is responsible to coordinate the interaction between Berlin TWC and other organisations and institutions. Any inbound request for collaboration must go through the Relay team. Ad-hoc teams can be created for specific projects. They can be entrusted with handling the communication between relevant institutions in the scope of said projects. In such a case, the ad-hoc team and the Relay team must agree on how to handle the interaction with other organisations in order to avoid overlaps and conflicts.
-
+* Steering Committee: The Steering Committee holds executive power and is in charge of defining the strategy of Berlin TWC. The responsibility of the Steering Committee is to translate the will of the Assembly into actionables steps, prioritize them and proactively engage other teams, enabling them to take action over the planned steps.  
 
 ### 4
 
