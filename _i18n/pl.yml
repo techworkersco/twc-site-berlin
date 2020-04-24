@@ -2,7 +2,7 @@ langs:
   pl: Polski
 
 home:
-  summary: 'Zgodnie ze znanym motto: "go fast and break things" startupy rozwijają się szybko, lecz równie szybko potrafią odcisnąć swe piętno na okolicy. Przyspieszają gentryfikację, pogłębiają luki płacowe między branżami i wypychają pracowników nietechnicznych z dzielnic, w których powstają nowe przedsiębiorstwa. Ale nie musi tak być. Jako część szerszej, ogólnoświatowej grupy, Berlin Tech Workers Coalition to oddolna organizacja, która wspiera pracowników ze startupów oraz branży IT w budowaniu silnej wspólnoty i angażowaniu się w kampanie, które mają pozytywny wpływ na nasze społeczeństwo.'
+  summary: 'Zgodnie ze znanym motto: "move fast and break things" startupy rozwijają się szybko, lecz równie szybko potrafią odcisnąć swe piętno na okolicy. Przyspieszają gentryfikację, pogłębiają luki płacowe między branżami i wypychają pracowników nietechnicznych z dzielnic, w których powstają nowe przedsiębiorstwa. Ale nie musi tak być. Jako część szerszej, ogólnoświatowej grupy, Berlin Tech Workers Coalition to oddolna organizacja, która wspiera pracowników ze startupów oraz branży IT w budowaniu silnej wspólnoty i angażowaniu się w kampanie, które mają pozytywny wpływ na nasze społeczeństwo.'
 
   news:
     title: Najnowsze artykuły
@@ -30,3 +30,15 @@ global:
   accessibility:
     title: Dostępność
     summary: Nieustannie pracujemy nad tym, by Berlin Tech Workers Collective było jak najbardziej dostępne. Staramy się, by spotkania odbywały się w miejscach dostępnych dla wózków inwalidzkich, bez dymu, za to z opieką dla dzieci oraz krótkim czasem trwania. Aby każdy mógł się odpowiednio przygotować, przed spotkaniami udostępniamy informacje o lokalizacji, łącznie z opisem wejścia, oświetlenia i poziomu hałasu, oraz zasadach dotyczących psów i psów-przewodników. Jeśli masz opinie lub sugestie dotyczące dostępności naszych spotkań, strony lub działań, napisz do nas na <email>
+
+pl:
+  time:
+    formats:
+      default: "%A %d %b %Y r. %H:%M"
+      long: "%B %d, %Y r. %H:%M"
+      short: "%d %b %H:%M"
+  date:
+    order:
+    - :day
+    - :month
+    - :year
