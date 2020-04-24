@@ -7,7 +7,7 @@
       <div>
         {% if post.layout == "event" %}
           <a href="{{ post.url }}">{{ post.title }}</a>
-          <b>{{ post.date | date: '%A, %d %B, %R' }}</b>
+          <b>{{ post.date | localize: site.lang }}</b>
         {% elsif post.layout == "news" %}
           📝<a href="{{ post.url }}">{{ post.title }}</a>
           <b>{{ post.date | date: '%d %B, %Y' }}</b>

@@ -8,6 +8,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
+    coderay (1.1.2)
     colorator (1.1.0)
     concurrent-ruby (1.1.6)
     em-websocket (0.5.1)
@@ -59,6 +60,7 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
+    method_source (1.0.0)
     mini_portile2 (2.4.0)
     minitest (5.11.3)
     nokogiri (1.10.8)
@@ -66,6 +68,9 @@ GEM
     parallel (1.17.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+    pry (0.13.1)
+      coderay (~> 1.1)
+      method_source (~> 1.0)
     public_suffix (4.0.3)
     rainbow (3.0.0)
     rake (12.3.3)
@@ -91,10 +96,12 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer
+  i18n
   jekyll (= 3.8.5)
   jekyll-feed (~> 0.11)
   jekyll-multiple-languages-plugin
   jekyll-seo-tag
+  pry
   rake
   tzinfo-data
 

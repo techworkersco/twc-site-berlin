@@ -1,9 +1,9 @@
 langs:
   en: English
+  pl: Polski
 
 home:
-  summary: The tech industry is "disruptive", —— including but not limited to gentrification, wage gaps, environmental pollution and militarism. But it does not have to be that way. The Berlin Tech Workers Coalition is a grassroots organization that empowers tech workers to build collective power and get involved in campaigns that make a positive impact on our society.
-
+  summary: The tech industry is "disruptive", — including but not limited to gentrification, wage gaps, environmental pollution and militarism. But it does not have to be that way. The Berlin Tech Workers Coalition is a grassroots organization that empowers tech workers to build collective power and get involved in campaigns that make a positive impact on our society.
 
   events:
     title: Latest Events
@@ -30,3 +30,60 @@ global:
   accessibility:
     title: Accessibility
     summary: We understand accessibility in a broad sense and strive to do better. We try to host meetings that are wheelchair accessible, smoke free, short(er) and provide child care. We provide information on the meeting location, including a description of the entrance, lighting and sounds, and policy around companion and service dogs beforehand so that participants can best plan for their visit. If you have feedback or questions regarding the accessibility of our meetings or initiatives, please get in touch at <a rel="noopener noreferrer" target="_blank" href="mailto:accessibility@techworkersberlin.com">accessibility@techworkersberlin.com</a>.
+
+# Keys used by localize filter as defined in _plugins/i18n_filter.rb
+en:
+  time:
+    formats:
+      default: "%A, %d %b %Y %H:%M"
+      long: "%B %d, %Y %H:%M"
+      short: "%d %b %H:%M"
+  date:
+    order:
+      - :day
+      - :month
+      - :year
+    abbr_day_names:
+      - Sun
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+    abbr_month_names:
+      -
+      - Jan
+      - Feb
+      - Mar
+      - Apr
+      - May
+      - Jun
+      - Jul
+      - Aug
+      - Sep
+      - Oct
+      - Nov
+      - Dec
+    day_names:
+      - Sunday
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+    month_names:
+      -
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
