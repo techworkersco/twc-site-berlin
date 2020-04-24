@@ -12,7 +12,7 @@ I18n.enforce_available_locales = false
 # add new locale keys from https://github.com/svenfuchs/rails-i18n/tree/master/rails/locale
 module Jekyll
   module I18nFilter
-    def localize(input, format=nil)
+    def localize(input, locale, format=nil)
       if input.is_a? String
         date_format = Date.parse(input)
       else
