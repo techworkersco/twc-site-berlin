@@ -117,7 +117,8 @@ The following teams hold a special status in Berlin TWC. They must exist at all 
 * Coordination Team: Concerned with organizing and moderate the assembly, accepting proposals for the agenda, communicating when and where the assembly will be held. The Coordination team is responsible for the accessibility of the assembly.
 * Press Team: Authorized to speak with journalists and conduct interviews on behalf of Berlin TWC. Press team also maintains a list of contacts, for press releases in service of Berlin TWC and tech worker organizing as a whole.
 * Relay Team: The Relay team is responsible to coordinate the interaction between Berlin TWC and other organisations and institutions. Any inbound request for collaboration must go through the Relay team. Ad-hoc teams can be created for specific projects. They can be entrusted with handling the communication between relevant institutions in the scope of said projects. In such a case, the ad-hoc team and the Relay team must agree on how to handle the interaction with other organisations in order to avoid overlaps and conflicts.
-* Steering Committee: The Steering Committee holds executive power and is in charge of defining the strategy of Berlin TWC. The responsibility of the Steering Committee is to translate the will of the Assembly into actionables steps, prioritize them and proactively engage other teams, enabling them to take action over the planned steps.  
+* Steering Committee: The Steering Committee holds executive power and is in charge of defining the strategy of Berlin TWC. The responsibility of the Steering Committee is to translate the will of the Assembly into actionables steps, prioritize them and proactively engage other teams, enabling them to take action over the planned steps. The Steering committee must be composed at all times by exactly five members. The Steering Committee is disbanded automatically six months after it's established. 
+
 
 ### 4
 
