@@ -7,3 +7,8 @@ igm_berlin:
   name: IGMetall Berlin
   twitter: IGMetall_Berlin
   picture: /assets/img/authors/igm_berlin.jpg
+
+techworkersber:
+  name: Berlin Tech Workers Coalition
+  twitter: TechWorkersBER
+  picture: /assets/css/images/logo.png

@@ -6,7 +6,7 @@
       <div class="article-list-item">
       <a href="{{post.url}}">
         <span class="article-title">{{post.title}}</span>
-        {% assign author = site.data.authors[post.author] %}
+        {% assign author = site.data.authors[post.author] | default: site.data.authors['techworkersber'] %}
         {% if author %}
           {% if author.picture %}
             <img class="author-profile-image" src="{{author.picture}}" alt="{{author.name}}">
