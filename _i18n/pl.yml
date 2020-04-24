@@ -34,7 +34,7 @@ global:
 pl:
   time:
     formats:
-      default: "%A %d %b %Y r. %H:%M"
+      default: "%A, %d.%m.%Y r. o %H:%M"
       long: "%B %d, %Y r. %H:%M"
       short: "%d %b %H:%M"
   date:
@@ -42,3 +42,12 @@ pl:
     - :day
     - :month
     - :year
+
+    day_names:
+      - niedziela
+      - poniedziałek
+      - wtorek
+      - środa
+      - czwartek
+      - piątek
+      - sobota

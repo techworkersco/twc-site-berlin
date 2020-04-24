@@ -21,15 +21,6 @@
            'Wrz.', 'Paź.', 'Lis.', 'Gru.']
         end
       },
-      :day_names => lambda { |date_or_time, opts|
-        if opts[:format] =~ /^%A/
-          ['Niedziela', 'Poniedziałek', 'Wtorek', 'Środa', 'Czwartek',
-           'Piątek', 'Sobota']
-        else
-          ['niedziela', 'poniedziałek', 'wtorek', 'środa', 'czwartek',
-           'piątek', 'sobota']
-        end
-      },
       :abbr_day_names => lambda { |date_or_time, opts|
         if opts[:format] =~ /^%a/
           ['Niedz.', 'Pon.', 'Wt.', 'Śr.', 'Czw.', 'Pt.', 'Sob.']
