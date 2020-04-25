@@ -24,14 +24,14 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE{% for post in site.events %}
 BEGIN:VEVENT
-UID:{{ post.date | date: "%Y%m%d" }}@bephpug.de
+UID:{{ post.date | date: "%Y%m%d" }}@techworkersberlin.com
 ORGANIZER;CN="Berlin TWC":MAILTO:contact@techworkersberlin.com
 LOCATION:Berlin
 SUMMARY:{{ post.title | remove: ',' | remove: ';' }}
-DESCRIPTION:Meetings start at {{ post.date | date: "%H:%M" }} Berlin time. More info at {{ site.url }}{{ post.url }}
+DESCRIPTION:Event starts at {{ post.date | date: "%H:%M" }} Berlin time. More info at {{ site.url }}{{ post.url }}
 CLASS:PUBLIC
-DTSTART:{{ post.date | date: "%Y%m%d" }}T170000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T190000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T170000Z
+DTSTART:{{ post.date | date: "%Y%m%dT%H%M00" }}
+DTEND:{{ post.end_date | default: post.date | date:'%s' | plus:7200 | date: "%Y%m%dT%H%M00"  }}
+DTSTAMP:{{ "site.time" | date: "%Y%m%dT%H%M00" }}
 END:VEVENT{% endfor %}
 END:VCALENDAR
