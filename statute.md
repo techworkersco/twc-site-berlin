@@ -6,7 +6,7 @@ version: 1.0.0
 ---
 #  {{page.title}}
 
-## 1
+### 1
 
 1.1
 
@@ -21,6 +21,7 @@ This document defines:
 The statute exists to foster participation in Berlin TWC by creating a transparent and democratic decision making framework.
 
 1.3
+
 The primary goal of Berlin TWC is the empowerment of Tech Workers in their industry and in the society at large, in solidarity with other workers. Power here is understood as the capability of collectives to shape their own companies, governments. This goal will be pursued through workers’ organisation, workers’ education and the progressive liberation of technological production.
 
 
@@ -39,7 +40,7 @@ The work conducted by and for Berlin TWC should aim to be transparent within the
 
 Modifications to this document can be proposed to the assembly and can be passed with a majority of (3/4)+1.
 
-## 2
+### 2
 
 2.1
 
@@ -89,7 +90,7 @@ The validation requires the following steps:
 
 Every proposal must be submitted to the Coordination team at least 3 days before the assembly. A proposal should be in the form of a binding statement that can be either approved or rejected. If the statement binds a specific team, it must be said explicitly.
 
-## 3
+### 3
 
 A team is a self-organised group of Berlin TWC members. A member can belong to zero or more teams. Every team must have at least one credentials holder (defined later) with the tools necessary for the team to perform their tasks.
 
@@ -121,7 +122,7 @@ The following teams hold a special status in Berlin TWC. They must exist at all 
 * Steering Committee: The Steering Committee holds executive power and is in charge of defining the strategy of Berlin TWC. The responsibility of the Steering Committee is to translate the will of the Assembly into actionables steps, prioritise them and proactively engage other teams, enabling them to take action over the planned steps. The Steering committee must be composed at all times by exactly five members. The Steering Committee is disbanded automatically six months after it's established.
 
 
-## 4
+### 4
 
 A credential is defined as a digital or analog capability to access, use, or control a system, location, or digital account belonging to Berlin TWC. A credential can be a High Security Credential(HSC) or a Low Security Credential(LSC).
 
@@ -132,7 +133,6 @@ HSC can be entrusted to a Member by the assembly through a vote and cannot be sh
 Social media accounts, server credentials, and storage of sensitive Berlin TWC data must be regarded as HSC.
 
 
-## 5
+### 5
 
 Every Berlin TWC is covered by the [Berlin Code of Conduct]. Unacceptable behaviours under the Code of Conduct will be dealt with by the Coordination Team.
-
