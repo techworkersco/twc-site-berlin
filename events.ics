@@ -1,0 +1,37 @@
+---
+layout: null
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://techworkersberlin.com/
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE{% for post in site.events %}
+BEGIN:VEVENT
+UID:{{ post.date | date: "%Y%m%d" }}@bephpug.de
+ORGANIZER;CN="Berlin TWC":MAILTO:contact@techworkersberlin.com
+LOCATION:Berlin
+SUMMARY:{{ post.title | remove: ',' | remove: ';' }}
+DESCRIPTION:Meetings start at {{ post.date | date: "%H:%M" }} Berlin time. More info at {{ site.url }}{{ post.url }}
+CLASS:PUBLIC
+DTSTART:{{ post.date | date: "%Y%m%d" }}T170000Z
+DTEND:{{ post.date | date: "%Y%m%d" }}T190000Z
+DTSTAMP:{{ post.date | date: "%Y%m%d" }}T170000Z
+END:VEVENT{% endfor %}
+END:VCALENDAR

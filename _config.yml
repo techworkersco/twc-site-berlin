@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Berlin Tech Workers Coalition
-email: hello@techworkersco.org
+email: contact@techworkerberlin.com
 description: A coalition of tech industry workers, labor organizers, community organizers, and friends cultivating solidarity among all workers in tech.
 url: "https://techworkersberlin.com" # the subpath of your site, e.g. /blog
 baseurl: "" # the base hostname & protocol for your site, e.g. http://example.com
