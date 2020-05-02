@@ -32,6 +32,6 @@ DESCRIPTION:Event starts at {{ post.date | date: "%H:%M" }} Berlin time. More in
 CLASS:PUBLIC
 DTSTART:{{ post.date | date: "%Y%m%dT%H%M00" }}
 DTEND:{{ post.end_date | default: post.date | date:'%s' | plus:7200 | date: "%Y%m%dT%H%M00"  }}
-DTSTAMP:{{ "site.time" | date: "%Y%m%dT%H%M00" }}
+DTSTAMP:{{ "now" | date: "%Y%m%dT%H%M00" }}
 END:VEVENT{% endfor %}
 END:VCALENDAR
