@@ -30,6 +30,8 @@ plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
   - jekyll-seo-tag
+  - jekyll-sitemap
+
 ## SEO, Open Graph etc..
 image: "/assets/css/images/logo.png"
 twitter:
