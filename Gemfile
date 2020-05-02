@@ -21,6 +21,7 @@ group :jekyll_plugins do
    gem "jekyll-multiple-languages-plugin"
    gem "jekyll-seo-tag"
    gem "jekyll-feed", "~> 0.11"
+   gem "jekyll-sitemap"
 end
 
 group :development do
