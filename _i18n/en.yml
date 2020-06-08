@@ -13,6 +13,7 @@ home:
     title: Recent articles
 
   connect:
+    info: Contact info
     title: Connect
     links: |
       <ul>

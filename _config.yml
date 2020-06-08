@@ -38,7 +38,13 @@ twitter:
   username: techworkersber
 facebook:
   app_id: 105285494190738
-##
+
+social:
+  name: Berlin Tech Workers Coalition
+  links:
+    - https://twitter.com/TechWorkersBER
+    - https://www.facebook.com/TechWorkersBER
+
 
 sass:
   style: compressed
