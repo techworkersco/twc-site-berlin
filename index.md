@@ -7,9 +7,10 @@ permalink: /
 <style>h1, .main-wrapper h2, h3 {text-align: left; font-weight: bold;}</style>
 {% t home.summary %}
 
-## {% t home.black_lives_matter.title %}
-{% t home.black_lives_matter.summary %}
-
+<div class="bg-black">
+  <h2>{% t home.black_lives_matter.title %}</h2>
+  {% t home.black_lives_matter.summary %}
+</div>
 ## {% t home.events.title %}
 {% t home.events.summary %}
 {% include events.html limit=5 %}

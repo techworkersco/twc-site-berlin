@@ -110,7 +110,6 @@ main {
   }
 }
 
-
 footer {
   box-shadow: -2px 0 10px rgba(0, 0, 0, 0.2);
   background-color: white;
@@ -279,4 +278,19 @@ img {
 
 time.news {
   color: $grey
+}
+
+.bg-black,{
+  background: $black;
+  color: $white;
+  padding: 5px 20px 20px;
+
+  a:hover {
+    color: $white;
+  }
+}
+
+.bg-black h2 {
+  background: $black;
+  color: $white;
 }
