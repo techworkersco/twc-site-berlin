@@ -294,3 +294,28 @@ time.news {
   background: $black;
   color: $white;
 }
+
+input.input-text {
+  margin-bottom: 5px;
+  border-radius: 5px;
+  border-color: $grey;
+  border-style: solid;
+  border-width: 1px;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.subscribe-button {
+  border-color: transparent;
+  background-color: #212121;
+  color: white;
+  padding: 8px 25px;
+  border-radius: 8px;
+  border-width: 1px;
+
+  &:hover {
+    background-color: #E6141B;
+  }
+}

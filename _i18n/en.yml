@@ -16,17 +16,17 @@ home:
   news:
     title: Recent articles
 
-  connect:
-    info: Contact info
-    title: Connect
-    links: |
-      <ul>
-        <li class="social facebook">Facebook: <a rel="noopener noreferrer" target="_blank" href="https://facebook.com/TechWorkersBER">@TechWorkersBER</a></li>
-        <li class="social twitter">Twitter: <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/TechWorkersBER">@TechWorkersBER</a></li>
-        <li class="social telegram">Telegram: <a rel="noopener noreferrer" target="_blank" href="https://t.me/TechWorkersBer">@TechWorkersBER</a></li>
-        <li class="social email">Newsletter: To subscribe to our weekly newsletter, <a rel="noopener noreferrer" target="_blank" href="mailto:newsletter-subscribe@lists.techworkersberlin.com">send us an email</a></li>
-        <li class="social slack" ><a rel="noopener noreferrer" target="_blank" href="https://techworkerscoalition.org/subscribe">Join the #local-berlin on Slack</a></li>
-      </ul>
+connect:
+  info: Get involved
+  title: Connect
+  email: Email
+  name: Name
+  public_link: Public link
+  company: Your employer
+  how_did_hear: How did you hear about us?
+  subscribe_to_slack: Subscribe to Slack
+  subscribe_to_newsletter: Subscribe to Newsletter
+  subscribe: Subscribe
 
 global:
   code_of_conduct:

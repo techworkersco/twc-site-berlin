@@ -18,8 +18,8 @@ permalink: /
 ## {% t home.news.title %}
 {% include news.html limit=3 %}
 
-## {% t home.connect.title %}
-{% t home.connect.links %}
+## {% t connect.title %}
+{% include links.html %}
 
 ## {% t global.accessibility.title %}
 {% t global.accessibility.summary %}
