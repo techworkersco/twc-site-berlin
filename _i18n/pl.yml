@@ -11,17 +11,19 @@ home:
     title: Nadchodzące wydarzenia
     summary: Zerknij, co planujemy w najbliższym czasie—albo przejrzyj całe [archiwum wydarzeń](/events).
 
-  connect:
-    info: informacje kontaktowe
-    title: Dołącz do naszej społeczności
-    links: |
-      <ul>
-        <li class="social facebook">Facebook: <a rel="noopener noreferrer" target="_blank" href="https://facebook.com/TechWorkersBER">@TechWorkersBER</a></li>
-        <li class="social twitter">Twitter: <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/TechWorkersBER">@TechWorkersBER</a></li>
-        <li class="social telegram">Telegram: <a rel="noopener noreferrer" target="_blank" href="https://t.me/TechWorkersBer">@TechWorkersBER</a></li>
-        <li class="social email">Listserv: Zapisz się do naszego anglojęzycznego newslettera - wystarczy, że wyślesz email na <a rel="noopener noreferrer" target="_blank" href="mailto:newsletter-subscribe@lists.techworkersberlin.com">newsletter-subscribe@lists.techworkersberlin.com</a></li>
-        <li class="social slack" >Dołącz do (anglojęzycznego) <a rel="noopener noreferrer" target="_blank" href="https://techworkerscoalition.org/subscribe">Slacka Tech Workers Coalition</a> - znajdziesz nas na kanale <b>#local-berlin</b></li>
-      </ul>
+connect:
+  info: informacje kontaktowe
+  title: Dołącz do naszej społeczności
+  email: Adres e-mail
+  info:
+  title:
+  name:
+  public_link:
+  company:
+  how_did_hear:
+  subscribe_to_slack:
+  subscribe_to_newsletter:
+  subscribe:
 
 global:
   code_of_conduct:
