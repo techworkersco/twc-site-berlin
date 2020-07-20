@@ -57,9 +57,9 @@ exclude_from_localizations: ["assets", "admin", "vendor"]
 header_links:
   - url: /learning
     text: Learn
-  - url: /#connect
-    text: Connect
   - url: /events
+    text: Events
+  - url: /join
     text: Join
 footer_links:
   - url: /learning
