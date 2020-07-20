@@ -1,0 +1,93 @@
+langs:
+  de: Deutsch
+
+home:
+  summary: Technologiefirmen sind innovativ und disruptiv — und verursachen dabei u.a. Gentrifizierung, Lohngefälle, Umweltzerstörung und Militarisierung. Aber das muss nicht so sein. Die Berlin Tech Workers Coalition ist eine Basisbewegung, in der sich Arbeiter*innen im Technologiesektor zusammenschließen, um kollektive Organisationsformen aufzubauen und Kampagnen zu führen, die digitale Technologien für statt gegen eine progressive gesellschaftliche Entwicklung denken.
+
+  black_lives_matter:
+    title: Black Lives Matter
+    summary: Wir rufen alle Tech Arbeiter*innen zur Solidarität mit Black Lives Matter und der Unterstützung im Kampf gegen Rassismus in allen Formen auf. Initiativen, die ihr unterstützen könnt sind neben vielen anderen <a href="https://www.blacklivesmatterberlin.de" >Black Lives Matter Berlin</a>, <a href="http://isdonline.de" >Initiative Schwarze Menschen in Deutschland (ISD)</a>, <a href="https://www.eoto-archiv.de" >Each One Teach One</a>
+
+  events:
+    title: Events
+    summary: Alle vergangenen [events](/events)
+
+  news:
+    title: Artikel
+
+  connect:
+    info: Kontakt
+    title: Kontakt
+    links: |
+      <ul>
+        <li class="social facebook">Facebook: <a rel="noopener noreferrer" target="_blank" href="https://facebook.com/TechWorkersBER">@TechWorkersBER</a></li>
+        <li class="social twitter">Twitter: <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/TechWorkersBER">@TechWorkersBER</a></li>
+        <li class="social telegram">Telegram: <a rel="noopener noreferrer" target="_blank" href="https://t.me/TechWorkersBer">@TechWorkersBER</a></li>
+        <li class="social email">Newsletter: To subscribe to our weekly newsletter, <a rel="noopener noreferrer" target="_blank" href="mailto:newsletter-subscribe@lists.techworkersberlin.com">send us an email</a></li>
+        <li class="social slack" ><a rel="noopener noreferrer" target="_blank" href="https://techworkerscoalition.org/subscribe">Join the #local-berlin on Slack</a></li>
+      </ul>
+
+global:
+  code_of_conduct:
+    title: Code of Conduct
+    summary: Sämtliche Kommunikation, persönliche und virtuelle Treffen erfolgen unter dem <a rel="noopener noreferrer" target="_blank" href="https://berlincodeofconduct.org/de">Berlin Code of Conduct</a>. Die Privatsphäre und Sicherheit unserer Teilnehmer*innen sind uns wichtig. Es ist strengstens untersagt, die Identiät von Personen zu teilen sowie Fotos, Videos oder sonstige Aufzeichungen anzufertigen, sofern dem nicht explizit zugestimmt wurde.
+  accessibility:
+    title: Barrierefreiheit
+    summary: Wir streben Barrierefreiheit in einem umfassenden Sinn an und sind uns dabei bewusst, dass Vieles nach wie vor verbesserungswürdig sind. Wir versuchen stets, unsere Treffen so abzuhalten, dass ein barrierefreier Zugang gewährleistet ist, diese in Nichtraucherräumen stattfinden, das zeitliche Ausmaß begrenzt und eine Kinderbetreuung möglich ist. Wir informieren über die Gegebenheiten vor Ort für jedes Treffen, so dass Interessierte ihre Teilnahme bestmöglich planen können. Für Feedback und Fragen zur Barrierefreiheit, schreibt uns unter <a rel="noopener noreferrer" target="_blank" href="mailto:accessibility@techworkersberlin.com">accessibility@techworkersberlin.com</a>.
+
+# Keys used by localize filter as defined in _plugins/i18n_filter.rb
+de:
+  time:
+    formats:
+      default: "%A, %d %b %Y %H:%M"
+      long: "%B %d, %Y %H:%M"
+      short: "%d %b %H:%M"
+  date:
+    order:
+      - :day
+      - :month
+      - :year
+    abbr_day_names:
+      - So
+      - Mo
+      - Di
+      - Mi
+      - Do
+      - Fr
+      - Sa
+    abbr_month_names:
+      -
+      - Jan
+      - Feb
+      - Mär
+      - Apr
+      - Mai
+      - Jun
+      - Jul
+      - Aug
+      - Sep
+      - Okt
+      - Nov
+      - Dez
+    day_names:
+      - Sonntag
+      - Montag
+      - Dienstag
+      - Mittwoch
+      - Donnerstag
+      - Freitag
+      - Samstag
+    month_names:
+      -
+      - Januar
+      - Februar
+      - März
+      - April
+      - Mai
+      - Juni
+      - Juli
+      - August
+      - September
+      - Oktober
+      - November
+      - Dezember
