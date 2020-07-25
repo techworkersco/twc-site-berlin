@@ -1,0 +1,93 @@
+langs:
+  de: Deutsch
+
+home:
+  summary: Technologiefirmen sind innovativ und disruptiv — und verursachen dabei u.a. Gentrifizierung, Lohngefälle, Umweltzerstörung und Militarisierung. Aber das muss nicht so sein. Die Berlin Tech Workers Coalition ist eine Basisbewegung von Arbeiter*innen im Technologiesektor. Wir bauen kollektive Organisationsformen auf und kämpfen für Technologie, die beim Aufbau einer progressiven Gesellschaft hilft.
+
+  black_lives_matter:
+    title: Black Lives Matter
+    summary: Wir rufen alle Tech Arbeiter*innen zur Solidarität mit Black Lives Matter und zum Kampf gegen Rassismus in allen Formen auf. Unterstützt Initiativen wie <a href="https://www.blacklivesmatterberlin.de" >Black Lives Matter Berlin</a>, <a href="http://isdonline.de" >Initiative Schwarze Menschen in Deutschland (ISD)</a>, <a href="https://www.eoto-archiv.de" >Each One Teach One</a>.
+
+  events:
+    title: Events
+    summary: Alle vergangenen [events](/de/events)
+
+  news:
+    title: Artikel
+
+connect:
+  info: Mitmachen
+  title: Kontakt
+  email: Email
+  name: Name
+  public_link: Öffentliches Profil
+  company: Firma/Organisation
+  how_did_hear: Wie hast Du von uns erfahren?
+  subscribe_to_slack: Slack
+  subscribe_to_newsletter: Newsletter
+  subscribe: Registrieren
+
+global:
+  code_of_conduct:
+    title: Code of Conduct
+    summary: Sämtliche Kommunikation, persönliche und virtuelle Treffen erfolgen unter dem <a rel="noopener noreferrer" target="_blank" href="https://berlincodeofconduct.org/de">Berlin Code of Conduct</a>. Die Privatsphäre und Sicherheit unserer Teilnehmer*innen sind uns wichtig. Es ist strengstens untersagt, die Identiät von Personen zu teilen sowie Fotos, Videos oder sonstige Aufzeichungen anzufertigen, sofern dem nicht explizit zugestimmt wurde.
+  accessibility:
+    title: Barrierefreiheit
+    summary: Wir streben Barrierefreiheit in einem umfassenden Sinn an und sind uns dabei bewusst, dass Vieles nach wie vor verbesserungswürdig sind. Wir versuchen stets, unsere Treffen so abzuhalten, dass ein barrierefreier Zugang gewährleistet ist, diese in Nichtraucherräumen stattfinden, das zeitliche Ausmaß begrenzt und eine Kinderbetreuung möglich ist. Wir informieren über die Gegebenheiten vor Ort für jedes Treffen, so dass Interessierte ihre Teilnahme bestmöglich planen können. Für Feedback und Fragen zur Barrierefreiheit, schreibt uns unter <a rel="noopener noreferrer" target="_blank" href="mailto:accessibility@techworkersberlin.com">accessibility@techworkersberlin.com</a>.
+
+# Keys used by localize filter as defined in _plugins/i18n_filter.rb
+de:
+  time:
+    formats:
+      default: "%A, %d %b %Y %H:%M"
+      long: "%B %d, %Y %H:%M"
+      short: "%d %b %H:%M"
+  date:
+    order:
+      - :day
+      - :month
+      - :year
+    abbr_day_names:
+      - So
+      - Mo
+      - Di
+      - Mi
+      - Do
+      - Fr
+      - Sa
+    abbr_month_names:
+      -
+      - Jan
+      - Feb
+      - Mär
+      - Apr
+      - Mai
+      - Jun
+      - Jul
+      - Aug
+      - Sep
+      - Okt
+      - Nov
+      - Dez
+    day_names:
+      - Sonntag
+      - Montag
+      - Dienstag
+      - Mittwoch
+      - Donnerstag
+      - Freitag
+      - Samstag
+    month_names:
+      -
+      - Januar
+      - Februar
+      - März
+      - April
+      - Mai
+      - Juni
+      - Juli
+      - August
+      - September
+      - Oktober
+      - November
+      - Dezember

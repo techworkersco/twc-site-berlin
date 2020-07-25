@@ -52,7 +52,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor/bundle/
-languages: ["en", "pl"]
+languages: ["en", "de", "pl"]
 exclude_from_localizations: ["assets", "admin", "vendor"]
 header_links:
   - url: /learning
