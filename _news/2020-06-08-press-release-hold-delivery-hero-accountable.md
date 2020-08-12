@@ -1,5 +1,5 @@
 ---
-title: TWC demands Delivery Hero take responsibility for laid-off Canadian Foodora riders
+title: TWC demands Delivery Hero take responsibility
 description: "Press Release: Berlin Tech Workers Coalitions demands Delivery Hero take responsibility for laid-off Canadian Foodora riders"
 ---
 
