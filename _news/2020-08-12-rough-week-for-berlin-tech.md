@@ -7,9 +7,13 @@ Normally, we have positive news when it comes to election staff representation c
 
 ## N26 retaliates against Works Council initiators
 
-Workers of the online bank N26 announced their intent to elect a Works Council, with electoral committee elections scheduled for Thursday and Friday this week. In a public letter, N26 workers outline why they're forming one: https://www.worker26.com/
+Workers of the online bank N26 announced their intent to elect a Works Council, with electoral committee elections scheduled for Thursday and Friday (13/14th August) this week. In a public letter, N26 workers outline why they're forming one: https://www.worker26.com/
 
-Since then, management has resorted to filing a lawsuit against the initiators, barring them from continuing their duties. They are actively working with Ver.di union to fight these obvious union busting tactics, to intimidate and scare workers. Please share your support online by messaging N26 customer service, and tweeting your support for Works Council at N26. For a sample tweet, see [#N26UnionStrong](https://twitter.com/TechWorkersBER/status/1293543007778742272)
+Since then, management has resorted to filing a lawsuit against the initiators, barring them from continuing their duties. They are actively working with Ver.di union to fight these obvious union busting tactics, to intimidate and scare workers. Please share your support online by messaging N26 customer service, and tweeting your support for Works Council at N26.
+
+On 13 August 2020, Ver.di announced they will chair the meeting, because 6 N26 employees were banned by legal injunction. An electoral committee was voted upon for N26 Operations GmbH. The following day, N26 management raised a new injunction, banning Ver.di from chairing it, so the sister union, IG Metall stepped in to chair today's meeting. On top of that, "someone" called the police, who fortunately left after seeing there was nothing illegal happening. What would make an incredible crime novel has become part and parcel of management tactics. We will not buckle down and we will prevail in the end!
+
+For live updates check out their twitter account: https://twitter.com/worker291
 
 ![N26 Works Council campaign pic, with unicorns](/assets/img/n26_workers.png)
 
