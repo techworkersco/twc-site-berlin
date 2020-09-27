@@ -1,0 +1,23 @@
+---
+layout: translated
+permalink: /
+---
+
+<section>
+  {% t home.summary %}s
+</section>
+
+<section class="bg-black">
+  <h2>{% t home.black_lives_matter.title %}</h2>
+  {% t home.black_lives_matter.summary %}
+</section>
+
+<section class="titled-block">
+  <h2>{% t home.events.title %}</h2>
+
+  {% t home.events.summary | safe %}
+
+  {% include events.html limit=5 %}
+</section>
+
+{{ content }}
