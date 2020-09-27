@@ -1,14 +1,22 @@
-@import  'variables';
+@import "variables";
+
+@import "elements/universal-selector";
+@import "elements/a";
+@import "elements/typography";
+@import "structures/lists";
 // page/component-specific partials
-@import 'header';
 @import "structures/event";
 
-/* layout */
+@import "header";
+
 @import "layouts/home"
+
+;/* layout */
 body {
   background-color: $white;
-  font-family: 'Avenir', sans-serif;
-  font-size: 1.25em;
+  color: $black;
+  font-family: "Avenir", sans-serif;
+  font-size: 102.5%;
   letter-spacing: normal;
   margin: 0;
   padding: 0;
@@ -35,47 +43,11 @@ body {
   flex: 3;
 }
 
-.main-wrapper {
-  background-color: $white;
-  color: $black;
-  margin-bottom: 5em;
-  main {
-    max-width: 1800px;
-    margin: 0 auto;
-  }
-  a {
-    &:link {
-      color: #E6141B;
-    }
-    &:visited {
-      color: #E6141B;
-    }
-    &:hover {
-      color: #212121;
-    }
-    &:focus {
-      color: #212121;
-    }
-    &:active {
-      color: #E6141B;
-    }
-  }
-
-  @include mobile {
-    margin-bottom: 1em;
-  }
-
-  h1,
-  h2,
-  h3,
-  h4 {
-    color: $black;
-  }
-
-  h2 {
-    text-align: center;
-    font-weight: 300;
-  }
+main {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 6em 4vmin 2em;
 }
 
 input {
@@ -94,22 +66,16 @@ input[type="submit"] {
   text-transform: uppercase;
 
   &:hover {
-    background-color: #E6141B;
+    background-color: #e6141b;
   }
 }
 
 main {
-  padding: 6em 5em 2em;
-  @include mobile {
-    padding: 1.5em;
-  }
-  @include tablet {
-    padding-top: 6em !important;
-  }
-  a {
+
+  /*   a {
     font-weight: 500;
     line-height: 1.5em;
-  }
+  } */
 }
 
 footer {
@@ -119,6 +85,7 @@ footer {
   bottom: 0;
   width: 100%;
   padding: 1em 0;
+  margin-top: 5em;
 
   .columns {
     justify-content: center;
@@ -129,7 +96,6 @@ footer {
       display: block;
     }
   }
-
 
   @include mobile {
     position: relative;
@@ -142,7 +108,7 @@ footer {
 
   a {
     font-weight: 600;
-    font-size: 16px;
+    // font-size: 16px;
     text-decoration: none;
     &:link {
       color: #212121;
@@ -151,10 +117,10 @@ footer {
       color: #212121;
     }
     &:hover {
-      color: #E6141B;
+      color: #e6141b;
     }
     &:focus {
-      color: #E6141B;
+      color: #e6141b;
     }
     &:active {
       color: #212121;
@@ -162,72 +128,16 @@ footer {
   }
 }
 
-h1 {
-  font-size: 3em;
-  text-align: center;
-  /* 16x2.25=36 */
-  @include mobile {
-    font-size: 1.96875em;
-    /* 2.25 * .875 */
-  }
-}
-
-h2 {
-  font-size: 1.5em;
-  /* 16x1.5=24 */
-  @include mobile {
-    font-size: 1em;
-    /* 1.5 * .875 */
-  }
-}
-
-h3 {
-  font-size: 1.125em;
-  /* 16x1.125=18 */
-  @include mobile {
-    font-size: 1.09375em;
-    /* 1.25 * .875 */
-  }
-}
-
-h4 {
-  font-size: 0.875em;
-  font-style: italic;
-  /* 16x0.875=14 */
-  @include mobile {
-    font-size: 0.765625em;
-    font-style: italic;
-    /* .875 * .875 */
-  }
-}
-
-h1,
-h2,
-h3,
-h4 {
-  margin-bottom: 0.5em;
-}
-
 blockquote,
 ol,
 p,
 ul {
   margin-bottom: 1em;
-  line-height: 1.25em;
-}
-
-li {
-  margin-bottom: 0.375em;
-}
-
-ul {
-  // this styling is incorrectly scoped it seems
-  padding-left: 0;
 }
 
 li.social {
   font-weight: bold;
-  border: 2px #E6141B solid;
+  border: 2px #e6141b solid;
   border-radius: 8px;
   padding: 10px;
   transition: 0.5s;
@@ -238,22 +148,22 @@ li.social {
     & > a {
       color: black;
       text-decoration: underline;
-      text-decoration-color: #E6141B;
+      text-decoration-color: #e6141b;
     }
   }
 }
 
 img {
-  max-width: 75%
+  max-width: 75%;
 }
 
 .author-profile-image {
   object-fit: cover;
-  border-radius:50%;
+  border-radius: 50%;
   width: 70px;
   height: 70px;
   float: left;
-  padding-right: 10px
+  padding-right: 10px;
 }
 
 .article-list {
@@ -279,10 +189,10 @@ img {
 }
 
 time.news {
-  color: $grey
+  color: $grey;
 }
 
-.bg-black,{
+.bg-black {
   background: $black;
   color: $white;
   padding: 5px 20px 20px;
@@ -318,6 +228,6 @@ input.input-text {
   border-width: 1px;
 
   &:hover {
-    background-color: #E6141B;
+    background-color: #e6141b;
   }
 }
