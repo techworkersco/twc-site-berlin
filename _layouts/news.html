@@ -1,24 +1,31 @@
 ---
 layout: default
 ---
+
 <!-- {% assign author = site.data.authors[page.author] %} -->
 <!-- Output author details if some exist. -->
-<style>h1, .main-wrapper h2, h3 {text-align: left; font-weight: bold;}</style>
 <article class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
     {% assign author = site.data.authors[page.author] | default: site.data.authors['techworkersber'] %}
     {% if author %}
-        {% if author.picture %}
-          <img class="author-profile-image" src="{{author.picture}}" alt="{{author.name}}">
-        {% endif %}
-        <div><b>{{ author.name }}</b></div>
-        <time class="news" datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%-d %B %Y' }}</time>
+      {% if author.picture %}
+        <img
+          class="author-profile-image"
+          src="{{author.picture}}"
+          alt="{{author.name}}"
+        />
+      {% endif %}
+    <div><b>{{ author.name }}</b></div>
     {% endif %}
+    <time
+      class="news"
+      datetime="{{ page.date | date: '%Y-%m-%d' }}"
+      >
+        {{ page.date | date: '%-d %B %Y' }}
+    </time>
     {% if page.translator %}
-        <span>
-          And translated by {{ page.translator }}
-        </span>
+      <span> And translated by {{ page.translator }} </span>
     {% endif %}
   </header>
   <div class="post-content">
