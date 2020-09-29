@@ -9,8 +9,7 @@ permalink_de: /pressespiegel
 {% t press.inquiry %}: press@techworkersberlin.com
 
 <ul class=" article-list list">
-  {% assign sorted_posts = site.data.press  %}
-  {% for post in sorted_posts %}
+  {% for post in site.data.press  %}
     <li class="press-mention">
       <div class="article-list-item press-mention-text">
         <a href="{{post.url}}">
