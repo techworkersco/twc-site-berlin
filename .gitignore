@@ -8,6 +8,7 @@ _site
 s3_website.yml
 .letsencrypt
 *.log
+.jekyll-cache/
 
 # Gems are cached in this directory when running the Docker setup
 vendor/bundle/
