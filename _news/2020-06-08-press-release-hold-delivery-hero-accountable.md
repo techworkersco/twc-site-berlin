@@ -3,9 +3,9 @@ title: TWC demands Delivery Hero take responsibility
 description: "Press Release: Berlin Tech Workers Coalitions demands Delivery Hero take responsibility for laid-off Canadian Foodora riders"
 ---
 
-On May 11th, the food-delivery app Foodora stopped operations in Canada. They gave their courier employees, whom they consider to be "independent contractors," two weeks' notice and no severance. Two months prior, a court recognized Foodora Canada riders as employees. [Foodster United]((https://www.foodstersunited.ca/)), a campaign by Foodora riders in Montreal and Toronto made this possible, paving the way for paid sick leave, unionization and collective bargaining.
+On May 11th, the food-delivery app Foodora stopped operations in Canada. They gave their courier employees, whom they consider to be "independent contractors," two weeks' notice and no severance. Two months prior, a court recognized Foodora Canada riders as employees. [Foodster United](https://www.foodstersunited.ca/), a campaign by Foodora riders in Montreal and Toronto, made this possible, paving the way for paid sick leave, unionization and collective bargaining.
 
-Today on June 8th 2020, activists from Berlin Tech Workers Coalition (TWC Berlin) protested on the doorstep Delivery Hero SE's headquarters, the parent company of Foodora Canada. 
+Today on June 8th 2020, activists from Berlin Tech Workers Coalition (Berlin TWC ) protested on the doorstep Delivery Hero SE's headquarters, the parent company of Foodora Canada. 
 
 "We are here today to protest against the ongoing practice of Delivery Hero to deny their couriers the status of employees, the right to unionize and collective bargaining. By ceasing operations in Canada at this point, Delivery Hero fails to protect their workers in the middle of a global pandemic and economic crisis. We stand in solidarity with Foodsters United and demand that Delivery Hero provide their employees with proper support and severance pay to mitigate the sudden loss of income", said TWC Berlin. 
 

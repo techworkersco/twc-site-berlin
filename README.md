@@ -25,9 +25,13 @@ Open a browser to localhost:4000
 
 Add a file inside the [`_events`](_events) directory. Copy a previous file as a template, and make sure to include the right time zone for Berlin!
 
-## Add an article/news/post
+## Add a blog post (inside /news)
 
-Add a file inside the [`_news`](_news) directory. Copy a previous file as a template. If an author does not exist, add one inside [`_data/authors.yml`](_data/authors.yml). A name is only thing necessary, but photo is optional too.
+Add a file inside the [`_news`](_news) directory. Copy a previous file as a template. If an author does not exist, add one inside [`_data/authors.yml`](_data/authors.yml). A name is the only thing necessary, but photo is optional too.
+
+## Add a press mention
+
+Inside [`_data/press.yml`](_data/press.yml) file, add a media entry, with date format in `YYYY-MM-DD`.
 
 ## Translation
 
@@ -44,11 +48,15 @@ Note, only the default [en.yml](_i18n/en.yml) must contain the names of each lan
 ![Screen Shot 2019-07-21 at 14 48 46](https://user-images.githubusercontent.com/7111514/61591397-cb0cd180-abc6-11e9-9876-1577d5c8b4bd.png)
 
 ### Supported Pages
-* Landing Page [index.yml](_i18n/index.yml)
+* Landing Page [index.yml](index.md)
+* Join Page [join.md](join.md)
+* Events [events.md](events.md)
+* Press mentions [press_mentions.md](press_mentions.md)
 
 ### Supported Languages
 * English
-* Polish/Polski
+* German
+* Polish
 
 ## Adding Netlify Build Plugins
 
