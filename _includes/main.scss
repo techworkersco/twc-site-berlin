@@ -75,13 +75,11 @@ main {
   } */
 }
 
-footer {
+.site-footer {
   box-shadow: -2px 0 10px rgba(0, 0, 0, 0.2);
   background-color: white;
-  position: fixed;
-  bottom: 0;
   width: 100%;
-  padding: 1em 0;
+  padding: 2em 4vmin;
   margin-top: 5em;
 
   .columns {
