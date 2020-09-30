@@ -1,33 +1,42 @@
-<ul class="article-list list">
+<ul
+  class="list -no-list-style l-stack -vertical"
+  style="--stack-spacing: 1.5rem"
+>
   {% assign limit = include.limit %}
   {% assign sorted_posts = site.news | sort: 'date' | reverse %}
   {% for post in sorted_posts limit: limit %}
-    <li>
-      <article class="article-list-item">
-        <a href="{{post.url}}">
-          <h3
-            class="article-title"
-            id="news-{{ post.title | slugify }}"
-          >{{post.title}}</h3>
-          {% assign author = site.data.authors[post.author] | default:
-          site.data.authors['techworkersber'] %}
-          {% if author %}
-            {% if author.picture %}
-            <img
-              class="author-profile-image"
-              src="{{author.picture}}"
-              alt="{{author.name}}"
-            />
-            {% endif %}
-            <div>{{ author.name }}</div>
-          {% endif %}
-          <time
-            class="aside"
-            datetime="{{ post.date | date: '%Y-%m-%d' }}"
-          >{{ post.date | date: '%-d %B %Y' }}</time
-          >
-        </a>
-      </article>
-    </li>
+    {% assign author = site.data.authors[post.author] | default:
+      site.data.authors['techworkersber'] %}
+
+      <li>
+        <article
+          class="event-card__info-column l-stack -vertical"
+          style="--stack-spacing: 0.5rem"
+          aria-labelledby="news-{{ post.title | slugify }}">
+            <section class="l-stack -horizontal" style="--stack-spacing: 1rem">
+              <div class="l-stack -horizontal" style="--stack-spacing: 0.25rem">
+                {% if author.picture %}
+                  <img
+                    class="h-rounded"
+                    style="--circle-size: 1.75rem"
+                    src="{{author.picture}}"
+                    alt="{{author.name}}"
+                  />
+                {% endif %}
+                <span>{{ author.name }}</span>
+              </div>
+              <time
+                class="aside"
+                datetime="{{ post.date | date: '%Y-%m-%d' }}"
+              >{{ post.date | date: '%-d %B %Y' }}</time>
+            </section>
+            <h3
+              class="event-card__title"
+              id="news-{{ post.title | slugify }}"
+            >
+              <a href="{{ post.url }}" class="event-card__link">{{ post.title }}</a>
+            </h3>
+        </article>
+      </li>
   {% endfor %}
 </ul>
