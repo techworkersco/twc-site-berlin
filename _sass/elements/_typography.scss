@@ -1,10 +1,10 @@
 h1 {
-  font-size: 3em;
-  text-align: center;
   /* 16x2.25=36 */
+  font-size: 3em;
+
   @include mobile {
-    font-size: 1.96875em;
     /* 2.25 * .875 */
+    font-size: 1.96875em;
   }
 }
 
