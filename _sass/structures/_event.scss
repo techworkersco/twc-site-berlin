@@ -11,10 +11,6 @@
 
 .event-card__info-column {
   grid-column: 2;
-
-  & * + * {
-    margin-top: 0.25rem;
-  }
 }
 
 .event-card__icon {
@@ -23,10 +19,4 @@
   font-weight: bold;
   grid-column: 1;
   width: 2rem;
-}
-
-.event-card__wrapper {
-  & + & {
-    margin-top: 1rem;
-  }
 }

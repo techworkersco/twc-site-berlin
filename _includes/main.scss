@@ -9,9 +9,11 @@
 
 @import "header";
 
-@import "layouts/home"
+@import "layouts/home";
 
-;/* layout */
+@import "util/layout";
+
+/* layout */
 body {
   background-color: $white;
   color: $black;
