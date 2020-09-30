@@ -7,13 +7,13 @@ permalink: /
   {% t home.summary %}s
 </section>
 
-<section class="bg-black">
-  <h2>{% t home.black_lives_matter.title %}</h2>
+<section class="bg-black" aria-labelledby="hl-blm">
+  <h2 id="hl-blm">{% t home.black_lives_matter.title %}</h2>
   {% t home.black_lives_matter.summary %}
 </section>
 
-<section class="titled-block">
-  <h2>{% t home.events.title %}</h2>
+<section class="titled-block" aria-labelledby="hl-events">
+  <h2 id="hl-events">{% t home.events.title %}</h2>
 
   {% t home.events.summary | safe %}
 
