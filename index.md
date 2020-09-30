@@ -5,9 +5,6 @@ templateClass: tmpl-home
 permalink: /
 ---
 
-## {% t home.news.title %}
-{% include news.html limit=3 %}
-
 ## {% t connect.title %}
 {% include links.html %}
 
