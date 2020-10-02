@@ -1,0 +1,23 @@
+.l-stack {
+  display: flex;
+
+  &.-space-large {
+    --stack-spacing: 2rem
+  }
+
+  &.-horizontal {
+    align-items: center;
+
+    & > * + * {
+      margin-left: var(--stack-spacing, 1rem);
+    }
+  }
+
+  &.-vertical {
+    flex-direction: column;
+
+    & > * + * {
+      margin-top: var(--stack-spacing, 1rem);
+    }
+  }
+}

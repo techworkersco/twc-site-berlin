@@ -1,25 +1,35 @@
 ---
 layout: default
 ---
+
 <!-- {% assign author = site.data.authors[page.author] %} -->
 <!-- Output author details if some exist. -->
-<style>h1, .main-wrapper h2, h3 {text-align: left; font-weight: bold;}</style>
 <article class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
     {% assign author = site.data.authors[page.author] | default: site.data.authors['techworkersber'] %}
-    {% if author %}
+      <section class="l-stack -horizontal -space-large">
         {% if author.picture %}
-          <img class="author-profile-image" src="{{author.picture}}" alt="{{author.name}}">
+          <img
+            class="h-rounded"
+            style="--circle-size: 4.5rem"
+            src="{{author.picture}}"
+            alt="{{author.name}}"
+          />
         {% endif %}
-        <div><b>{{ author.name }}</b></div>
-        <time class="news" datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%-d %B %Y' }}</time>
-    {% endif %}
-    {% if page.translator %}
-        <span>
-          And translated by {{ page.translator }}
-        </span>
-    {% endif %}
+        <div class="l-stack -vertical" style="--stack-spacing: 1rem">
+          <div><b>{{ author.name }}</b></div>
+          <time
+            class="aside"
+            datetime="{{ page.date | date: '%Y-%m-%d' }}"
+            >
+              {{ page.date | date: '%-d %B %Y' }}
+          </time>
+        </div>
+        {% if page.translator %}
+          <span> And translated by {{ page.translator }} </span>
+        {% endif %}
+      </section>
   </header>
   <div class="post-content">
     {{ content }}

@@ -1,0 +1,15 @@
+a {
+  &:link,
+  &:visited,
+  &:active {
+    color: #e6141b;
+  }
+
+  &:hover {
+    color: #212121;
+  }
+
+  &:focus {
+    color: #212121;
+  }
+}

@@ -1,0 +1,50 @@
+h1 {
+  /* 16x2.25=36 */
+  font-size: 3em;
+
+  @include mobile {
+    /* 2.25 * .875 */
+    font-size: 1.96875em;
+  }
+}
+
+h2 {
+  font-size: 1.5em;
+  /* 16x1.5=24 */
+  @include mobile {
+    font-size: 1em;
+    /* 1.5 * .875 */
+  }
+}
+
+h3 {
+  font-size: 1.125em;
+  /* 16x1.125=18 */
+  @include mobile {
+    font-size: 1.09375em;
+    /* 1.25 * .875 */
+  }
+}
+
+h4 {
+  font-size: 0.875em;
+  font-style: italic;
+  /* 16x0.875=14 */
+  @include mobile {
+    font-size: 0.765625em;
+    font-style: italic;
+    /* .875 * .875 */
+  }
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin-bottom: 0.5em;
+}
+
+.aside {
+  color: $grey;
+  font-size: 95%;
+}
