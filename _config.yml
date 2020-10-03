@@ -21,7 +21,6 @@ baseurl: "" # the base hostname & protocol for your site, e.g. http://example.co
 timezone: "Europe/Berlin"
 
 # Build settings
-markdown: kramdown
 feed:
   collections:
     - events
@@ -49,9 +48,7 @@ social:
 sass:
   style: compressed
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor/bundle/
+  - .jekyll-cache/
 languages: ["en", "de", "pl"]
 exclude_from_localizations: ["assets", "admin", "vendor"]
 header_links:
