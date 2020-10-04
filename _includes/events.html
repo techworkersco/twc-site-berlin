@@ -30,9 +30,9 @@
             class="aside event-card__date"
             datetime="{{ post.date }}"
           >{{ post.date | localize: site.lang }}</time>
-          <h3 class="event-card__title ">
+          {% if limit %}<h3{% else %}<h2{% endif %} class="event-card__title ">
             <a href="{{ post.url }}" class="event-card__link">{{ post.title }}</a>
-          </h3>
+          {% if limit %}</h3>{% else %}</h2>{% endif %}
         </div>
       </article>
     </li>
