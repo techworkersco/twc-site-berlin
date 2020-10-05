@@ -2,7 +2,7 @@
   <div class="columns">
     {% for link in site.footer_links %}
         {% if link.newTab %}
-          <div class="column is-1"><a target="_blank" href="{{ link.url }}">{{ link.text }}</a></div>
+          <div class="column is-1"><a rel="noopener" target="_blank" href="{{ link.url }}">{{ link.text }}</a></div>
         {% else %}
           <div class="column is-1"><a href="{{ link.url }}">{{ link.text }}</a></div>
         {% endif %}

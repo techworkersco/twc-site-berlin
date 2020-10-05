@@ -30,12 +30,12 @@
                 datetime="{{ post.date | date: '%Y-%m-%d' }}"
               >{{ post.date | date: '%-d %B %Y' }}</time>
             </section>
-            <h3
+            {% if limit %}<h3{% else %}<h2{% endif %}
               class="event-card__title"
               id="news-{{ post.title | slugify }}"
             >
               <a href="{{ post.url }}" class="event-card__link">{{ post.title }}</a>
-            </h3>
+            {% if limit %}</h3>{% else %}</h2>{% endif %}
         </article>
       </li>
   {% endfor %}

@@ -150,8 +150,11 @@ img {
   color: $white;
   padding: 5px 20px 20px;
 
-  a:hover {
+  a {
     color: $white;
+    &:hover {
+      text-decoration-color: #e6141b;
+    }
   }
 }
 

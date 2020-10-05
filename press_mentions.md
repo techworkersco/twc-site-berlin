@@ -35,9 +35,9 @@ permalink_de: /pressespiegel
             {{post.media}} —
             <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%-d %B %Y' }}</time>
           </div>
-          <h3 class="event-card__title ">
+          <h2 class="event-card__title ">
             <a hreflang="{{post.lang}}-DE" href="{{ post.url }}" class="event-card__link">{{ post.title }}</a>
-          </h3>
+          </h2>
         </div>
       </article>
     </li>
