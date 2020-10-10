@@ -4,6 +4,9 @@ backend:
   accept_roles: #optional - accepts all users if left out
     - admin
     - editor
+# when using the default proxy server port
+local_backend:
+  url: http://127.0.0.1:4000
 
 media_folder: "assets/img"
 
