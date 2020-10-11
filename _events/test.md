@@ -1,7 +1,7 @@
 ---
-title: test
-Event Start: 2020-01-01T00:58:19.403Z
+title: test how would emojis work? 💩
+Event Start: 2018-10-03T11:58:19.403Z
 tags:
-  - huh
+  - huh haha
 ---
 nope
