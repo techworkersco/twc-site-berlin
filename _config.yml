@@ -32,7 +32,6 @@ plugins:
   - jekyll-sitemap
 
 ## SEO, Open Graph etc..
-image: "/assets/css/images/logo.png"
 twitter:
   username: techworkersber
   card: summary
@@ -85,6 +84,9 @@ collections:
 defaults:
   - scope:
       path: ""
+    values:
+      image: /assets/css/images/logo.png
+  - scope:
       type: "events"
     values:
       layout: "event"
