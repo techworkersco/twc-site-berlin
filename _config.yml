@@ -53,6 +53,8 @@ exclude:
 languages: ["en", "de", "pl"]
 exclude_from_localizations: ["assets", "admin", "vendor"]
 header_links:
+  - url: /works-councils
+    text: Works Councils
   - url: /events
     text: Events
   - url: /press
