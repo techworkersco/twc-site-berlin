@@ -67,14 +67,8 @@ header {
       display: block;
       text-align: right;
 
-      li {        
-        &:nth-child(1) {
-          display: none;
-        }
-        &:nth-child(2) {
-          display: none;
-        }
-        &:nth-child(3) {
+      li {
+        &:not(:last-child) {
           display: none;
         }
       }
@@ -99,7 +93,6 @@ header {
       }
     }
 
-
     li {
       text-transform: uppercase;
       font-weight: 600;
@@ -107,8 +100,7 @@ header {
       padding-left: 1em;
       padding-right: 1em;
 
-
-      &:nth-child(3) a {
+      &:last-child a {
         background-color: #212121;
         color: white;
         padding: 8px 25px;
