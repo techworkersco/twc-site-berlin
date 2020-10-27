@@ -67,11 +67,14 @@ header {
       display: block;
       text-align: right;
 
-      li {
+      li {        
+        &:nth-child(1) {
+          display: none;
+        }
         &:nth-child(2) {
           display: none;
         }
-        &:nth-child(1) {
+        &:nth-child(3) {
           display: none;
         }
       }
