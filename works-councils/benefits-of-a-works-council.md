@@ -14,7 +14,7 @@ Works Councils have the ability to protect individuals who are in a dispute with
 
 ## Better pay
 
-Generally, collective bargaining is reserved for trade unions when it comes to issues of salary increases and working hours. Therefore, Works Councils are most powerful when combined with trade unions. At the company level, Works Councils can fight wage discrimination, and in case of Kurzarbeit (short time work) negotiate a uniform and fair agreement for all employees.
+Generally, collective bargaining is reserved for trade unions when it comes to issues of salary increases and working hours. Therefore, Works Councils are most powerful when combined with trade unions. At the company level, Works Councils can fight wage discrimination, and in case of Kurzarbeit (furlough) negotiate a uniform and fair agreement for all employees.
 
 
 ## Better productivity
