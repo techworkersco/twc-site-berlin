@@ -17,6 +17,7 @@ home:
 
 connect:
   info: Mitmachen
+  description: Der einfachste Weg, um bei uns mitzumachen, ist einfach an einem der kommenden <a href="/de/events" >events</a> vorbeizukommen. Wenn ihr euch für unseren Newsletter und Slack-Kanal registrieren möchtet, füllt bitte das Formular unten aus. Diese werden individuell bearbeitet, so dass es etwas dauern kann. Für Slack ist es notwendig, einen Link zu einem öffentlichen Profil (Website, Blog, LinkedIn, Github, etc.) bereitzustellen. Falls das für euch nicht möglich ist, schreibt uns unter <a rel="noopener noreferrer" target="_blank" href="mailto:join@techworkersberlin.com">join@techworkersberlin.com</a>.
   title: Kontakt
   email: Email
   name: Name
