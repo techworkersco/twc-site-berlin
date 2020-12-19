@@ -43,7 +43,7 @@ I18n (internationalization) is made available with the [jekyll-multiple-language
 3. Inside the [i18n](_i18n) directory create a
   - `LANGUAGE.yml` with the language key and value in its own language, for example `es: Español`
 
-Note, only the default [en.yml](_i18n/en.yml) must contain the names of each language. The other language yaml files contain just their own language key.
+Note, only the default [en.yml](_i18n/en.yml) must contain the names of each language. The other language yaml files contain just their own language key. To include only certain languages, specify the exact language keys you want. For example `languages: ["en", 'ja']`
 
 ![Screen Shot 2019-07-21 at 14 48 46](https://user-images.githubusercontent.com/7111514/61591397-cb0cd180-abc6-11e9-9876-1577d5c8b4bd.png)
 
@@ -56,7 +56,7 @@ Note, only the default [en.yml](_i18n/en.yml) must contain the names of each lan
 ### Supported Languages
 * English
 * German
-* Polish
+* Polish (except for join.md/press_mentions.md)
 
 ## Adding Netlify Build Plugins
 
