@@ -26,7 +26,7 @@ permalink_de: /pressespiegel
           style="--stack-spacing: 0.25rem">
           <div class="aside event-card__date" >
             {{post.media}} —
-            <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%-d %B %Y' }}</time>
+            <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | localize: site.lang, '%-d %B %Y' }}</time>
           </div>
           <h2 class="event-card__title ">
             <a hreflang="{{post.lang}}-DE" href="{{ post.url }}" class="event-card__link">{{ post.title }}</a>

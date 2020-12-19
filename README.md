@@ -37,6 +37,11 @@ Inside [`_data/press.yml`](_data/press.yml) file, add a media entry, with date f
 
 I18n (internationalization) is made available with the [jekyll-multiple-languages-plugin](https://github.com/kurtsson/jekyll-multiple-languages-plugin/). When a page has a translated version available, a link will show up on the top right if you use the [default_translate](_layouts/default_translate.html) layout. English is the default language, while other languages have their two letter ISO code prefixed, for example [TechWorkersCoalition.org/ru](https://TechWorkersCoalition.org/ru) for Russian.
 
+### Localise date
+Normally displaying a date is done using native liquid templates `{{ page.date | date: '%-d %B %Y' }}`, but for localisation, we need to pass it a language which can be done using our custom [_plugins/i18n_filter.rb](_plugins/i18n_filter.rb), and translation keys. We would replace our liquid template with the following:
+
+`{{ page.date | localize: site.lang, '%-d %B %Y' }}`
+
 ### Adding new language
 1. Add new language key to [en.yml](_i18n/en.yml)
 2. Add two letter iso code in [config](_config.yml). The order here determines the order shown on the page. English must be first.

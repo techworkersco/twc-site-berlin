@@ -23,7 +23,7 @@ layout: default
             class="aside"
             datetime="{{ page.date | date: '%Y-%m-%d' }}"
             >
-              {{ page.date | date: '%-d %B %Y' }}
+              {{ page.date | localize: site.lang, '%-d %B %Y' }}
           </time>
         </div>
         {% if page.translator %}

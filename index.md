@@ -9,10 +9,12 @@ permalink: /
   {% t home.summary %}
 </section>
 
-<section class="bg-black" aria-labelledby="hl-blm">
-  <h2 id="hl-blm">{% t home.black_lives_matter.title %}</h2>
-  {% t home.black_lives_matter.summary %}
-</section>
+{% unless site.lang == 'pl' %}
+  <section class="bg-black" aria-labelledby="hl-blm">
+    <h2 id="hl-blm">{% t home.black_lives_matter.title %}</h2>
+    {% t home.black_lives_matter.summary %}
+  </section>
+{% endunless %}
 
 <section class="titled-block" aria-labelledby="hl-events">
   <h2 id="hl-events">{% t home.events.title %}</h2>
