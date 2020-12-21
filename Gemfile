@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 ruby RUBY_VERSION
+git_source(:github) { |name| "https://github.com/#{name}.git" }
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -18,7 +19,7 @@ gem "i18n"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-   gem "jekyll-multiple-languages-plugin"
+   gem 'jekyll-multiple-languages-plugin', github: 'kurtsson/jekyll-multiple-languages-plugin', ref: 'refs/pull/178/head'
    gem "jekyll-seo-tag"
    gem "jekyll-feed", "~> 0.11"
    gem "jekyll-sitemap"
