@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Berlin Tech Workers Coalition
 email: contact@techworkerberlin.com
-description: The tech industry is "disruptive", — including but not limited to gentrification, wage gaps, environmental pollution and militarism. But it does not have to be that way. The Berlin Tech Workers Coalition is a grassroots organization that empowers tech workers to build collective power and get involved in campaigns that make a positive impact on our society.
+description: Berlin Tech Workers Coalition is a grassroots organization that empowers tech workers to build power and get involved to make a positive impact in our society.
 url: "https://techworkersberlin.com" # the subpath of your site, e.g. /blog
 baseurl: "" # the base hostname & protocol for your site, e.g. http://example.com
 timezone: "Europe/Berlin"
@@ -32,7 +32,6 @@ plugins:
   - jekyll-sitemap
 
 ## SEO, Open Graph etc..
-image: "/assets/css/images/logo.png"
 twitter:
   username: techworkersber
   card: summary
@@ -45,6 +44,7 @@ social:
     - https://twitter.com/TechWorkersBER
     - https://facebook.com/TechWorkersBER
     - https://instagram.com/TechWorkersBER
+    - https://t.me/techworkersber
 
 sass:
   style: compressed
@@ -53,6 +53,8 @@ exclude:
 languages: ["en", "de", "pl"]
 exclude_from_localizations: ["assets", "admin", "vendor"]
 header_links:
+  - url: /works-councils
+    text: Works Councils
   - url: /events
     text: Events
   - url: /press
@@ -85,6 +87,9 @@ collections:
 defaults:
   - scope:
       path: ""
+    values:
+      image: /assets/img/beat_the_boss.jpg
+  - scope:
       type: "events"
     values:
       layout: "event"

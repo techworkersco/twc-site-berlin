@@ -37,13 +37,18 @@ Inside [`_data/press.yml`](_data/press.yml) file, add a media entry, with date f
 
 I18n (internationalization) is made available with the [jekyll-multiple-languages-plugin](https://github.com/kurtsson/jekyll-multiple-languages-plugin/). When a page has a translated version available, a link will show up on the top right if you use the [default_translate](_layouts/default_translate.html) layout. English is the default language, while other languages have their two letter ISO code prefixed, for example [TechWorkersCoalition.org/ru](https://TechWorkersCoalition.org/ru) for Russian.
 
+### Localise date
+Normally displaying a date is done using native liquid templates `{{ page.date | date: '%-d %B %Y' }}`, but for localisation, we need to pass it a language which can be done using our custom [_plugins/i18n_filter.rb](_plugins/i18n_filter.rb), and translation keys. We would replace our liquid template with the following:
+
+`{{ page.date | localize: site.lang, '%-d %B %Y' }}`
+
 ### Adding new language
 1. Add new language key to [en.yml](_i18n/en.yml)
 2. Add two letter iso code in [config](_config.yml). The order here determines the order shown on the page. English must be first.
 3. Inside the [i18n](_i18n) directory create a
   - `LANGUAGE.yml` with the language key and value in its own language, for example `es: Español`
 
-Note, only the default [en.yml](_i18n/en.yml) must contain the names of each language. The other language yaml files contain just their own language key.
+Note, only the default [en.yml](_i18n/en.yml) must contain the names of each language. The other language yaml files contain just their own language key. To include only certain languages, specify the exact language keys you want. For example `languages: ["en", 'ja']`
 
 ![Screen Shot 2019-07-21 at 14 48 46](https://user-images.githubusercontent.com/7111514/61591397-cb0cd180-abc6-11e9-9876-1577d5c8b4bd.png)
 
@@ -56,7 +61,7 @@ Note, only the default [en.yml](_i18n/en.yml) must contain the names of each lan
 ### Supported Languages
 * English
 * German
-* Polish
+* Polish (except for join.md/press_mentions.md)
 
 ## Adding Netlify Build Plugins
 

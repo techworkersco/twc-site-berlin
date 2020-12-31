@@ -1,14 +1,17 @@
 ---
 layout: default
 ---
-<div align="right">
-  {% for lang in site.languages %}
-    {% if site.languages.size == 1 %}
-    {% elsif site.lang == lang %}
-      <b>{% t langs.{{ lang }} %}</b>
-    {% else %}
-      <a href="{% tl {{ page.namespace }} {{ lang }} %}" >{% t langs.{{ lang }} %}</a>
-    {% endif %}
-  {% endfor %}
-</div>
+{% if page.namespace %}
+  <div align="right">
+    {% assign languages = page.languages | default: site.languages %}
+    {% for lang in languages %}
+      {% if languages.size == 1 %}
+      {% elsif site.lang == lang %}
+        <b>{% t langs.{{ lang }} %}</b>
+      {% else %}
+        <a href="{% tl {{ page.namespace }} {{ lang }} %}" >{% t langs.{{ lang }} %}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}
 {{ content }}

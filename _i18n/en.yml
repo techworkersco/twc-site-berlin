@@ -19,6 +19,7 @@ home:
 
 connect:
   info: Get involved
+  description: The easiest way to get involved is to attend one of our upcoming <a href="/events" >events</a>. If you like to join our Newsletter and Slack, please fill out the registration form below. Please note that registrations are reviewed individually and might take some time. For Slack, it is mandatory to submit a link to a public profile (Website, Blog, LinkedIn, Github, etc.) for review. If this is not possible for you, please contact us at <a rel="noopener noreferrer" target="_blank" href="mailto:join@techworkersberlin.com">join@techworkersberlin.com</a>.
   title: Connect
   email: Email
   name: Name

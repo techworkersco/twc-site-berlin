@@ -122,21 +122,15 @@ ul {
   margin-bottom: 1em;
 }
 
-li.social {
+.social-links {
   font-weight: bold;
   border: 2px #e6141b solid;
   border-radius: 8px;
   padding: 10px;
-  transition: 0.5s;
-
-  &:hover {
-    padding-left: 20px;
-    box-shadow: 10px;
-    & > a {
-      color: black;
-      text-decoration: underline;
-      text-decoration-color: #e6141b;
-    }
+  margin-bottom: 5px;
+  
+  a {
+    text-decoration: none;
   }
 }
 
