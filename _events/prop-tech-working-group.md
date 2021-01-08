@@ -3,6 +3,7 @@ title: Prop Tech Working Group
 date: 2021-01-10T18:00:00.000Z
 tags:
   - proptech
+image: /assets/img/dwe.jpg
 ---
 ## {{ page.date | date: '%R %A, %d %B %Y' }}
 
