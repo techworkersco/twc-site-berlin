@@ -1,6 +1,6 @@
 ---
 title: Prop Tech Working Group
-date: 2021-01-11T19:00:00.000Z
+date: 2021-01-18T19:00:00.000Z
 tags:
   - proptech
 image: /assets/img/dwe.jpg
