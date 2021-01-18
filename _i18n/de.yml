@@ -8,6 +8,10 @@ home:
     title: Black Lives Matter
     summary: Wir rufen alle Tech Arbeiter*innen zur Solidarität mit Black Lives Matter und zum Kampf gegen Rassismus in allen Formen auf. Unterstützt Initiativen wie <a href="https://www.blacklivesmatterberlin.de" >Black Lives Matter Berlin</a>, <a href="http://isdonline.de" >Initiative Schwarze Menschen in Deutschland (ISD)</a>, <a href="https://www.eoto-archiv.de" >Each One Teach One</a>.
 
+  zero_covid:
+      title: ZERO COVID
+      summary: TWC Berlin unterstützt die Kampagne <a href="https://zero-covid.org">ZeroCovid</a>. Arbeitgeber müssen Verantwortung für die Sicherheit und Gesundheit ihrer Mitarbeiter*innen übernehmen und wo immer möglich Home Office ermöglichen. In nicht systemrelevanten Bereichen der Industrie, wo dies nicht möglich ist, braucht es dringend einen solidarischen Shutdown, um die Pandemie zu bekämpfen. Falls Dein Arbeitgeber keine adequaten Schutzmaßnahmen trifft, oder Home Office verweigert, kontaktiere uns für mögliche Unterstützung (auch anonym) unter zero-covid@techworkersberlin.com
+
   events:
     title: Events
     summary: Alle vergangenen [events](/de/events)
