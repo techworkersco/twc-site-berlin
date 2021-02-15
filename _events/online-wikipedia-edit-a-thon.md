@@ -13,8 +13,9 @@ No registration is not mandatory.
 
 The event will be entirely online and consist of a mix of joint meetings and self-paced editing work. The joint meetings to discuss and coordinate over the weekend will be held on Zoom (see the *Schedule* below):
 
-Join [Zoom Meeting](https://zoom.us/j/82138847989) Meeting ID: 821 388 47989
+Join [Zoom Meeting](https://zoom.us/j/87358279357) Meeting ID: 873 5827 9357
 
+Also see information about *Accessibility* below.
 
 ### Details
 
@@ -34,6 +35,25 @@ Intro to Tech Workers Coalition: for all interested participants who are new to 
 #### Sunday, 21 February 2021 18:00 CET
 
 Final meeting, present and celebrate what we achieved over the week-end.
+
+
+### Accessibility
+
+The event will be held over Zoom, a video conferencing platform. You can use Zoom with your desktop, laptop, or mobile device.
+
+Join [Zoom Meeting](https://zoom.us/j/87358279357) Meeting ID: 873 5827 9357
+
+You need an internet connection and speakers to listen, and a microphone (and optionally camera) to participate. You can also join the conversation via the (written) chat. There is also an option to call in using your phone line for audio-only participation as shown below:
+
+Tap your preferred telephone country to call in:
+- <a href="tel:+493056795800,,87358279357#">Germany</a>
+- <a href="tel:+31207946520,,87358279357#">Netherlands</a>
+- <a href="tel:+442034815240,,87358279357#">United Kingdom</a>
+- <a href="tel:+16465588656,,87358279357#">USA</a>
+
+There will be a brief presentation with static slides, but most of the event will be audio-based discussion in English.
+
+If you would like to know more, check out Zoom's documentation on their [accessibility features](https://zoom.us/accessibility) or reach out to us at accessibility@techworkersberlin.com.
 
 
 ![The Amiga 500 personal computer system, pictured with a monitor, a mouse, a keyboard, and a floppy disk drive.](/assets/img/amiga500.jpg "Amiga 500, Courtesy of Wikimedia Commons")
