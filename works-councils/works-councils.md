@@ -11,3 +11,9 @@ As Tech Workers Coalition, we support the formation of Works Councils as a means
 [What are the benefits of a Works Council]({% link works-councils/benefits-of-a-works-council.md %})
 
 [How to form a Works Council]({% link works-councils/how-to-form-a-works-council.md %})
+
+<h2>Training</h2>
+
+We host Works Council training sessions every two weeks, including an introduction to the German Works Council and union system and the possibility to discuss strategic questions and formal considerations of a Works Council campaign. We aim to provide an open forum and safe space to share experiences and learn from each other.
+
+Please check the [Events](/events) section for upcoming times and registration form.
