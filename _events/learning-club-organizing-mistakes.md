@@ -5,7 +5,7 @@ tags:
   - learning
 image: https://i0.wp.com/organizing.work/wp-content/uploads/2019/08/Organizing-Work-Color-Logo.png?w=800&ssl=1
 ---
-## {{ page.date | date: '%A, %d %B %Y' }}
+## {{ page.date | date: '%R %A, %d %B %Y' }}
 
 
 We'll discuss two recent articles on [organizing.work](https://organizing.work/) about criticisms of recent forms of tech organizing in general and the particular example of the newly formed Alphabet Workers Union.
