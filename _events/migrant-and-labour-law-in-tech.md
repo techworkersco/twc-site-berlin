@@ -1,11 +1,9 @@
 ---
 title: Migrant and Labour Law in Tech
-date: 2021-04-01T19:10:27.822Z
+date: 2021-04-21T17:00:00.000Z
 tags: []
 image: /assets/img/munich_labour_law.jpg
 ---
-
-
 FAQ & info session on the pitfalls on the legal side of the job
 
 What are your rights with regards to
@@ -34,3 +32,9 @@ Education officer in the Federal Project “Fair Integration” & expert on migr
 
 Yonatan Miller,
 migrant software, and Berlin TWC steering committee
+
+## Links
+
+* [Zoom](https://igmetall.zoom.us/j/98341169583): https://igmetall.zoom.us/j/98341169583
+* [Facebook](https://www.facebook.com/events/884786515587347): https://www.facebook.com/events/884786515587347
+* [IG Metall Munich](https://www.igmetall-muenchen.de/news-ansicht/datum/2021/03/26/titel/veranstaltung-zoom-21042021-1900-it-is-written-migrant-labour-law-in-tech/) https://www.igmetall-muenchen.de/news-ansicht/datum/2021/03/26/titel/veranstaltung-zoom-21042021-1900-it-is-written-migrant-labour-law-in-tech/
