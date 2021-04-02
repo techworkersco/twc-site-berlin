@@ -1,6 +1,8 @@
 ---
 title: "Make Amazon Pay: global campaign challenges Amazon"
 author: make_amazon_pay
+tags:
+- amazon
 ---
 
 Via our co-organized project [Berlin Vs Amazon](https://berlinvsamazon.com), Tech Workers Coalition Berlin joins a world-wide coalition of workers, activists and organizations to demand that Amazon pays and treats its workers fairly and stops business practices that harm society and the environment.
@@ -95,7 +97,7 @@ company moves towards a model of democratic governance.
 companies to accelerate oil and gas extraction;
 
 - ending Amazon’s complicity in environmental racism, including
-by transitioning to electric vehicles first in communities most 
+by transitioning to electric vehicles first in communities most
 impacted by the corporation’s pollution;
 
 - stopping all sponsoring of climate change denial;
@@ -103,7 +105,7 @@ impacted by the corporation’s pollution;
 - engaging workers, who have a right to know how their employer will
 operate sustainably, through a Just Transition process.
 
-### 5. Pay back to society by: 
+### 5. Pay back to society by:
 
 - paying taxes in full, in the countries where the real economic
 activity takes place, ending tax abuse through profit shifting,
