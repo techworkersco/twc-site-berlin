@@ -5,7 +5,6 @@
 # modified again for dynamic locale passing by @abenrob
 
 require 'i18n'
-require 'pry'
 
 I18n.enforce_available_locales = false
 

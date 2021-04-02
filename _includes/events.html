@@ -4,7 +4,7 @@
   role="list"
 >
   {% assign limit = include.limit %}
-  {% assign sorted_posts = site.events | sort: 'date' | reverse %}
+  {% assign sorted_posts = site.events | sort: 'date' | filter_tags: include.tags | reverse %}
   {% for post in sorted_posts limit: limit %}
     <li>
       <article class="event-card">
