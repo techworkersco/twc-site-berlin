@@ -11,8 +11,8 @@ permalink: /
 
 {% unless site.lang == 'pl' %}
   <section class="bg-black" aria-labelledby="hl-blm">
-    <h2 id="hl-blm">{% t home.black_lives_matter.title %}</h2>
-    {% t home.black_lives_matter.summary %}
+    <h2 id="hl-blm">{% t home.zero_covid.title %}</h2>
+    {% t home.zero_covid.summary %}
   </section>
 {% endunless %}
 
