@@ -64,11 +64,11 @@ header {
 
     @include mobile {
       font-size: 1em;
-      display: block;
-      text-align: right;
+      // display: block;
+      // text-align: right;
 
       li {
-        &:not(:last-child) {
+        &:not(:last-child(-n+2)) {
           display: none;
         }
       }
@@ -130,4 +130,46 @@ header {
       color: #212121;
     }
   }
+}
+
+.dropdown__header strong {
+  margin-left: 5px;
+  margin-right: auto;
+  font-size: 1.6rem;
+}
+
+.dropdown__header .dropdown__categories,
+.dropdown__header .dropdown__menu {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.dropdown__header li {
+  padding: 10px;
+  position: relative;
+}
+
+.dropdown__menu li {
+  background: $black;
+  color: $white;
+  border: 1px solid $white;
+
+  &:hover {
+    background: $red;
+  }
+}
+
+.dropdown__header .dropdown__category .dropdown__menu {
+  display: none;
+  position: absolute;
+  background: $white;
+  width: 200px;
+  top: 50px;
+  right: 0;
+}
+
+.dropdown__header .dropdown__category:hover .dropdown__menu {
+  display: block;
 }

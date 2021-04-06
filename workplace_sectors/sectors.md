@@ -7,7 +7,7 @@ For strategic reasons you may want to organize along **sectoral** lines. The fol
  - [Amazon](/sectors/amazon)
  - Platform Workers
  - Fintech (financial technology)
- - [Property Tech and Gentrification](/sectors/gentrification) 
+ - [Property Tech and Gentrification](/sectors/gentrification)
  - [Video Gaming](/sectors/gaming)
  - Telecommunications
  - Auto (car) tech

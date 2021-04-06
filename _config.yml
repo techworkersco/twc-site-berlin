@@ -52,15 +52,17 @@ exclude:
   - .jekyll-cache/
 languages: ["en", "de", "pl", "ru"]
 exclude_from_localizations: ["assets", "admin", "vendor"]
-header_links:
-  - url: /works-councils
-    text: Works Councils
-  - url: /events
-    text: Events
+header_themes:
+  - url: about
+    text: about
+  - url: news
+    text: blog posts
   - url: /press
     text: Press
-  - url: /join
-    text: Join
+  - url: /events
+    text: events
+  - url: /social-issues
+    text: Social issues
 footer_links:
   - url: /learning
     text: Learning Group
