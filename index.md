@@ -9,12 +9,11 @@ permalink: /
   {% t home.summary %}
 </section>
 
+
 {% unless site.lang == 'pl' %}
-  <section class="bg-black" aria-labelledby="hl-blm">
-    <h2 id="hl-blm">{% t home.zero_covid.title %}</h2>
-    {% t home.zero_covid.summary %}
-  </section>
+  <img src="/assets/img/dwenteignen.svg" class="bg-yellow" alt="Logo of the campaign Deutsche Wohnen & Co enteignen!" />{% t home.dw_enteignen.summary %}
 {% endunless %}
+
 
 <section class="titled-block" aria-labelledby="hl-events">
   <h2 id="hl-events">{% t home.events.title %}</h2>
