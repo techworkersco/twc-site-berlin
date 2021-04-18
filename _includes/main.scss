@@ -139,6 +139,19 @@ img {
   max-width: 100%;
 }
 
+.bg-yellow {
+  background: #fdd816;
+  color: #801c62;
+  padding: 10px 10px 10px;
+
+  a {
+    color: #801c62;
+    &:hover {
+      text-decoration-color: #801c62;
+    }
+  }
+}
+
 .bg-black {
   background: $black;
   color: $white;
