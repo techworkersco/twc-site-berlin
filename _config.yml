@@ -50,7 +50,7 @@ sass:
   style: compressed
 exclude:
   - .jekyll-cache/
-languages: ["en", "de", "pl"]
+languages: ["en", "de", "pl", "ru"]
 exclude_from_localizations: ["assets", "admin", "vendor"]
 header_links:
   - url: /works-councils
