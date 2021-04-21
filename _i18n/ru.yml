@@ -1,0 +1,105 @@
+langs:
+  ru: Русский
+
+home:
+  summary: <p>Технологические компании <em>«подрывают»</em> своими инновациями сложившиеся нормы. Последствиями становится джентрификация, зарплатное неравенство, разрушение окружающей среды, милитаризация и прочее.</p><p>Но наша отрасль не обязана быть именно такой!</p><p><em>Tech Workers Coalition</em> — низовое движение занятых в IT-секторе. Мы продвигаем коллективные формы организации с целью обретения влияния для участия в борьбе на благо общества.</p>
+
+  black_lives_matter:
+    title: Black Lives Matter
+    summary: Мы призываем всех рабочих в сфере IT к солидарности с Black Lives Matter и к борьбе против всех форм расизма. Поддержите инициативы вроде <a href="https://www.blacklivesmatterberlin.de" >Black Lives Matter Berlin</a>, <a href="http://isdonline.de" >Initiative Schwarze Menschen in Deutschland (ISD)</a>, <a href="https://www.eoto-archiv.de" >Each One Teach One</a>.
+
+  zero_covid:
+      title: ZERO COVID
+      summary: TWC Berlin поддерживает кампанию <a href="https://zero-covid.org">ZeroCovid</a>. Наниматели обязаны нести ответственность за безопасность и здоровье трудящихся, а также позволять работать из дома везде, где это возможно. В некритических отраслях промышленности, где это невозможно, нужна срочная солидарная остановка производств, чтобы побороть пандемию. Если ваш наниматель не соблюдает адекватных мер защиты, либо отказывает в праве работать из дома, свяжитесь с нами(можно анонимно) по email zero-covid@techworkersberlin.com. Возможно, мы сможем помочь.
+
+  dw_enteignen:
+    summary: Берлинское отделение Tech Workers Coalition поддерживает кампанию по референдуму <a href="https://www.dwenteignen.de/">Deutsche Wohnen & Co enteignen</a>. Если у вас есть избирательные права в Берлине, ищите ближайший пункт сбора подписей <a href="https://www.dwenteignen.de/unterschreiben/">здесь</a>.  
+
+  events:
+    title: Мероприятия
+    summary: Все прошедшие [events](/ru/events)
+
+  news:
+    title: Статья
+
+connect:
+  info: Присоединиться
+  description: Чтобы присоединиться к нам, лучше всего загляните на наши <a href="/ru/events" >мероприятия</a>. Если вы хотите подписаться на нашу рассылку или канал в Slack-Kanal, заполните формуляр ниже. Данные будут обработаны индивидуально, что займёт некоторое время. Для Slack обязательна ссылка на открытый профиль (Сайт, Блог, LinkedIn, Github, и т.п.). Если для вас это не представляется возможным, напишите нам на адрес <a rel="noopener noreferrer" target="_blank" href="mailto:join@techworkersberlin.com">join@techworkersberlin.com</a>.
+  title: Контакт
+  email: Эл. Почта
+  name: Имя
+  public_link: Ссылка на профиль
+  company: Компания/Организация
+  how_did_hear: Как вы о нас узнали?
+  subscribe_to_slack: Slack
+  subscribe_to_newsletter: Новостная рассылка
+  subscribe: Зарегистрироваться
+
+global:
+  code_of_conduct:
+    title: Кодекс Поведения
+    summary: Всё общение, оффлайн и онлайн встречи проводятся в соответствии с <a rel="noopener noreferrer" target="_blank" href="https://berlincodeofconduct.org/ru">Берлинским Кодексом Поведения</a>. Частная жизнь и безопасность участниц и участников очень важны для нас. Запрещается раскрывать личности участвующих, а также вести фото- и видеосъёмку, или иную запись без явного согласия.
+  accessibility:
+    title: Безбарьерная среда
+    summary: Мы стремимся избавиться от барьеров в самом широком смысле и осознаём, что ещё многое стоило бы улучшить. Мы всегда пытаемтся проводить наши встечи там, куда есть безбарьерный доступ, где не курят, подбираем время и длительность мероприятий, предоставляем возможность присмотра за детьми. Мы даём такие сведения для каждого собрания, чтобы заинтересованные смогли спланировать своё участие. Присылайте ваши отзывы и вопросы касательно свободы от препятствий на адрес <a rel="noopener noreferrer" target="_blank" href="mailto:accessibility@techworkersberlin.com">accessibility@techworkersberlin.com</a>.
+
+# Keys used by localize filter as defined in _plugins/i18n_filter.rb
+ru:
+  time:
+    formats:
+      default: "%A, %d %b %Y %H:%M"
+      long: "%B %d, %Y %H:%M"
+      short: "%d %b %H:%M"
+  date:
+    order:
+      - :day
+      - :month
+      - :year
+    abbr_day_names:
+      - Вс
+      - Пн
+      - Вт
+      - Ср
+      - Чт
+      - Пт
+      - Сб
+    abbr_month_names:
+      -
+      - Янв
+      - Фев
+      - Мар
+      - Апр
+      - Май
+      - Июн
+      - Июл
+      - Авг
+      - Сен
+      - Окт
+      - Ноя
+      - Дек
+    day_names:
+      - Воскресенье
+      - Понедельник
+      - Вторникg
+      - Среда
+      - Четверг
+      - Пфтница
+      - Суббота
+    month_names:
+      -
+      - Январь
+      - Февраль
+      - Март
+      - Апрель
+      - Май
+      - Июнь
+      - Июль
+      - Август
+      - Сентябрь
+      - Октябрь
+      - Ноябрь
+      - Декабрь
+
+press:
+  mentions: Пресса о нас
+  inquiry: "Для прессы: вы можете связаться с нами здесь"
