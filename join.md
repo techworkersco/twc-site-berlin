@@ -2,7 +2,7 @@
 layout: translated
 permalink: /join
 namespace: join
-languages: ["en", "de"]
+languages: ["en", "de", "ru"]
 ---
 # {% t connect.info %}
 {% t connect.description %}

@@ -61,6 +61,7 @@ Note, only the default [en.yml](_i18n/en.yml) must contain the names of each lan
 ### Supported Languages
 * English
 * German
+* Russian
 * Polish (except for join.md/press_mentions.md)
 
 ## Adding Netlify Build Plugins

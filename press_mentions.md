@@ -1,5 +1,5 @@
 ---
-languages: ["en", "de"]
+languages: ["en", "de", "ru"]
 layout: translated
 namespace: press_mentions
 permalink: /press
