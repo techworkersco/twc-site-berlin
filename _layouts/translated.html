@@ -3,6 +3,9 @@ layout: default
 ---
 {% if page.namespace %}
   <div align="right">
+    <a href="https://github.com/techworkersco/twc-site-berlin/edit/develop/{{ page.path }}" target="_blank">
+      <b>{% t global.edit_this_page %}</b>
+    </a> 🌍
     {% assign languages = page.languages | default: site.languages %}
     {% for lang in languages %}
       {% if languages.size == 1 %}
