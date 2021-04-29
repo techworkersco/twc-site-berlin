@@ -9,12 +9,10 @@ header {
 }
 
 .header {
-
-  // overflow: auto;
   position: fixed;
   box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
   width: 100%;
-  background-color: white;
+  background-color: $white;
   z-index: 9;
 
   display: flex;
@@ -64,8 +62,6 @@ header {
 
     @include mobile {
       font-size: 1em;
-      // display: block;
-      // text-align: right;
 
       li {
         &:not(:last-child(-n+2)) {
@@ -76,20 +72,13 @@ header {
 
     a {
       text-decoration: none;
-      &:link {
-        color: #212121;
+
+      &:link, &:visited, &:active  {
+        color: $black;
       }
-      &:visited {
-        color: #212121;
-      }
-      &:hover {
-        color: #E6141B;
-      }
-      &:focus {
-        color: #E6141B;
-      }
-      &:active {
-        color: #212121;
+
+      &:hover, &:focus {
+        color: $red;
       }
     }
 
@@ -101,12 +90,12 @@ header {
       padding-right: 1em;
 
       &:last-child a {
-        background-color: #212121;
-        color: white;
+        background-color: $black;
+        color: $white;
         padding: 8px 25px;
         border-radius: 100px;
         &:hover {
-          background-color: #E6141B;
+          background-color: $red;
         }
       }
     }
@@ -127,7 +116,7 @@ header {
 
     span {
       font-weight: 600;
-      color: #212121;
+      color: $black;
     }
   }
 }
@@ -136,6 +125,10 @@ header {
   margin-left: 5px;
   margin-right: auto;
   font-size: 1.6rem;
+}
+
+.dropdown__categories:hover {
+  color: $red;
 }
 
 .dropdown__header .dropdown__categories,
@@ -147,7 +140,6 @@ header {
 }
 
 .dropdown__header li {
-  padding: 10px;
   position: relative;
 }
 
@@ -162,14 +154,24 @@ header {
 }
 
 .dropdown__header .dropdown__category .dropdown__menu {
-  display: none;
   position: absolute;
   background: $white;
   width: 200px;
   top: 50px;
   right: 0;
+  display: block;
+
+  &.hide {
+    display: none;
+  }
 }
 
-.dropdown__header .dropdown__category:hover .dropdown__menu {
-  display: block;
+#nav li {
+  padding: 0;
+
+  & a {
+    display: block;
+    color: $white;
+    padding: 10px;
+  }
 }

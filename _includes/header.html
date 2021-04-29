@@ -7,10 +7,10 @@
   </div>
   <ul class="supporting-links dropdown__categories">
     <li class="dropdown__category">
-      <a href="/themes">themes</a>
-      <ul class="dropdown__menu">
+      <div id="navBtn">themes</div>
+      <ul id="nav" class="dropdown__menu hide">
         {% for link in site.header_themes %}
-          <li href="{{link.url}}">{{link.text}}</li>
+          <li><a href="{{link.url}}">{{link.text}}</a></li>
         {% endfor %}
       </ul>
     </li>

@@ -53,9 +53,9 @@ exclude:
 languages: ["en", "de", "pl", "ru"]
 exclude_from_localizations: ["assets", "admin", "vendor"]
 header_themes:
-  - url: about
+  - url: /about
     text: about
-  - url: news
+  - url: /news
     text: blog posts
   - url: /press
     text: Press
