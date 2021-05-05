@@ -56,13 +56,13 @@ header_themes:
   - url: /about
     text: about
   - url: /news
-    text: blog posts
+    text: articles
   - url: /press
     text: Press
   - url: /events
     text: events
-  - url: /social-issues
-    text: Social issues
+  - url: /works-councils
+    text: Works Councils
 footer_links:
   - url: /learning
     text: Learning Group
@@ -73,9 +73,6 @@ footer_links:
   - url: https://twitter.com/TechWorkersBER
     text: Twitter
     newTab: true
-  - url: /statute
-    text: Statute
-    newTab: false
 
 permalink: pretty
 future: true
