@@ -52,15 +52,17 @@ exclude:
   - .jekyll-cache/
 languages: ["en", "de", "pl", "ru"]
 exclude_from_localizations: ["assets", "admin", "vendor"]
-header_links:
-  - url: /works-councils
-    text: Works Councils
-  - url: /events
-    text: Events
+header_themes:
+  - url: /about
+    text: about
+  - url: /news
+    text: articles
   - url: /press
     text: Press
-  - url: /join
-    text: Join
+  - url: /events
+    text: events
+  - url: /works-councils
+    text: Works Councils
 footer_links:
   - url: /learning
     text: Learning Group
@@ -71,9 +73,6 @@ footer_links:
   - url: https://twitter.com/TechWorkersBER
     text: Twitter
     newTab: true
-  - url: /statute
-    text: Statute
-    newTab: false
 
 permalink: pretty
 future: true
