@@ -13,7 +13,7 @@ home:
       summary: TWC Berlin unterstützt die Kampagne <a href="https://zero-covid.org">ZeroCovid</a>. Arbeitgeber müssen Verantwortung für die Sicherheit und Gesundheit ihrer Mitarbeiter*innen übernehmen und wo immer möglich Home Office ermöglichen. In nicht systemrelevanten Bereichen der Industrie, wo dies nicht möglich ist, braucht es dringend einen solidarischen Shutdown, um die Pandemie zu bekämpfen. Falls Dein Arbeitgeber keine adequaten Schutzmaßnahmen trifft, oder Home Office verweigert, kontaktiere uns für mögliche Unterstützung (auch anonym) unter zero-covid@techworkersberlin.com
 
   dw_enteignen:
-    summary: Wir als Berlin Tech Workers Coalition unterstützen die Kampagne <a href="https://www.dwenteignen.de/">Deutsche Wohnen & Co enteignen</a>. Für alle wahlberechtigten Berliner*innen gibt es Infos zum Unterschreiben <a href="https://www.dwenteignen.de/unterschreiben/">hier</a>.  
+    summary: Wir als Berlin Tech Workers Coalition unterstützen die Kampagne <a href="https://www.dwenteignen.de/">Deutsche Wohnen & Co enteignen</a>. Für alle wahlberechtigten Berliner*innen gibt es Infos zum Unterschreiben <a href="https://www.dwenteignen.de/unterschreiben/">hier</a>.
 
   events:
     title: Events
@@ -36,6 +36,7 @@ connect:
   subscribe: Registrieren
 
 global:
+  edit_this_page: Diese Seite bearbeiten
   code_of_conduct:
     title: Code of Conduct
     summary: Sämtliche Kommunikation, persönliche und virtuelle Treffen erfolgen unter dem <a rel="noopener noreferrer" target="_blank" href="https://berlincodeofconduct.org/de">Berlin Code of Conduct</a>. Die Privatsphäre und Sicherheit unserer Teilnehmer*innen sind uns wichtig. Es ist strengstens untersagt, die Identiät von Personen zu teilen sowie Fotos, Videos oder sonstige Aufzeichungen anzufertigen, sofern dem nicht explizit zugestimmt wurde.

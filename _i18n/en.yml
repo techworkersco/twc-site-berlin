@@ -14,9 +14,9 @@ home:
   zero_covid:
     title: ZERO COVID
     summary:  We as TWC Berlin support the <a href="https://zero-covid.org/language/en/">ZeroCovid</a> campaign. Employers must take responsibility for the health and safety of workers and support working from home wherever possible. In all branches of industry where this is not possible and that are non-essential, a solidarity shutdown is urgently needed to fight the pandemic. If your employer fails to protect your health by adequate measures, or denies home office and you would like to discuss how we can support you, please contact us (also anonymously) on zero-covid@techworkersberlin.com
-  
+
   dw_enteignen:
-    summary: We as Berlin TWC support the <a href="https://www.dwenteignen.de/wp-content/uploads/2021/03/a5_DWE_INFOFLYER_ENGLISCH.pdf">Deutsche Wohnen & Co enteignen</a> campaign. If you live in Berlin and are eligible to vote, find out how to sign <a href="https://www.dwenteignen.de/unterschreiben/">here</a>.  
+    summary: We as Berlin TWC support the <a href="https://www.dwenteignen.de/wp-content/uploads/2021/03/a5_DWE_INFOFLYER_ENGLISCH.pdf">Deutsche Wohnen & Co enteignen</a> campaign. If you live in Berlin and are eligible to vote, find out how to sign <a href="https://www.dwenteignen.de/unterschreiben/">here</a>.
 
   events:
     title: Latest Events
@@ -39,6 +39,7 @@ connect:
   subscribe: Subscribe
 
 global:
+  edit_this_page: Edit This Page
   code_of_conduct:
     title: Code of Conduct
     summary: All meetings and communications are covered under the <a rel="noopener noreferrer" target="_blank" href="https://berlincodeofconduct.org">Berlin Code of Conduct</a>. The privacy and safety of our members is important to us. Sharing the identity of members and or taking/sharing photos are strictly forbidden unless express consent is given.
