@@ -1,8 +1,8 @@
 ---
 languages: ["en", "de"]
 layout: translated
-namespace: themes
-permalink: /themes
+namespace: menu
+permalink: /menu
 ---
 # Themes Directory
 <ul
