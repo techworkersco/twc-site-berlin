@@ -3,9 +3,9 @@ title: "Works Council interview series #1: Cobot"
 tags: works-councils
 ---
 
-The following is the first of a planned series of interviews with Works Councils (*Betriebsräte*) in Berlin tech companies, conducted by Berlin TWC's content team.
+The following is the first of a planned series of interviews with Works Councils (*Betriebsräte*) in Berlin tech companies, conducted by the content team of Berlin Tech Workers Coalition.
 
-For the first episode, we are very happy to hear from the recently elected Works Councillor at Cobot, a small Berlin software company.
+For the first episode, we are very happy to hear from the recently elected Works Councillor at [Cobot](https://www.cobot.me/en), a small Berlin-based software company.
 
 **What company do you work for and since when does a Works Council exist/are you part of?**
 
@@ -49,4 +49,4 @@ I’d like to encourage other tech workers to avail themselves of this tool, and
 
 **Thanks a lot for taking part in the interview and sharing your experience!**
 
-**It is TWC Berlin's aim to regularly present insights from Works Council activism in all fields of the tech industry. If you're a Works Councillor yourself, or know a fellow worker who is, and would be interested taking part in this series, we'd love to hear from you: [content@techworkersberlin.com](mailto:content@techworkersberlin.com).**
+**It is Berlin TWC's aim to regularly present insights from Works Council activism in all fields of the tech industry. If you're a Works Councillor yourself, or know a fellow worker who is, and would be interested taking part in this series, we'd love to hear from you: [content@techworkersberlin.com](mailto:content@techworkersberlin.com).**

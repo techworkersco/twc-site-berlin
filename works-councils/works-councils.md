@@ -20,8 +20,8 @@ We host Works Council training sessions every two weeks, including an introducti
 Please check the [Events](/events) section for upcoming times and registration form.
 
 
-## Interviews
+## Articles
 
-In this interview series, we present perspectives and experiences from Works Councils in Berlin tech companies. If you are a Works Councillor yourself, or know a fellow worker who is, and would be interested taking part, we'd love to hear from you: [content@techworkersberlin.com](mailto:content@techworkersberlin.com).
+Below we collect articles on Works Council activities in Berlin tech companies. In an interview series, we present perspectives and experiences from Works Councillors. If you are a Works Councillor yourself, or know a fellow worker who is, and would be interested taking part, we'd love to hear from you: [content@techworkersberlin.com](mailto:content@techworkersberlin.com).
 
 {% include news.html tags=page.tags %}

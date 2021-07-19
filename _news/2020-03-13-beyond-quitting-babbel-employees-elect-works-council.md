@@ -2,6 +2,7 @@
 title: „Beyond quitting“ – Employees at Babbel elect a works council
 author: igm_berlin
 canonical_url: https://www.igmetall-berlin.de/betriebsraete-vertrauensleute/meldung/beyond-quitting-employees-at-babbel-elect-a-works-council/
+tags: works-councils
 ---
 
 After a new CEO took over at Babbel, the first order of business was to fire a large amount of employees working in their Berlin Mitte offices. With a works council in place, these massive layoffs would not have been possible. Coming to this realization, a group of Babbel-employees reached out to the IG Metall in order to establish a works council.
