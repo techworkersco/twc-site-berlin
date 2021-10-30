@@ -1,0 +1,33 @@
+---
+title: "Public general meeting #24"
+date: 2021-11-01T18:30:38.714Z
+---
+
+
+## {{ page.date | date: '%R %A, %d %B %Y' }}
+Our monthly online general meeting via [zoom.us](https://us02web.zoom.us/j/87696767587?pwd=SlhlaUdQMGVONVNGaUo4OC8vQlFGUT09).
+
+All Tech and Non Tech Workers (🧨 TNT) are welcome, including people outside of Berlin. The event will be held in English.
+
+### Agenda
+
+* 19:30 - Brief introduction for new folks
+* 19:40 - Updates/announcements and upcoming events
+* 19:50 - Reportback on past conferences/outreach initiatives
+* 20:00 - Open discussion
+
+
+## Accessibility
+
+The event will be held over Zoom, a video conferencing platform. You can use Zoom with your desktop, laptop, or mobile device.
+
+Join [Zoom Meeting](https://us02web.zoom.us/j/87696767587?pwd=SlhlaUdQMGVONVNGaUo4OC8vQlFGUT09)
+
+Meeting ID: 876 967 675 87
+Password: SlhlaUdQMGVONVNGaUo4OC8vQlFGUT09
+
+You need an internet connection and speakers to listen, and a microphone (and optionally camera) to participate. You can also join the conversation via the (written) chat.
+
+There will be a brief presentation with static slides, but most of the event will be audio-based discussion in English.
+
+If you would like to know more, check out Zoom's documentation on their [accessibility features](https://zoom.us/accessibility) or reach out to us at accessibility@techworkersberlin.com.
