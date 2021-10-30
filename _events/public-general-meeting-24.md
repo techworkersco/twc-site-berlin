@@ -1,5 +1,5 @@
 ---
-title: "Public general meeting #24"
+title: "Public General Meeting #24"
 date: 2021-11-01T18:30:38.714Z
 ---
 
