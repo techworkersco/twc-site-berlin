@@ -21,4 +21,4 @@ If you would like to know more, check out Zoom’s documentation on their access
 ## Links
 
 * [Registration](https://us02web.zoom.us/meeting/register/tZwkdOCpqzopHtAANfj1Tz6_S-JEIw6sosUO)
-* [Works Councils introduction](https://techworkersberlin.com/works-councils]
+* [Works Councils introduction](https://techworkersberlin.com/works-councils)
