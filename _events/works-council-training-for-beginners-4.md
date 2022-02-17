@@ -4,7 +4,7 @@ date: 2022-02-24T18:30:00.000Z
 tags:
   - works-council
 ---
-## 24 February 2021 19:30 CET
+## 24 February 2022 19:30 CET
 
 Registration for this session is [mandatory](https://us02web.zoom.us/meeting/register/tZwkdOCpqzopHtAANfj1Tz6_S-JEIw6sosUO) to ensure a safe environment for everyone. These trainings are held bi-monthly. 
 
