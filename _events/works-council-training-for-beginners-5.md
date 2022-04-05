@@ -22,7 +22,3 @@ If you would like to know more, check out Zoom’s documentation on their access
 
 * [Registration](https://us02web.zoom.us/meeting/register/tZYsfuqupzwiGtz1g9GM5VZVpy5gVOJW2UCt)
 * [Works Councils introduction](https://techworkersberlin.com/works-councils)
-
-## Code of Conduct
-
-All meetings and communications are covered under the [Berlin Code of Conduct](https://berlincodeofconduct.org/). The privacy and safety of our members is important to us. Sharing the identity of members and or taking/sharing photos are strictly forbidden unless express consent is given.
