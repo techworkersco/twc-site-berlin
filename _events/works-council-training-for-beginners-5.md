@@ -3,6 +3,7 @@ title: Works Council Training for Beginners
 date: 2022-04-21T17:30:00.000Z
 tags:
   - works-council
+hide_form: true  
 ---
 ## 21 April 2022 19:30 CET
 

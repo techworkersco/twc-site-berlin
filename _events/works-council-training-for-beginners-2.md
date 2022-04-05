@@ -2,11 +2,12 @@
 title: Works Council Training for Beginners
 date: 2021-10-14T17:30:22.263Z
 tags:
-  - training
+  - works-council
+hide_form: true
 ---
 ## 14 October 2021 19:30 CET
 
-Registration for this session is [mandatory](https://us02web.zoom.us/meeting/register/tZYrdeChrj0vHNb3turmmPd1drZqnXhCjX6b) to ensure a safe environment for everyone. These trainings are held bi-monthly. 
+Registration for this session is [mandatory](https://us02web.zoom.us/meeting/register/tZYrdeChrj0vHNb3turmmPd1drZqnXhCjX6b) to ensure a safe environment for everyone. These trainings are held bi-monthly.
 
 ## Accessibility
 

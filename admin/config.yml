@@ -19,3 +19,4 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "optional image for SEO", name: "image", widget: "image", required: false}
+      - {label: "hide default signup form?", name: "hide_form", widget: "boolean", default: false}

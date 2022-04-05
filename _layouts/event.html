@@ -12,7 +12,9 @@ layout: default
 
     <h2>{% translate global.code_of_conduct.title %}</h2>
     {% translate global.code_of_conduct.summary %}
-    <h2>{% translate connect.info %}</h2>
-    {% include links.html %}
+    {% unless page.hide_form %}
+      <h2>{% translate connect.info %}</h2>
+      {% include links.html %}
+    {% endunless %}
   </div>
 </article>
