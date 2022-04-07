@@ -2,6 +2,7 @@
 title: Organizing For Power (6 weekly sessions)
 date: 2021-05-18T16:00:00.000Z
 image: https://files.jotform.com/jufs/jeffrousset/form_files/Zoom%20and%20email-O4Pdesign.604fe417a36017.86319049.png
+hide_form: true  
 ---
 **Organizing for Power (O4P)** is an online training and networking program for organizers worldwide. More than 10,000 workers from 6 continents and 70 countries have joined O4P trainings in the past 18 months.
 
@@ -9,7 +10,7 @@ image: https://files.jotform.com/jufs/jeffrousset/form_files/Zoom%20and%20email-
 
 This training features new trainers and inspiring campaign stories from around the world. Using mixed methodologies and small-group sessions, participants will focus on developing core organizing skills including: leader identification, 1-on-1 conversations, charting, and structure tests.
 
-### FAQ: 
+### FAQ:
 
 **What**: Organizing 4 Power Training. 12 hour training in total (6 sessions, 2 hours each)**Who:** Over 1,000 organizers will be attending. Tech Workers Coalition will have about 30+ tech workers attending both Track A and Track B from multiple cities.
 

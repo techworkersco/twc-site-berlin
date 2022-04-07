@@ -32,79 +32,81 @@
     Telegram</a
   >
 </div>
-<div class="social-links">
-  <form name="subscribe" class="join-form" method="POST" data-netlify="true">
-    <div>
-      <label for="email">{% t connect.email %}</label>
-      <input
-        class="input-text"
-        id="email"
-        type="email"
-        required
-        name="email"
-      />
-    </div>
-    <div>
-      <label for="name">{% t connect.name %}</label>
-      <input class="input-text" id="name" type="text" required name="name" />
-    </div>
-    <div>
-      <label for="social1">{% t connect.public_link %} #1</label>
-      <input
-        class="input-text"
-        id="social1"
-        required
-        type="text"
-        name="social_media_1"
-      />
-    </div>
-    <div>
-      <label for="social2">{% t connect.public_link %} #2</label>
-      <input
-        class="input-text"
-        id="social2"
-        required
-        type="text"
-        name="social_media_2"
-      />
-    </div>
-    <div>
-      <label for="company">{% t connect.company %}</label>
-      <input class="input-text" id="company" type="text" name="company" />
-    </div>
+{% unless page.hide_form %}
+  <div class="social-links">
+    <form name="subscribe" class="join-form" method="POST" data-netlify="true">
+      <div>
+        <label for="email">{% t connect.email %}</label>
+        <input
+          class="input-text"
+          id="email"
+          type="email"
+          required
+          name="email"
+        />
+      </div>
+      <div>
+        <label for="name">{% t connect.name %}</label>
+        <input class="input-text" id="name" type="text" required name="name" />
+      </div>
+      <div>
+        <label for="social1">{% t connect.public_link %} #1</label>
+        <input
+          class="input-text"
+          id="social1"
+          required
+          type="text"
+          name="social_media_1"
+        />
+      </div>
+      <div>
+        <label for="social2">{% t connect.public_link %} #2</label>
+        <input
+          class="input-text"
+          id="social2"
+          required
+          type="text"
+          name="social_media_2"
+        />
+      </div>
+      <div>
+        <label for="company">{% t connect.company %}</label>
+        <input class="input-text" id="company" type="text" name="company" />
+      </div>
 
-    <div>
-      <input class="input-text" id="referrer" type="hidden" name="referrer" />
-    </div>
-    <div>
-      <label for="how_did_hear">{% t connect.how_did_hear %}</label>
-      <input
-        class="input-text"
-        id="how_did_hear"
-        type="text"
-        name="how_did_hear"
-      />
-    </div>
+      <div>
+        <input class="input-text" id="referrer" type="hidden" name="referrer" />
+      </div>
+      <div>
+        <label for="how_did_hear">{% t connect.how_did_hear %}</label>
+        <input
+          class="input-text"
+          id="how_did_hear"
+          type="text"
+          name="how_did_hear"
+        />
+      </div>
 
-    <div class="flex flex-row ai-ctr">
-      <label for="subscribeSlack"
-        ><b>{% t connect.subscribe_to_slack %}</b></label
-      >
-      <input id="subscribeSlack" type="checkbox" name="slack" checked />
-    </div>
-    <div>
-      <label for="subscribeNewsletter"
-        ><b>{% t connect.subscribe_to_newsletter %}</b></label
-      >
-      <input
-        id="subscribeNewsletter"
-        type="checkbox"
-        name="newsletter"
-        checked
-      />
-    </div>
-    <button class="subscribe-button" type="submit">
-      {% t connect.subscribe %}
-    </button>
-  </form>
-</div>
+      <div class="flex flex-row ai-ctr">
+        <label for="subscribeSlack"
+          ><b>{% t connect.subscribe_to_slack %}</b></label
+        >
+        <input id="subscribeSlack" type="checkbox" name="slack" checked />
+      </div>
+      <div>
+        <label for="subscribeNewsletter"
+          ><b>{% t connect.subscribe_to_newsletter %}</b></label
+        >
+        <input
+          id="subscribeNewsletter"
+          type="checkbox"
+          name="newsletter"
+          checked
+        />
+      </div>
+      <button class="subscribe-button" type="submit">
+        {% t connect.subscribe %}
+      </button>
+    </form>
+  </div>
+{% endunless %}  
