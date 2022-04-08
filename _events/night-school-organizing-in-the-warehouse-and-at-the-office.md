@@ -1,8 +1,10 @@
 ---
 title: "Night School: Organizing in the Warehouse and at the Office"
 date: 2022-03-31T17:30:00.000Z
-canonical_url: https://www.facebook.com/events/558167025278190
+canonical_url: ""
+image: /assets/img/night_school.jpg
 ---
+
 What have labor struggles in the tech industry taught us? Where do we go from here?
 
 In the past year, Berlin has seen a wave of tech worker organizing. Warehouse workers at Gorillas and other platforms have gone on strike, garnered international attention, and won meaningful improvements to working conditions. Office workers have formed workers’ councils and organized across the industry. Both sets of tech workers are organizing under conditions set by the same big tech companies. How can we help each other? And what can we do as socialists?
@@ -19,9 +21,10 @@ Panel: A group of panelists will report on their organizing work, identifying op
 
 Panelists:
 
-* Mo, Lieferando Workers Collective
+* Mo, [Lieferando Workers Collective](https://mobile.twitter.com/lwc_berlin)
 * Phoebe Schmidt, Tech Workers Coalition
 * Antje Dieterich, [Werkstatt für Bewegungsbildung](https://werkstattbewegungsbildung.com/about-us/)
 * Bartek, [Amazon Workers Against Surveillance](https://organizeawas.de/)
-
-[Facebook event link](https://www.facebook.com/events/558167025278190)
+## Links
+* [Interview with panelists](https://www.theleftberlin.com/we-are-all-resources-being-exploited-by-management-to-make-a-profit-for-the-company/)
+* [Facebook event link](https://www.facebook.com/events/558167025278190)
