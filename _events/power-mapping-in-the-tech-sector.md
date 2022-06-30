@@ -1,7 +1,7 @@
 ---
 title: Power Mapping in the Tech Sector
 date: 2022-07-18T16:30:40.189Z
-hide_form: false
+hide_form: true
 ---
 ## {{ page.date | date: '%A, %d %B %Y at %H:%M' }}
 
