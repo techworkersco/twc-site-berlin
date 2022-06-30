@@ -11,4 +11,4 @@ Co-hosted by: TWC Berlin & [Tech 1010](https://www.techworkersunion-1010.org/)
 
 Have questions or interested in co-hosting? Email rv@tech1010.org
 
-Register [here](https://us06web.zoom.us/meeting/register/tZIvc-GtqTkiGNOOVlfczNJt_z-3_0-UYcjx).
+This event will be online and in English. Register [here](https://us06web.zoom.us/meeting/register/tZIvc-GtqTkiGNOOVlfczNJt_z-3_0-UYcjx).
