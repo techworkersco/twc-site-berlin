@@ -34,7 +34,7 @@ permalink: /menu
         class="event-card__info-column l-stack -vertical"
         style="--stack-spacing: 0.25rem">
         <h2 class="event-card__title ">
-          <a href="/news" class="event-card__link">Blog posts</a>
+          <a href="/news" class="event-card__link">Articles</a>
         </h2>
       </div>
     </article>
