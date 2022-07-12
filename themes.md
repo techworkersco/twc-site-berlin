@@ -1,10 +1,10 @@
 ---
 languages: ["en", "de"]
 layout: translated
-namespace: menu
-permalink: /menu
+namespace: directory
+permalink: /directory
 ---
-# Themes Directory
+# Directory
 <ul
   class="list -no-list-style l-stack -vertical"
   style="--stack-spacing: 1.5rem"
@@ -80,6 +80,30 @@ permalink: /menu
         style="--stack-spacing: 0.25rem">
         <h2 class="event-card__title ">
           <a href="/social-issues" class="event-card__link">Social issues</a>
+        </h2>
+      </div>
+    </article>
+  </li>
+  <li>
+    <article class="event-card">
+      <svg
+        focusable="false"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        x="0px"
+        y="0px"
+        viewBox="0 0 24 24"
+        class="event-card__icon"
+        style="enable-background:new 0 0 24 24;"
+        xml:space="preserve">
+        <path d="M20,3h-1V1h-2v2H7V1H5v2H4C2.9,3,2,3.9,2,5v16c0,1.1,0.9,2,2,2h16c1.1,0,2-0.9,2-2V5C22,3.9,21.1,3,20,3z M20,21H4V8h16V21z"/>
+        <text transform="matrix(1 0 0 1 5.3281 19.1641)" class="st0 st1">{{ site.events.size }}</text>
+      </svg>
+      <div
+        class="event-card__info-column l-stack -vertical"
+        style="--stack-spacing: 0.25rem">
+        <h2 class="event-card__title ">
+          <a href="/events" class="event-card__link">Events</a>
         </h2>
       </div>
     </article>
