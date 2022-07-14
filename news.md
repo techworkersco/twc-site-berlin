@@ -2,5 +2,5 @@
 layout: page
 permalink: /news
 ---
-<h1>Article Archive</h1>
+<h1>Articles</h1>
 {% include news.html %}
