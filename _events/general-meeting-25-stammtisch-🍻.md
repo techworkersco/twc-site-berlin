@@ -5,13 +5,13 @@ hide_form: false
 ---
 ## {{ page.date | date: '%R %A, %d %B %Y' }}
 
-Our monthly general meeting will be in person, at an outdoor table of Suedblock, instead of the usual online meetings. See below for address/accessibility.  
+Our monthly general meeting will be in person, at an outdoor table of Suedblock. Look for an orange vest to find us. See below for address/accessibility.  
 
 All Tech and Non Tech Workers (🧨 TNT) are welcome, including people outside of Berlin. The event will be held in English.
 
 ### Agenda
 
-19:00 - 20:00 - General meeting (agenda will be posted the week before)
+19:00 - 20:00 - General meeting. Agenda focus this month is a faciliated discussion about our issues at work.
 
 20:00 onwards - enjoy some (non) alcoholic drinks 🍻🥤 and meet fellow tech workers
 
