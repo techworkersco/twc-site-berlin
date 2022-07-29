@@ -5,7 +5,7 @@ hide_form: false
 ---
 ## {{ page.date | date: '%R %A, %d %B %Y' }}
 
-Our monthly general meeting will be in person, at an outdoor table of Suedblock. See below for address/accessibility.  
+Our monthly general meeting will be in person, likely at an outdoor table of Suedblock. See below for address/accessibility. We \*might\* change the location, so check again for updates.
 
 All Tech and Non Tech Workers (🧨 TNT) are welcome, including people outside of Berlin. The event will be held in English.
 
@@ -21,4 +21,4 @@ All Tech and Non Tech Workers (🧨 TNT) are welcome, including people outside o
 
 ## Accessibility
 
-Südblock is a smoke-free and wheelchair accessible (including bathroom).
+Südblock is smoke-free and wheelchair accessible (including bathroom).
