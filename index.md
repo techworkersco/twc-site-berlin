@@ -9,10 +9,7 @@ permalink: /
   {% t home.summary %}
 </section>
 
-
-{% unless site.lang == 'pl' %}
-  <img src="/assets/img/dwenteignen.svg" class="bg-yellow" alt="Logo of the campaign Deutsche Wohnen & Co enteignen!" />{% t home.dw_enteignen.summary %}
-{% endunless %}
+![Know your rights, powers & history: legal advice, organizing workshop & history class. 20.08.2022 11:00-18:00 Oyoun Neukölln. School of Transnational Organizing.](/assets/img/photo_2022-07-29_15-47-26.jpg "Know your rights, powers and history")
 
 
 <section class="titled-block" aria-labelledby="hl-events">
