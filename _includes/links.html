@@ -36,6 +36,10 @@
   <div class="social-links">
     <form name="subscribe" class="join-form" method="POST" data-netlify="true">
       <div>
+        <label for="name">{% t connect.name %}</label>
+        <input class="input-text" id="name" type="text" required name="name" />
+      </div>
+      <div>
         <label for="email">{% t connect.email %}</label>
         <input
           class="input-text"
@@ -44,10 +48,6 @@
           required
           name="email"
         />
-      </div>
-      <div>
-        <label for="name">{% t connect.name %}</label>
-        <input class="input-text" id="name" type="text" required name="name" />
       </div>
       <div>
         <label for="social1">{% t connect.public_link %} #1</label>
@@ -109,4 +109,4 @@
       </button>
     </form>
   </div>
-{% endunless %}  
+{% endunless %}

@@ -8,16 +8,94 @@ image: /assets/img/photo_2022-07-29_15-47-26.jpg
 
 Join migrant workers in tech, aviation, and delivery at a workshop covering legal advice, organizing and history.
 
-This event is free and there will be food!
+This event is free and there will be food! To help us with planning, please fill out the form below. We will share this info only with the event organisers.
+
+<div class="social-links">
+  <form name="verdi-kyr-event-2022" class="join-form" method="POST" data-netlify="true">
+    <div>
+      <label for="name">{% t connect.name %}</label>
+      <input class="input-text" id="name" type="text" required name="name" />
+    </div>
+    <div>
+      <label for="email">{% t connect.email %}</label>
+      <input
+        class="input-text"
+        id="email"
+        type="email"
+        required
+        name="email"
+      />
+    </div>
+    <div>
+      <label for="phone">Phone number (optional)</label>
+      <input
+        class="input-text"
+        id="email"
+        type="tel"
+        name="phone"
+      />
+    </div>
+    <div>
+      <label for="company">{% t connect.company %}</label>
+      <input class="input-text" id="company" type="text" name="company" />
+    </div>
+    <div>
+      <input class="input-text" id="referrer" type="hidden" name="referrer" />
+    </div>
+
+    <button class="subscribe-button" type="submit">
+      {% t connect.subscribe %}
+    </button>
+  </form>
+</div>
 
 ## Venue
 
-[Oyoun, Lucy-Lameck-Straße 32, 12049 Berlin](https://oyoun.de/)
+[ver.di trade union, Köpenicker Straße, Berlin](https://verdi.de/)
 
 ![Know your rights, powers & history: legal advice, organizing workshop & history class. 20.08.2022 11:00-18:00 Oyoun Neukölln. School of Transnational Organizing.](/assets/img/photo_2022-07-29_15-47-26.jpg "Know your rights, powers and history")
 
 ![Let's build migrant worker power: As part of the Mobile University for Migrant Workers project, Berlin migrant workers in tech, aviation, and delivery are warmly invited to: explore workplace rights they can call upon to build power over labor processes and win increased control over their lives; situate these rights within a broader "ecology" of powers that workers can co-develop to increase influence and transformative potential; position contemporary migrant worker struggles within a historical continuum that contextualizes contemporary tensions and points of conflict.](/assets/img/photo_2022-07-29_15-47-30.jpg "Let's build migrant worker power")
 
-![Schedule & speakers: 11:00 - Doors Open; 11:15 - Legal talk with Daniel Weidmann; 13:00 Lunch; 14:00 Ecology of Power Organizing Workshop w Mobile University for Migrant Worker Trainers; 15:30 Break; 16:00 Lessons from the History of Migrant Workers Struggles w Bernd Kasparek; 18:00 End](/assets/img/photo_2022-07-29_15-47-33.jpg "Schedule & Speakers")
+![Schedule & speakers: 11:00 - Doors Open; 11:15 - Legal talk with Daniel Weidmann; 13:00 Lunch; 14:00 Ecology of Power Organizing Workshop w Mobile University for Migrant Worker Trainers; 15:30 Break; 16:00 Lessons from the History of Migrant Workers Struggles with Bernd Kasparek; 18:00 End](/assets/img/photo_2022-07-29_15-47-33.jpg "Schedule & Speakers")
 
-![Come join us August 20 at Oyoun in Neukölln! Flink Workers Collective, Ver.di, Berlin Tech Workers Coalition, and Lieferando Workers Collective. Lucy-Lameck-Straße 32 12049 Berlin](/assets/img/photo_2022-07-29_15-47-36.jpg "Come join us!")
+![Come join us August 20 at verdi! Flink Workers Collective, ver.di, Berlin Tech Workers Coalition, and Lieferando Workers Collective. ver.di, Köpenicker Straße, Berlin](/assets/img/photo_2022-07-29_15-47-36.jpg "Come join us!")
+
+<div class="social-links">
+  <form name="verdi-kyr-event-2022" class="join-form" method="POST" data-netlify="true">
+    <div>
+      <label for="name">{% t connect.name %}</label>
+      <input class="input-text" id="name" type="text" required name="name" />
+    </div>
+    <div>
+      <label for="email">{% t connect.email %}</label>
+      <input
+        class="input-text"
+        id="email"
+        type="email"
+        required
+        name="email"
+      />
+    </div>
+    <div>
+      <label for="phone">Phone number (optional)</label>
+      <input
+        class="input-text"
+        id="email"
+        type="tel"
+        name="phone"
+      />
+    </div>
+    <div>
+      <label for="company">{% t connect.company %}</label>
+      <input class="input-text" id="company" type="text" name="company" />
+    </div>
+    <div>
+      <input class="input-text" id="referrer" type="hidden" name="referrer" />
+    </div>
+
+    <button class="subscribe-button" type="submit">
+      {% t connect.subscribe %}
+    </button>
+  </form>
+</div>
