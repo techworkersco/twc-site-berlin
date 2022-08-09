@@ -12,7 +12,7 @@ This event is free and there will be food! To help us with planning, please fill
 
 ## Venue
 
-[ver.di trade union, Köpenicker Straße, Berlin](https://verdi.de/)
+[ver.di trade union, Paula-Thiede-Ufer 10](https://verdi.de/)
 
 <div class="social-links">
   <form name="verdi-kyr-event-2022" class="join-form" method="POST" data-netlify="true">
@@ -53,7 +53,7 @@ This event is free and there will be food! To help us with planning, please fill
   </form>
 </div>
 
-![Know your rights, powers & history: legal advice, organizing workshop & history class. 20.08.2022 11:00-18:00 Oyoun Neukölln. School of Transnational Organizing.](/assets/img/photo_2022-07-29_15-47-26.jpg "Know your rights, powers and history")
+![Know your rights, powers & history: legal advice, organizing workshop & history class. 20.08.2022 11:00-18:00 ver.di: Paula-Thiede-Ufer 10. School of Transnational Organizing.](/assets/img/photo_2022-07-29_15-47-26.jpg "Know your rights, powers and history")
 
 
 ## Let's build migrant worker power
