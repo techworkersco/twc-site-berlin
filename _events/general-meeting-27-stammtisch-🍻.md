@@ -17,8 +17,15 @@ All Tech and Non Tech Workers (🧨 TNT) are welcome, including people outside o
 
 ## Venue
 
-TBD/Coming soon
+Stadtteilbüro Friedrichshain
+
+Warschauer Str. 23\
+10243 Berlin
+
+https://koop-fhain.org/
 
 ## Accessibility
 
-Will update once we decide on a location
+Entrance has one step with maximum 3 inches height, most rooms are available without steps.
+
+https://wheelmap.org/nodes/7046289200
