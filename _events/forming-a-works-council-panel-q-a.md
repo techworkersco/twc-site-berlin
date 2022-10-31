@@ -7,7 +7,7 @@ tags:
 ---
 ## 30 November 2022 19:30 CET Online
 
-[Registration](https://us02web.zoom.us/meeting/register/tZEudeihqTgpH9cvAVPVRtfTgirlKMZ3Nttc) for this session is mandatory to ensure a safe environment for everyone. These trainings are held bi-monthly.
+[Registration](https://us02web.zoom.us/meeting/register/tZEudeihqTgpH9cvAVPVRtfTgirlKMZ3Nttc) for this session is mandatory to ensure a safe environment for everyone. 
 
 So you are trying to start a works council at your workplace? Hear from workers at Contentful, ShareNow, and more about their experiences organising works councils in their offices. Spoiler, some went smoothly and some did not. This session will be part story telling, part sharing tips, and a large section for Q/A. We are mostly sharing experiences from International english-speaking tech offices, but all are welcome even if this does not apply to your workplace! Bring your questions.
 
