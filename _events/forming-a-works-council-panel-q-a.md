@@ -9,7 +9,7 @@ tags:
 
 [Registration](https://us02web.zoom.us/meeting/register/tZEudeihqTgpH9cvAVPVRtfTgirlKMZ3Nttc) for this session is mandatory to ensure a safe environment for everyone. 
 
-So you are trying to start a works council at your workplace? Hear from workers at Contentful, ShareNow, and more about their experiences organising works councils in their offices. Spoiler, some went smoothly and some did not. This session will be part story telling, part sharing tips, and a large section for Q/A. We are mostly sharing experiences from International english-speaking tech offices, but all are welcome even if this does not apply to your workplace! Bring your questions.
+So you are trying to start a works council at your workplace? Hear from workers at Contentful, ShareNow, and more about their experiences organising works councils in their offices. Spoiler: some went smoothly and some did not. This session will be part story telling, part sharing tips, and a large section for Q/A. We are mostly sharing experiences from International english-speaking tech offices, but all are welcome even if this does not apply to your workplace! Bring your questions.
 
 This session will only briefly cover what works councils are and what they can do. For more on that topic, check our [works councils page](https://techworkersberlin.com/works-councils) on the website and look out for the next Works Council Training for Beginners event on our events page.
 
