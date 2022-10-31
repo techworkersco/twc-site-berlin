@@ -5,7 +5,7 @@ hide_form: true
 tags:
   - works-council
 ---
-## 30 November 19:30 CET Online
+## 30 November 2022 19:30 CET Online
 
 [Registration](https://us02web.zoom.us/meeting/register/tZEudeihqTgpH9cvAVPVRtfTgirlKMZ3Nttc) for this session is mandatory to ensure a safe environment for everyone. These trainings are held bi-monthly.
 
