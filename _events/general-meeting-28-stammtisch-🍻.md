@@ -29,7 +29,7 @@ All people working in the tech industry are welcome. The event will be held in E
 
 ## Venue
 
-[Stadtteilbüro Friedrichshain](https://goo.gl/maps/MNnmsZf3EnzoqJ6q6)
+[Stadtteilbüro Friedrichshain](https://www.openstreetmap.org/node/7046289200)
 
 Warschauer Str. 23\
 10243 Berlin
