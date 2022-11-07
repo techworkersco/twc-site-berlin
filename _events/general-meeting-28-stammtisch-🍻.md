@@ -9,7 +9,7 @@ hide_form: false
 
 💫The main topic will be a discussion about TWC purpose and strategy.
 
-Our monthly general meetings are usually on a Thursday and are in person. 
+Our monthly general meetings are usually on a Thursday and in person. 
 
 All people working in the tech industry are welcome. The event will be held in English.
 
