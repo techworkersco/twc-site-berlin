@@ -17,8 +17,8 @@ All people working in the tech industry are welcome. The event will be held in E
 
 📝Agenda (1,5 hours)
 
-* Organizing round (15 mins)
-* Strategy document discussion (30 mins)
+* Organizing round (20 mins)
+* Strategy document discussion (25 mins)
 * Care taking check-in (10 mins)
 * Website, communication & content (10 mins)
 * Proposal for event: Role of Unions in Germany in the Tech Industry (10 mins)
@@ -29,7 +29,7 @@ All people working in the tech industry are welcome. The event will be held in E
 
 ## Venue
 
-[Stadtteilbüro Friedrichshain](https://www.openstreetmap.org/node/7046289200)
+Stadtteilbüro Friedrichshain
 
 Warschauer Str. 23\
 10243 Berlin
