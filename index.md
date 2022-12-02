@@ -31,8 +31,8 @@ permalink: /
 <section class="titled-block" aria-labelledby="hl-links">
   <h2 id="hl-links">{% t resources_title %}</h2>
   <ul>
-  {% for resource in resources %}
-  <li><a href="{% t resource.url %}">{% t resource.title %}</a></li>
+  {% for resource in site.translations[site.lang].resources %}
+  <li><a href="{{ resource.url }}">{{ resource.title }}</a></li>
   {% endfor %}
   </ul>
 </section>
