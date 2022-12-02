@@ -12,9 +12,10 @@ permalink: /
 <section class="titled-block" aria-labelledby="hl-events">
   <h2 id="hl-events">{% t home.events.title %}</h2>
 
-  {% t home.events.summary | safe %}
+{% t home.events.summary | safe %}
 
-  {% include events.html limit=5 %}
+{% include events.html limit=5 %}
+
 </section>
 
 <section class="titled-block" aria-labelledby="hl-news">
@@ -22,21 +23,15 @@ permalink: /
   {% include news.html limit=3 %}
 </section>
 
-
 <section class="titled-block" aria-labelledby="hl-links">
   <h2 id="hl-links">{% t connect.title %}</h2>
   {% include links.html %}
 </section>
 
-<section class="titled-block" aria-labelledby="hl-links">
-  <h2 id="hl-links">{% t resources_title %}</h2>
-  <ul>
-  {% for resource in site.translations[site.lang].resources %}
-  <li><a href="{{ resource.url }}">{{ resource.title }}</a></li>
-  {% endfor %}
-  </ul>
+<section class="titled-block" aria-labelledby="hl-resources">
+  <h2 id="hl-resources">{% t resources_title %}</h2>
+  {% include resources.html %}
 </section>
-
 
 <section class="titled-block" aria-labelledby="hl-a11y">
   <h2 id="hl-a11y">{% t global.accessibility.title %}</h2>
