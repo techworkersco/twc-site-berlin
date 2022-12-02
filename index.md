@@ -12,9 +12,9 @@ permalink: /
 <section class="titled-block" aria-labelledby="hl-events">
   <h2 id="hl-events">{% t home.events.title %}</h2>
 
-{% t home.events.summary | safe %}
+  {% t home.events.summary | safe %}
 
-{% include events.html limit=5 %}
+  {% include events.html limit=5 %}
 
 </section>
 

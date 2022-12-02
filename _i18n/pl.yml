@@ -15,8 +15,6 @@ connect:
   info: informacje kontaktowe
   title: Dołącz do naszej społeczności
   email: Adres e-mail
-  info:
-  title:
   name:
   public_link:
   company:
@@ -32,7 +30,7 @@ global:
 
   accessibility:
     title: Dostępność
-    summary: Nieustannie pracujemy nad tym, by Berlin Tech Workers Collective było jak najbardziej dostępne. Staramy się, by spotkania odbywały się w miejscach dostępnych dla wózków inwalidzkich, bez dymu, za to z opieką dla dzieci oraz krótkim czasem trwania. Aby każdy mógł się odpowiednio przygotować, przed spotkaniami udostępniamy informacje o lokalizacji, łącznie z opisem wejścia, oświetlenia i poziomu hałasu, oraz zasadach dotyczących psów i psów-przewodników. Jeśli masz opinie lub sugestie dotyczące dostępności naszych spotkań, strony lub działań, napisz do nas na <email>
+    summary: Nieustannie pracujemy nad tym, by Berlin Tech Workers Collective było jak najbardziej dostępne. Staramy się, by spotkania odbywały się w miejscach dostępnych dla wózków inwalidzkich, bez dymu, za to z opieką dla dzieci oraz krótkim czasem trwania. Aby każdy mógł się odpowiednio przygotować, przed spotkaniami udostępniamy informacje o lokalizacji, łącznie z opisem wejścia, oświetlenia i poziomu hałasu, oraz zasadach dotyczących psów i psów-przewodników. Jeśli masz opinie lub sugestie dotyczące dostępności naszych spotkań, strony lub działań, napisz do nas na <a rel="noopener noreferrer" target="_blank" href="mailto:accessibility@techworkersberlin.com">accessibility@techworkersberlin.com</a>.
 
 pl:
   time:
