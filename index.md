@@ -28,6 +28,16 @@ permalink: /
   {% include links.html %}
 </section>
 
+<section class="titled-block" aria-labelledby="hl-links">
+  <h2 id="hl-links">{% t resources_title %}</h2>
+  <ul>
+  {% for resource in resources %}
+  <li><a href="{% t resource.url %}">{% t resource.title %}</a></li>
+  {% endfor %}
+  </ul>
+</section>
+
+
 <section class="titled-block" aria-labelledby="hl-a11y">
   <h2 id="hl-a11y">{% t global.accessibility.title %}</h2>
   {% t global.accessibility.summary %}
