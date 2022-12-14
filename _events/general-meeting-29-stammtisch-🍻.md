@@ -7,7 +7,10 @@ hide_form: false
 
 🧚‍♂️ We cordially invite you to the monthly general meeting for the Berlin Tech Workers Coalition (TWC), where those organizing in the tech industry come together to build collective power beyond their individual workplace.
 
-💫The main topic will be a discussion about TWC purpose and strategy.
+💫Highlights: 
+
+* How can we fight against lay-offs? 
+* Role of Unions in Germany in the Tech Industry
 
 Our monthly general meetings are usually on a Thursday and in person. 
 
@@ -17,7 +20,14 @@ All people working in the tech industry are welcome. The event will be held in E
 
 📝Agenda (1,5 hours)
 
-* TBA
+1. Organizing round (10 mins)
+2. Organizing Workgroup feedback (20)
+3. Care taking check-in (10 mins)
+4. Brief summary of the works council reports meeting (5 mins)
+5. Debate introduction: Role of Unions in Germany in the Tech Industry (20 mins)
+6. Communication Workgroup feedback (10 mins)
+7. Next meeting date and facilitators (5 mins)
+8. Various short anouncements (5mins)
 
 20:30 onward - enjoy some (non) alcoholic drinks 🍻🥤 and meet fellow workers
 
