@@ -10,6 +10,31 @@ function employeeCount(){
   return parseInt(document.getElementById('employee_count').value);
 }
 
+function handleTemplateGeneratorFormSubmit() {
+  signaturesTable()
+  candidateTable()
+  persistForm()
+}
+
+function persistValue(id) {
+  const el = document.getElementById(id);
+  if(!el || !el.value || el.value.length === 0) {
+    return
+  }
+  if(el.attributes.type && el.attributes.type === "number") {
+    window.localStorage.setItem("candidates." + id, parseInt(el.value))
+  }
+  else {
+    window.localStorage.setItem("candidates." + id, el.value)
+  }
+}
+
+function persistForm() {
+  persistValue('employee_count')
+  persistValue('list_owners')
+  persistValue('list_name')
+}
+
 function candidateTable() {
   const tableBody = document.querySelector("#candidates_id");
   const caption = document.querySelector("#candidate_table > caption");

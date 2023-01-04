@@ -1,0 +1,8 @@
+@media print {
+    main {
+        max-width: 100%
+    }
+    .header, .site-footer, p, .social-links, caption {
+        display: none;
+    }
+}

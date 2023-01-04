@@ -16,7 +16,7 @@ As soon as the Works Council election date is announced, any employee interested
   <label>List owners (two people's names)
     <input id="list_owners" />
   </label><br>
-  <button onclick="candidateTable();signaturesTable();" >Generate</button>
+  <button onclick="handleTemplateGeneratorFormSubmit()" >Generate</button>
 </div>  
 
 <div id="works_council_size"></div>
