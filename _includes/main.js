@@ -101,4 +101,11 @@ function worksCouncilSize(employees) {
   return Math.ceil((employeeCount - 9000)/3000)*2 + 35
 }
 
-function supportingCandidates(employeeCount) { return Math.min(employeeCount/20, 50)}
+function supportingCandidates(employeeCount) {
+  if (employeeCount < 21) {
+    return 0
+  } else if (employeeCount < 101 ) {
+    return 2
+  } else
+  return Math.min(Math.ceil(employeeCount/20), 50)
+}

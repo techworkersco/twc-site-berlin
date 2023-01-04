@@ -7,7 +7,7 @@ You only have two weeks to start collecting candidates, and afterwards supportin
 
 <div class="social-links">
   <label>Number of employees in your establishment
-    <input id="employee_count" />
+    <input id="employee_count" type="number" min="1" required/>
   </label><br/>
   <label>Name of your list
     <input id="list_name" />
