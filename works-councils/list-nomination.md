@@ -15,13 +15,13 @@ You only have two weeks to start collecting candidates, and afterwards supportin
   <label>List owners (two people's names)
     <input id="list_owners" />
   </label><br>
-  <button onclick="candidateTable();supportersTable();" >Generate</button>
+  <button onclick="candidateTable();signaturesTable();" >Generate</button>
 </div>  
 
 <div id="works_council_size"></div>
 
 <table id=candidate_table>
-<caption></caption>
+<caption>Candidates</caption>
   <tr>
     <th scope="col">Rank on list</th>
     <th scope="col">First name</th>
@@ -29,30 +29,18 @@ You only have two weeks to start collecting candidates, and afterwards supportin
     <th scope="col">Date of birth</th>
     <th scope="col">Gender</th>
     <th scope="col">Job title</th>
+    <th scope="col">Signature</th>
   </tr>
-  <tbody id="tableCandidateBody">
-
-  </tbody>
+  <tbody id="candidates_id"></tbody>
 </table>
 
-<table id=supporter_table>
+<table id=supporter_signature_table>
+  <caption>Name of the supporteers themselves</caption>
   <tr>
-    <th scope="col">Rank on list</th>
     <th scope="col">First name</th>
     <th scope="col">Last name</th>
-    <th scope="col">Date of birth</th>
-    <th scope="col">Gender</th>
-    <th scope="col">Job title</th>
+    <th scope="col">Signature</th>
+    <th scope="col">Minimum number of signatures</th>
   </tr>
-  <tr>
-    <th scope="col">Rank on list</th>
-    <th scope="col">First name</th>
-    <th scope="col">Last name</th>
-    <th scope="col">Date of birth</th>
-    <th scope="col">Gender</th>
-    <th scope="col">Job title</th>
-  </tr>
-  <tbody id="tableBody">
-
-  </tbody>
+  <tbody id="signatures_id"></tbody>
 </table>

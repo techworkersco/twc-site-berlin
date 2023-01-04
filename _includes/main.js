@@ -6,23 +6,25 @@ trigger.addEventListener('click', function(e) {
     element.classList.toggle('hide');
 });
 
+function employeeCount(){
+  return parseInt(document.getElementById('employee_count').value);
+}
+
 function candidateTable() {
-  const tableBody = document.querySelector("#tableCandidateBody");
+  const tableBody = document.querySelector("#candidates_id");
   const caption = document.querySelector("#candidate_table > caption");
-  let employeeCount = parseInt(document.getElementById('employee_count').value);
   let list_owners = document.getElementById('list_owners').value
   let list_name = document.getElementById('list_name').value || list_owners
-  let recommended_candidates_size = worksCouncilSize(employee_count)*2;
 
-
+  let count = employeeCount();
   let caption_text = `
-    The future works council will have ${worksCouncilSize(employee_count)} members.
-    Candidate <b>list proposal: ${list_name}</b> ideally has ${recommended_candidates_size} candidates.
-    A mandatory ${supportingCandidates(worksCouncilSize(employee_count))} supporting signatures are also necessary, once all candidates are collected.
+    The future works council will have ${worksCouncilSize(count)} members.
+    Candidate <b>list proposal: ${list_name}</b> ideally has ${worksCouncilSize(employeeCount())*2} candidates.
+    A mandatory ${supportingCandidates(employeeCount())} supporting signatures are also necessary, once all candidates are collected.
   `
 
   tableData = ""
-    for (let i = 0; i < recommended_candidates_size; i++) {
+    for (let i = 0; i < worksCouncilSize(employeeCount())*2; i++) {
        tableData +=
        `<tr>
           <td>#${i+1}</td>
@@ -31,8 +33,37 @@ function candidateTable() {
           <td></td>
           <td></td>
           <td></td>
+          <td></td>
        </tr>`
    }
+
+  tableBody.innerHTML = tableData;
+  caption.innerHTML = caption_text
+}
+
+function signaturesTable() {
+  const tableBody = document.querySelector("#signatures_id");
+  const caption = document.querySelector("#supporter_signature_table > caption");
+
+  let count = employeeCount();
+  let caption_text = `
+    A mandatory ${supportingCandidates(employeeCount())} supporting signatures are also necessary, once all candidates are collected.
+  `
+
+  tableData = ""
+    for (let i = 0; i < supportingCandidates(employeeCount()); i++) {
+       let bgColor = i + 1 < supportingCandidates(employeeCount()) ? "#FFCCCB" : "#66FF99"
+       let text = "#FFCCCB" == bgColor ? "Almost" : "Congrats!"
+       tableData +=
+       `<tr>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td style="background-color:${bgColor}">${text}</td>
+       </tr>`
+   }
+
+  tableData +=
 
   tableBody.innerHTML = tableData;
   caption.innerHTML = caption_text
@@ -60,9 +91,9 @@ const employeeCounts = {
   9001: 35
 }
 
-function worksCouncilSize(employeeCount) {
+function worksCouncilSize(employees) {
  for (const limit in employeeCounts) {
-   if (employeeCount < limit) {
+   if (employees < limit) {
      return employeeCounts[limit];
     }
   }
@@ -70,4 +101,4 @@ function worksCouncilSize(employeeCount) {
   return Math.ceil((employeeCount - 9000)/3000)*2 + 35
 }
 
-function supportingCandidates(employeeCount){ return Math.min(employeeCount/20, 50)}
+function supportingCandidates(employeeCount) { return Math.min(employeeCount/20, 50)}
