@@ -33,7 +33,7 @@ You only have two weeks to start collecting candidates, and afterwards supportin
   </tr>
   <tbody id="candidates_id"></tbody>
 </table>
-
+<br>
 <table id=supporter_signature_table>
   <caption>Name of the supporteers themselves</caption>
   <tr>

@@ -16,15 +16,15 @@ function candidateTable() {
   let list_owners = document.getElementById('list_owners').value
   let list_name = document.getElementById('list_name').value || list_owners
 
-  let count = employeeCount();
+  let employee_count = employeeCount();
   let caption_text = `
-    The future works council will have ${worksCouncilSize(count)} members.
-    Candidate <b>list proposal: ${list_name}</b> ideally has ${worksCouncilSize(employeeCount())*2} candidates.
-    A mandatory ${supportingCandidates(employeeCount())} supporting signatures are also necessary, once all candidates are collected.
+    The future works council will have ${worksCouncilSize(employee_count)} members.
+    Candidate <b>list proposal: ${list_name}</b> ideally has ${worksCouncilSize(employee_count)*2} candidates.
+    A mandatory ${supportingCandidates(employee_count)} supporting signatures are also necessary, once all candidates are collected.
   `
 
   tableData = ""
-    for (let i = 0; i < worksCouncilSize(employeeCount())*2; i++) {
+    for (let i = 0; i < worksCouncilSize(employee_count)*2; i++) {
        tableData +=
        `<tr>
           <td>#${i+1}</td>
@@ -45,13 +45,13 @@ function signaturesTable() {
   const tableBody = document.querySelector("#signatures_id");
   const caption = document.querySelector("#supporter_signature_table > caption");
 
-  let count = employeeCount();
+  let employee_count = employeeCount();
   let caption_text = `
-    A mandatory ${supportingCandidates(employeeCount())} supporting signatures are also necessary, once all candidates are collected.
+    A mandatory ${supportingCandidates(employee_count)} supporting signatures are also necessary, once all candidates are collected.
   `
 
   tableData = ""
-    for (let i = 0; i < supportingCandidates(employeeCount()); i++) {
+    for (let i = 0; i < supportingCandidates(employee_count); i++) {
        let bgColor = i + 1 < supportingCandidates(employeeCount()) ? "#FFCCCB" : "#66FF99"
        let text = "#FFCCCB" == bgColor ? "Almost" : "Congrats!"
        tableData +=

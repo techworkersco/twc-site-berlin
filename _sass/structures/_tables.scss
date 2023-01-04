@@ -1,10 +1,9 @@
 table {
-  font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
 
-table td, table th {
+table td, table th, caption {
   border: 1px solid #ddd;
   padding: 8px;
 }
@@ -13,10 +12,17 @@ table tr:nth-child(even){background-color: #f2f2f2;}
 
 table tr:hover {background-color: #ddd;}
 
-table th {
+table th, caption {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #04AA6D;
   color: white;
+}
+
+table th {
+  background-color: #04AA6D;
+}
+
+caption {
+  background-color: red;
 }
