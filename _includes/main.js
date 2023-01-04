@@ -24,31 +24,44 @@ function candidateTable() {
   `
 
   tableData = ""
-    for (let i = 0; i < worksCouncilSize(employee_count)*2; i++) {
-       tableData +=
-       `<tr>
-          <td>#${i+1}</td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-       </tr>`
-   }
+  for (let i = 0; i < worksCouncilSize(employee_count)*2; i++) {
+     tableData +=
+     `<tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+     </tr>`
+ }
 
   tableBody.innerHTML = tableData;
   caption.innerHTML = caption_text
 }
 
 function signaturesTable() {
-  const tableBody = document.querySelector("#signatures_id");
+  const tableSignatureBody = document.querySelector("#signatures_id");
+  const tableCandidateSignatureBody = document.querySelector("#signatures_candidate_id");
   const caption = document.querySelector("#supporter_signature_table > caption");
 
   let employee_count = employeeCount();
   let caption_text = `
     A mandatory ${supportingCandidates(employee_count)} supporting signatures are also necessary, once all candidates are collected.
   `
+
+  candidateData = ""
+  for (let i = 0; i < worksCouncilSize(employee_count)*2; i++) {
+     candidateData +=
+     `<tr>
+        <td>#${i+1}</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+     </tr>`
+  }
 
   tableData = ""
     for (let i = 0; i < supportingCandidates(employee_count); i++) {
@@ -63,9 +76,8 @@ function signaturesTable() {
        </tr>`
    }
 
-  tableData +=
-
-  tableBody.innerHTML = tableData;
+  tableSignatureBody.innerHTML = tableData;
+  tableCandidateSignatureBody.innerHTML = candidateData;
   caption.innerHTML = caption_text
 }
 
