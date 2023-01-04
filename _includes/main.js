@@ -38,48 +38,36 @@ function candidateTable() {
   caption.innerHTML = caption_text
 }
 
+const employeeCounts = {
+  5: 0,
+  21: 1,
+  51: 3,
+  101: 5,
+  201: 7,
+  401: 9,
+  701: 11,
+  1001: 13,
+  1501: 15,
+  2001: 17,
+  2501: 19,
+  3001: 21,
+  3501: 23,
+  4001: 25,
+  4501: 27,
+  5001: 29,
+  6001: 31,
+  7001: 33,
+  9001: 35
+}
+
 function worksCouncilSize(employeeCount) {
-  if (employeeCount < 6) {
-    return 0
-  } else if (employeeCount < 21) {
-    return 1
-  } else if (employeeCount < 51) {
-    return 3
-  } else if (employeeCount < 101) {
-    return 5
-  } else if (employeeCount < 201) {
-    return 7
-  } else if (employeeCount < 401) {
-    return 9
-  } else if (employeeCount < 701) {
-    return 11
-  } else if (employeeCount < 1001) {
-    return 13
-  } else if (employeeCount < 1501) {
-    return 15
-  } else if (employeeCount < 2001) {
-    return 17
-  } else if (employeeCount < 2501) {
-    return 19
-  } else if (employeeCount < 3001) {
-    return 21
-  } else if (employeeCount < 3501) {
-    return 23
-  } else if (employeeCount < 4001) {
-    return 25
-  } else if (employeeCount < 4501) {
-    return 27
-  } else if (employeeCount < 5001) {
-    return 29
-  } else if (employeeCount < 6001) {
-    return 31
-  } else if (employeeCount < 7001) {
-    return 33
-  } else if (employeeCount < 9001) {
-    return 35
-  } else {
-    return Math.ceil((employeeCount - 9000)/3000.0) + 35
+ for (const limit in employeeCounts) {
+   if (employeeCount < limit) {
+     return employeeCounts[limit];
+    }
   }
+  // if the lookup table doesn't furnish a provided limit
+  return Math.ceil((employeeCount - 9000)/3000)*2 + 35
 }
 
 function supportingCandidates(employeeCount){ return Math.min(employeeCount/20, 50)}
