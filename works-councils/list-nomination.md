@@ -7,36 +7,45 @@ As soon as the Works Council election date is announced, any employee interested
 <br>This website form helps you print a customizeable candidate sheet, that you can use, to start collecting the necessary support to run. After filling out the form, you will receive a printer friendly option to save your customisable sheets. This is not the only way to do it, but it is a model template.
 
 <div class="social-links">
-  <label>Number of employees in your establishment
+  <div class="control">
+    <label for="employee_count">Number of employees in your establishment</label>
     <input id="employee_count" type="number" min="1" required/>
-  </label><br/>
-  <label>Name of your list
+  </div>
+  <div class="control">
+    <label for="list_name">Name of your list</label>
     <input id="list_name"/>
-  </label><br>
-  <label>If you know <b>exact</b> number of candidates for your list
+  </div>
+  <div class="control">
+    <label for="candidate_count">If you know <b>exact</b> number of candidates for your list</label>
     <input id="candidate_count" type="number" min="1"/>
-  </label><br>
-  <label>List owners (two people's names, comma separated)
+  </div>
+  <div class="control">
+    <label for="list_owners">List owners (two people's names, comma separated)</label>
     <input id="list_owners" />
-  </label><br>
-  <button onclick="handleTemplateGeneratorFormSubmit()" >Generate</button>
-</div>  
+  </div>
+  <button class="submit subscribe-button"       onclick="handleTemplateGeneratorFormSubmit()" >Generate
+  </button>
+  <button class="submit subscribe-button" onclick="handleTemplateGeneratorExampleFormSubmit()" >Generate from example
+  </button>
+</div>
 
 <div id="works_council_size"></div>
 
-<table id=candidate_table>
-<caption>List of Candidates</caption>
-  <tr>
-    <th scope="col">First name</th>
-    <th scope="col">Last name</th>
-    <th scope="col">Date of birth</th>
-    <th scope="col">Gender</th>
-    <th scope="col">Job title</th>
-    <th scope="col">Signature</th>
-  </tr>
-  <tbody id="candidates_id"></tbody>
-</table>
-<br>
+## List of candidates
+<div class="page-break">
+  <table id=candidate_table>
+  <caption>List of Candidates</caption>
+    <tr>
+      <th scope="col">First name</th>
+      <th scope="col">Last name</th>
+      <th scope="col">Date of birth</th>
+      <th scope="col">Gender</th>
+      <th scope="col">Job title</th>
+      <th scope="col">Signature</th>
+    </tr>
+    <tbody id="candidates_id"></tbody>
+  </table>
+</div>
 <table id="signature_candidate_table">
   <caption>The list of ranked candidates that is presented to co-workers in order for them to decide whether to sign with their supporting signature or not. An employee can only support one list proposal. For small workplaces, signature collection is not necessary.</caption>
   <tr>
@@ -58,10 +67,3 @@ As soon as the Works Council election date is announced, any employee interested
   </tr>
   <tbody id="signatures_id"></tbody>
 </table>
-
-<script>
-  document.getElementById('employee_count').value = localStorage.getItem('election.employee_count');
-  document.getElementById('candidate_count').value = localStorage.getItem('election.candidate_count');
-  document.getElementById('list_name').value = localStorage.getItem('election.list_name');
-  document.getElementById('list_owners').value = localStorage.getItem('election.list_owners');
-</script>

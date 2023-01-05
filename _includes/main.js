@@ -6,19 +6,35 @@ trigger.addEventListener('click', function(e) {
     element.classList.toggle('hide');
 });
 
+let exampleEmployeeCount = Math.floor(Math.random() * (1000 - 25 + 1)) + 25;
+
+function onLoad(){
+  let employee_count = localStorage.getItem('election.employee_count')
+  document.getElementById('employee_count').value = employee_count;
+  document.getElementById('candidate_count').value = localStorage.getItem('election.candidate_count');
+  document.getElementById('list_name').value = localStorage.getItem('election.list_name');
+  document.getElementById('list_owners').value = localStorage.getItem('election.list_owners');
+
+  if (employee_count){
+    handleTemplateGeneratorFormSubmit();
+  }
+}
+
 function handleTemplateGeneratorFormSubmit() {
+  persistForm()
   signaturesTable()
   candidateTable()
-  persistForm()
+}
+
+function handleTemplateGeneratorExampleFormSubmit() {
+  exampleEmployeeCount = Math.floor(Math.random() * (1000 - 25 + 1)) + 25;
+  signaturesTable(true)
+  candidateTable(true)
 }
 
 function persistValue(id) {
-  const el = document.getElementById(id);
-  if(!el || !el.value || el.value.length === 0) {
-    return
-  } else {
-    window.localStorage.setItem("election." + id, el.value)
-  }
+  const value = document.getElementById(id).value;
+  window.localStorage.setItem("election." + id, value || '')
 }
 
 function persistForm() {
@@ -38,28 +54,47 @@ function listName() {
   return (localStorage.getItem('election.list_name') || listOwners()) || ''
 }
 
-function candidateTable() {
+function employeeCount(isExample){
+  return isExample ? exampleEmployeeCount : parseInt(localStorage.getItem('election.employee_count'))
+}
+
+function candidateTable(isExample) {
   const tableBody = document.querySelector("#candidates_id");
   const caption = document.querySelector("#candidate_table > caption");
-  let list_owners = localStorage.getItem('election.list_owners') || ''; // document.getElementById('list_owners').value
+  let list_owners = localStorage.getItem('election.list_owners') || '';
 
-  let caption_text = `${worksCouncil()} coworkers will represent you in your future Works Council.
-    Candidate list proposal: ${listName()} ideally has ${candidates()} candidates.
-    ${supporters()} supporting signature(s) are also necessary, once all the candidates for ${listName()} list are finalized.
+  let caption_text = `${worksCouncil(isExample)} coworkers will represent you and your ${employeeCount(isExample) - 1 } in your future Works Council.
+    Candidate list proposal: ${listName()} ideally has ${candidates(isExample)} candidates.
+    ${supporters(isExample)} supporting signature(s) are also necessary, once all the candidates for ${listName()} list are finalized.
   `
 
   let tableData = ""
-  for (let i = 0; i < candidates(); i++) {
-     tableData +=
-     `<tr>
-        <td>${i == 0 ? candidate1() : ''}</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-     </tr>`
- }
+  if (!isExample) {
+    for (let i = 0; i < candidates(); i++) {
+      tableData +=
+      `<tr>
+      <td>${i == 0 ? candidate1() : ''}</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      </tr>`
+    }
+  } else {
+    for (let i = 0; i < candidates(isExample); i++) {
+      genders = ["male", "female", "diverse", "non-binary"];
+       tableData +=
+      `<tr>
+        <td>${randomItem(firstNames)}</td>
+        <td>${randomItem(lastNames)}</td>
+        <td>${randomDate()}</td>
+        <td>${randomItem(genders)}</td>
+        <td>${randomItem(jobTitles)}</td>
+        <td>${randomItem(["😅", "🙈", "✊", "👾"])}</td>
+       </tr>`
+     }
+  }
 
   tableBody.innerHTML = tableData;
   caption.innerHTML = caption_text
@@ -73,40 +108,90 @@ function candidate1(){
  }
 }
 
-function signaturesTable() {
+function randomItem(items){
+  return items[Math.floor(Math.random()* items.length)]
+}
+
+function getRandomInt(max) {
+  return Math.floor(Math.random() * max);
+}
+
+function randomDate() {
+  let start = new Date('1970-01-01')
+  let end = new Date('2004-12-31')
+
+  return new Date(start.getTime() + Math.random() * (end.getTime() - start.getTime())).toLocaleDateString();
+}
+
+function signaturesTable(isExample) {
   const tableSignatureBody = document.querySelector("#signatures_id");
   const tableCandidateSignatureBody = document.querySelector("#signatures_candidate_id");
   const caption = document.querySelector("#signature_candidate_table > caption");
   let caption_text = `
-    List proposal ${listName()} needs at least ${supporters()} supporting signature
-    for the following candidates of the ${listName()} list nomination.`
+    List proposal Solidarity needs at least ${supporters(isExample)} supporting signatures
+    for the following candidates of the Solidarity list nomination.`
 
+  if (!isExample) {
+    caption_text = `List proposal ${listName()} needs at least ${supporters()} supporting signatures
+    for the following candidates of the ${listName()} list nomination.`
+  }
   let candidateData = ""
+
+  if (!isExample) {
+    for (let i = 0; i < candidates(); i++) {
+       candidateData +=
+      `<tr>
+        <td>#${i+1}</td>
+        <td>${ i == 0 ? candidate1() : '' }</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+       </tr>`
+     }
+  } else {
   for (let i = 0; i < candidates(); i++) {
+    genders = ["male", "female", "diverse", "non-binary"];
      candidateData +=
     `<tr>
       <td>#${i+1}</td>
-      <td>${ i == 0 ? candidate1() : '' }</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>${randomItem(firstNames)}</td>
+      <td>${randomItem(lastNames)}</td>
+      <td>${randomDate()}</td>
+      <td>${randomItem(genders)}</td>
+      <td>${randomItem(jobTitles)}</td>
      </tr>`
+   }
   }
 
+
   let tableData = ""
-  for (let i = 0; i < supporters(); i++) {
-    let bgColor = i + 1 < supporters() ? "#FFCCCB" : "#66FF99"
-    let text = "#FFCCCB" == bgColor ? "Almost" : "Congrats!"
-    tableData +=
-    `<tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td style="background-color:${bgColor}">${text}</td>
-   </tr>`
+  if (!isExample) {
+    for (let i = 0; i < supporters(); i++) {
+      let bgColor = i + 1 < supporters() ? "#FFCCCB" : "#66FF99"
+      let text = "#FFCCCB" == bgColor ? "Almost" : "Congrats!"
+      tableData +=
+      `<tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td style="background-color:${bgColor}">${text}</td>
+     </tr>`
+    }
+    tableData += extraSupporterRows()
+  } else {
+    for (let i = 0; i < supporters(isExample); i++) {
+      let bgColor = i + 1 < supporters(isExample) ? "#FFCCCB" : "#66FF99"
+      let text = "#FFCCCB" == bgColor ? "Almost" : "Congrats!"
+      tableData +=
+      `<tr>
+        <td>${randomItem(firstNames)}</td>
+        <td>${randomItem(lastNames)}</td>
+        <td>${randomItem(["😅", "🙈", "✊", "👾"])}</td>
+        <td style="background-color:${bgColor}">${text}</td>
+     </tr>`
+    }
   }
-  tableData += extraSupporterRows()
 
   tableSignatureBody.innerHTML = tableData;
   tableCandidateSignatureBody.innerHTML = candidateData;
@@ -151,8 +236,12 @@ const employeeThreshholds = {
   9001: 35
 }
 
-function worksCouncil() {
- let employees = parseInt(localStorage.getItem('election.employee_count'))
+const lastNames = ["Schmidt", "Miller", "Xi", "Patel", "Ortez", "Goldman", "Shevchenko", "Melnyk", "Popova"]
+const firstNames = ["Chris", "Sam", "Hannah", "Raj", "Aditi", "Thomas", "Marie", "Mahmoud"];
+const jobTitles = ["Venture capitalist", "Customer support", "Working student", "Warehouse picker", "IT support", "QA engineer", "Delivery rider", "Marketing manager", "Software engineer"]
+
+function worksCouncil(isExample) {
+ let employees = employeeCount(isExample)
  for (const limit in employeeThreshholds) {
    if (employees < limit) {
      return employeeThreshholds[limit];
@@ -162,13 +251,16 @@ function worksCouncil() {
   return Math.ceil((employees - 9000)/3000)*2 + 35
 }
 
-function candidates() {
+function candidates(isExample) {
+  if (isExample) {
+    return 2 * worksCouncil(isExample)
+  }
   // if unknown, double works council size is recommended
   return parseInt(localStorage.getItem('election.candidate_count')) || 2 * worksCouncil()
 }
 
-function supporters() {
-  let employees = parseInt(localStorage.getItem('election.employee_count'))
+function supporters(isExample) {
+  let employees = employeeCount(isExample)
   if (employees < 21) {
     return 0
   } else if (employees < 101 ) {
@@ -176,3 +268,5 @@ function supporters() {
   } else
   return Math.min(Math.ceil(employees * 1.0 / 20), 50)
 }
+
+onLoad();
