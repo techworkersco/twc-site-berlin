@@ -16,11 +16,7 @@ function persistValue(id) {
   const el = document.getElementById(id);
   if(!el || !el.value || el.value.length === 0) {
     return
-  }
-  if(el.attributes.type && el.attributes.type === "number") {
-    window.localStorage.setItem("candidates." + id, parseInt(el.value))
-  }
-  else {
+  } else {
     window.localStorage.setItem("candidates." + id, el.value)
   }
 }
