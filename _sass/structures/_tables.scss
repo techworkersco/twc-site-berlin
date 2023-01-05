@@ -1,0 +1,38 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table td, table th, caption {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table tr {
+  height: 32px;
+
+  &:hover {background-color: #ddd;}
+  &:nth-child(even){background-color: #f2f2f2;}
+}
+
+.page-break {
+  break-after: page;
+}
+// show table header on every page in printer mode across browsers
+thead { display: table-header-group; }
+
+table th, caption {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  color: white;
+}
+
+table th {
+  background-color: #04AA6D;
+}
+
+caption {
+  background-color: red;
+  font-weight: bolder;
+}

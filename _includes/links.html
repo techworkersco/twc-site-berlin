@@ -35,11 +35,11 @@
 {% unless page.hide_form %}
   <div class="social-links">
     <form name="subscribe" class="join-form" method="POST" data-netlify="true">
-      <div>
+      <div class="control">
         <label for="name">{% t connect.name %}</label>
         <input class="input-text" id="name" type="text" required name="name" />
       </div>
-      <div>
+      <div class="control">
         <label for="email">{% t connect.email %}</label>
         <input
           class="input-text"
@@ -49,7 +49,7 @@
           name="email"
         />
       </div>
-      <div>
+      <div class="control">
         <label for="social1">{% t connect.public_link %} #1</label>
         <input
           class="input-text"
@@ -59,7 +59,7 @@
           name="social_media_1"
         />
       </div>
-      <div>
+      <div class="control">
         <label for="social2">{% t connect.public_link %} #2</label>
         <input
           class="input-text"
@@ -69,7 +69,7 @@
           name="social_media_2"
         />
       </div>
-      <div>
+      <div class="control">
         <label for="company">{% t connect.company %}</label>
         <input class="input-text" id="company" type="text" name="company" />
       </div>
@@ -77,7 +77,7 @@
       <div>
         <input class="input-text" id="referrer" type="hidden" name="referrer" />
       </div>
-      <div>
+      <div class="control">
         <label for="how_did_hear">{% t connect.how_did_hear %}</label>
         <input
           class="input-text"

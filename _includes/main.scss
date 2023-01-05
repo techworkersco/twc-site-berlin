@@ -4,6 +4,7 @@
 @import "elements/a";
 @import "elements/typography";
 @import "structures/lists";
+@import "structures/tables";
 
 @import "structures/main";
 @import "structures/event";
@@ -11,6 +12,8 @@
 @import "header";
 
 @import "layouts/home";
+
+@import "layouts/nominating-candidates";
 
 @import "util/helper";
 @import "util/layout";
@@ -50,6 +53,28 @@ body {
 input {
   display: inline-block;
   margin: 10px 0;
+
+  &:invalid {
+    border: 2px solid red;
+  }
+
+  &:invalid:required {
+    background: #FFCCCB;
+  }
+
+  &:focus {
+    outline: none;
+  }
+
+}
+
+input.input-text {
+  margin-bottom: 5px;
+  border-radius: 5px;
+  border-color: $grey;
+  border-style: solid;
+  border-width: 1px;
+
 }
 
 input[type="submit"] {
@@ -128,9 +153,18 @@ ul {
   border-radius: 8px;
   padding: 10px;
   margin-bottom: 5px;
-  
+
   a {
     text-decoration: none;
+  }
+}
+
+.control {
+  margin-bottom: 5px;
+
+  input, label {
+    display: block;
+    width: 75%;
   }
 }
 
@@ -170,17 +204,6 @@ img {
   color: $white;
 }
 
-input.input-text {
-  margin-bottom: 5px;
-  border-radius: 5px;
-  border-color: $grey;
-  border-style: solid;
-  border-width: 1px;
-
-  &:focus {
-    outline: none;
-  }
-}
 
 .subscribe-button {
   border-color: transparent;
