@@ -35,7 +35,7 @@ As soon as the Works Council election date is announced, any employee interested
 </table>
 <br>
 <table id="supporter_signature_candidate_overview_table">
-  <caption>The list of ranked candidates that must be presented to coworkers in order for them to decide whether to sign a supporting signature or not. An employee can only support one list proposal. For small workplaces, signature collective is not necessary.</caption>
+  <caption>The list of ranked candidates that is presented to co-workers in order for them to decide whether to sign with their supporting signature or not. An employee can only support one list proposal. For small workplaces, signature collection is not necessary.</caption>
   <tr>
     <th scope="col">Rank</th>
     <th scope="col">First name</th>

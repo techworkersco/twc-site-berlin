@@ -8,9 +8,14 @@ table td, table th, caption {
   padding: 8px;
 }
 
-table tr:nth-child(even){background-color: #f2f2f2;}
+table tr {
+  height: 32px;
 
-table tr:hover {background-color: #ddd;}
+  &:hover {background-color: #ddd;}
+  &:nth-child(even){background-color: #f2f2f2;}
+}
+
+
 
 table th, caption {
   padding-top: 12px;
@@ -25,4 +30,5 @@ table th {
 
 caption {
   background-color: red;
+  font-weight: bolder;
 }

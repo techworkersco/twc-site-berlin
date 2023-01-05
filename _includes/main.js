@@ -6,10 +6,6 @@ trigger.addEventListener('click', function(e) {
     element.classList.toggle('hide');
 });
 
-function employeeCount(){
-  return parseInt(document.getElementById('employee_count').value);
-}
-
 function handleTemplateGeneratorFormSubmit() {
   signaturesTable()
   candidateTable()
@@ -38,18 +34,16 @@ function persistForm() {
 function candidateTable() {
   const tableBody = document.querySelector("#candidates_id");
   const caption = document.querySelector("#candidate_table > caption");
-  let list_owners = document.getElementById('list_owners').value
-  let list_name = document.getElementById('list_name').value || list_owners
-
-  let employee_count = employeeCount();
+  let list_owners = localStorage.getItem('candidates.list_owners') || ''; // document.getElementById('list_owners').value
+  let list_name = (localStorage.getItem('candidates.list_owners') || list_owners) || ''
   let caption_text = `
-    The future works council will have ${worksCouncilSize(employee_count)} members.
-    Candidate <b>list proposal: ${list_name}</b> ideally has ${worksCouncilSize(employee_count)*2} candidates.
-    A mandatory ${supportingCandidates(employee_count)} supporting signatures are also necessary, once all candidates are collected.
+    ${worksCouncil()} coworkers will represent you in your future Works Council.
+    Candidate list proposal: ${list_name} ideally has ${worksCouncil()*2} candidates.
+    ${supporters()} supporting signature(s) are also necessary, once all the candidates for ${list_name} list are finalized.
   `
 
   tableData = ""
-  for (let i = 0; i < worksCouncilSize(employee_count)*2; i++) {
+  for (let i = 0; i < worksCouncil()*2; i++) {
      tableData +=
      `<tr>
         <td></td>
@@ -69,14 +63,12 @@ function signaturesTable() {
   const tableSignatureBody = document.querySelector("#signatures_id");
   const tableCandidateSignatureBody = document.querySelector("#signatures_candidate_id");
   const caption = document.querySelector("#supporter_signature_table > caption");
-
-  let employee_count = employeeCount();
   let caption_text = `
-    A mandatory ${supportingCandidates(employee_count)} supporting signatures are also necessary, once all candidates are collected.
+   ${supporters()} supporting signatures are necessary to support this list.
   `
 
   candidateData = ""
-  for (let i = 0; i < worksCouncilSize(employee_count)*2; i++) {
+  for (let i = 0; i < worksCouncil()*2; i++) {
      candidateData +=
      `<tr>
         <td>#${i+1}</td>
@@ -89,8 +81,8 @@ function signaturesTable() {
   }
 
   tableData = ""
-    for (let i = 0; i < supportingCandidates(employee_count); i++) {
-       let bgColor = i + 1 < supportingCandidates(employeeCount()) ? "#FFCCCB" : "#66FF99"
+    for (let i = 0; i < supporters(); i++) {
+       let bgColor = i + 1 < supporters() ? "#FFCCCB" : "#66FF99"
        let text = "#FFCCCB" == bgColor ? "Almost" : "Congrats!"
        tableData +=
        `<tr>
@@ -106,7 +98,7 @@ function signaturesTable() {
   caption.innerHTML = caption_text
 }
 
-const employeeCounts = {
+const employeeThreshholds = {
   5: 0,
   21: 1,
   51: 3,
@@ -128,21 +120,23 @@ const employeeCounts = {
   9001: 35
 }
 
-function worksCouncilSize(employees) {
- for (const limit in employeeCounts) {
+function worksCouncil() {
+ let employees = parseInt(localStorage.getItem('candidates.employee_count'))
+ for (const limit in employeeThreshholds) {
    if (employees < limit) {
-     return employeeCounts[limit];
+     return employeeThreshholds[limit];
     }
   }
   // if the lookup table doesn't furnish a provided limit
-  return Math.ceil((employeeCount - 9000)/3000)*2 + 35
+  return Math.ceil((employees - 9000)/3000)*2 + 35
 }
 
-function supportingCandidates(employeeCount) {
-  if (employeeCount < 21) {
+function supporters() {
+  let employees = parseInt(localStorage.getItem('candidates.employee_count'))
+  if (employees < 21) {
     return 0
-  } else if (employeeCount < 101 ) {
+  } else if (employees < 101 ) {
     return 2
   } else
-  return Math.min(Math.ceil(employeeCount/20), 50)
+  return Math.min(Math.ceil(employees/20), 50)
 }
