@@ -150,7 +150,7 @@ function signaturesTable(isExample) {
        </tr>`
      }
   } else {
-  for (let i = 0; i < candidates(); i++) {
+  for (let i = 0; i < candidates(isExample); i++) {
     genders = ["male", "female", "diverse", "non-binary"];
      candidateData +=
     `<tr>
