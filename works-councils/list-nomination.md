@@ -11,9 +11,12 @@ As soon as the Works Council election date is announced, any employee interested
     <input id="employee_count" type="number" min="1" required/>
   </label><br/>
   <label>Name of your list
-    <input id="list_name" />
+    <input id="list_name"/>
   </label><br>
-  <label>List owners (two people's names)
+  <label>If you know <b>exact</b> number of candidates for your list
+    <input id="candidate_count" type="number" min="1"/>
+  </label><br>
+  <label>List owners (two people's names, comma separated)
     <input id="list_owners" />
   </label><br>
   <button onclick="handleTemplateGeneratorFormSubmit()" >Generate</button>
@@ -34,7 +37,7 @@ As soon as the Works Council election date is announced, any employee interested
   <tbody id="candidates_id"></tbody>
 </table>
 <br>
-<table id="supporter_signature_candidate_overview_table">
+<table id="signature_candidate_table">
   <caption>The list of ranked candidates that is presented to co-workers in order for them to decide whether to sign with their supporting signature or not. An employee can only support one list proposal. For small workplaces, signature collection is not necessary.</caption>
   <tr>
     <th scope="col">Rank</th>
@@ -47,7 +50,6 @@ As soon as the Works Council election date is announced, any employee interested
   <tbody id="signatures_candidate_id"></tbody>
 </table>
 <table id="supporter_signature_table">
-  <caption>Name of the supporters themselves</caption>
   <tr>
     <th scope="col">First name</th>
     <th scope="col">Last name</th>
@@ -56,3 +58,10 @@ As soon as the Works Council election date is announced, any employee interested
   </tr>
   <tbody id="signatures_id"></tbody>
 </table>
+
+<script>
+  document.getElementById('employee_count').value = localStorage.getItem('election.employee_count');
+  document.getElementById('candidate_count').value = localStorage.getItem('election.candidate_count');
+  document.getElementById('list_name').value = localStorage.getItem('election.list_name');
+  document.getElementById('list_owners').value = localStorage.getItem('election.list_owners');
+</script>
