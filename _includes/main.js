@@ -9,14 +9,16 @@ trigger.addEventListener('click', function(e) {
 let exampleEmployeeCount = Math.floor(Math.random() * (1000 - 25 + 1)) + 25;
 
 function onLoad(){
-  let employee_count = localStorage.getItem('election.employee_count')
-  document.getElementById('employee_count').value = employee_count;
-  document.getElementById('candidate_count').value = localStorage.getItem('election.candidate_count');
-  document.getElementById('list_name').value = localStorage.getItem('election.list_name');
-  document.getElementById('list_owners').value = localStorage.getItem('election.list_owners');
+  if (document.getElementById('candidate_table')) {
+    let employee_count = localStorage.getItem('election.employee_count')
+    document.getElementById('employee_count').value = employee_count;
+    document.getElementById('candidate_count').value = localStorage.getItem('election.candidate_count');
+    document.getElementById('list_name').value = localStorage.getItem('election.list_name');
+    document.getElementById('list_owners').value = localStorage.getItem('election.list_owners');
 
-  if (employee_count){
-    handleTemplateGeneratorFormSubmit();
+    if (employee_count){
+      handleTemplateGeneratorFormSubmit();
+    }
   }
 }
 
@@ -128,11 +130,11 @@ function signaturesTable(isExample) {
   const tableCandidateSignatureBody = document.querySelector("#signatures_candidate_id");
   const caption = document.querySelector("#signature_candidate_table > caption");
   let caption_text = `
-    List proposal Solidarity needs at least ${supporters(isExample)} supporting signatures
+    The list named Solidarity needs at least ${supporters(isExample)} supporting signatures
     for the following candidates of the Solidarity list nomination.`
 
   if (!isExample) {
-    caption_text = `List proposal ${listName()} needs at least ${supporters()} supporting signatures
+    caption_text = `The list named ${listName()} needs at least ${supporters()} supporting signatures
     for the following candidates of the ${listName()} list nomination.`
   }
   let candidateData = ""
@@ -161,9 +163,8 @@ function signaturesTable(isExample) {
       <td>${randomItem(genders)}</td>
       <td>${randomItem(jobTitles)}</td>
      </tr>`
-   }
+    }
   }
-
 
   let tableData = ""
   if (!isExample) {
@@ -187,7 +188,7 @@ function signaturesTable(isExample) {
       `<tr>
         <td>${randomItem(firstNames)}</td>
         <td>${randomItem(lastNames)}</td>
-        <td>${randomItem(["😅", "🙈", "✊", "👾"])}</td>
+        <td>${randomItem(["😅", "🎉", "✊", "👾", "🚀", "🦾", "💾"])}</td>
         <td style="background-color:${bgColor}">${text}</td>
      </tr>`
     }
