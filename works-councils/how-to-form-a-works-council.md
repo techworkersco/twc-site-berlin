@@ -23,13 +23,15 @@ To get an impression on how many co-workers support the campaign, but not alarm 
 
 **3. Determine the eligibility to elect a works council in your company**
 
-The right to elect a Works Council depends on the number of employees of a company (see below). However, a company might be split into separate legal entities, for example regional offices. It is very important to get a clear picture on that structure and determine if a Works Council can be elected, and with how many seats, before continueing further steps.
+The right to elect a Works Council depends on the number of employees of a company (see below). However, a company might be split into separate legal entities, for example regional offices. It is very important to get a clear picture on that structure and determine if a Works Council can be elected, and with how many seats, before continuing further steps.
 
 **4. Before calling for the election, ensure a well-prepared committee is running and there are enough candidates**
 
+[Election template generator]({% link works-councils/list-nomination.md %})
+
 When the workers assembly takes place (see below), it should be prepared thoroughly. One part of that is that there are candidates for the election committee and who share the desire to elect a Works Council. Ideally there is also already a list of co-workers who want to run for the Works Council. Because during a term, seats that become vacant due to for example people leaving the company, need to be re-filled from the list of candidates at election time, it is recommended to have roughly double the number of candidates than there are seats on the Works Council.
 
-## Overview of legal framework 
+## Overview of legal framework
 
 **Who is eligible to vote?**
 
@@ -49,7 +51,7 @@ Workers calling for the assembly are protected from being fired until the electi
 
 **Electing an election committee**
 
-The election committee is responsible for organizing the Works Council election. It consists in general of 3 workers who are eligible to vote. If necessary, there can be more members, but it must always be an odd number. 
+The election committee is responsible for organizing the Works Council election. It consists in general of 3 workers who are eligible to vote. If necessary, there can be more members, but it must always be an odd number.
 
 The committee is elected by the majority of workers at the assembly. From that point onwards the members of the committee are protected from being fired unitl 6 months after the Works Council got elected.
 
@@ -68,7 +70,7 @@ Similarly, the time and resources that Works Council members spend on behalf of 
 **Term**
 
 Forming a Works Council can be done any time in a company that does not have one yet. After that, there are fixed terms for the election every four years (2018, 2022, 2026, etc.). Therefore the first term of the newly elected Works Council could be shortened.
- 
+
 
 **Sources**:
 

@@ -13,6 +13,8 @@ As Tech Workers Coalition, we support the formation of Works Councils (Betriebsr
 
 [How to form a Works Council]({% link works-councils/how-to-form-a-works-council.md %})
 
+[Election template generator]({% link works-councils/list-nomination.md %})
+
 ## Training
 
 We host Works Council trainings regularly, including an introduction to the German Works Council and trade union structures and the possibility to discuss strategic questions and formal considerations of a Works Council campaign. We provide an open forum and safe space to share experiences and learn from each other.
