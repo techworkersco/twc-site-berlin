@@ -63,7 +63,7 @@ function candidateTable(isExample) {
   const caption = document.querySelector("#candidate_table > caption");
   let list_owners = localStorage.getItem('election.list_owners') || '';
 
-  let caption_text = `${worksCouncil(isExample)} coworkers will represent you and your ${employeeCount(isExample) - 1 } in your future Works Council.
+  let caption_text = `${worksCouncil(isExample)} coworkers will represent you and your ${employeeCount(isExample) - 1 } co-workers in your future Works Council.
     Candidate list proposal: ${listName()} ideally has ${candidates(isExample)} candidates.
     ${supporters(isExample)} supporting signature(s) are also necessary, once all the candidates for ${listName()} list are finalized.
   `

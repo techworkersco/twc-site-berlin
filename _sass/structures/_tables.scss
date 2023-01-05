@@ -18,7 +18,8 @@ table tr {
 .page-break {
   break-after: page;
 }
-
+// show table header on every page in printer mode across browsers
+thead { display: table-header-group; }
 
 table th, caption {
   padding-top: 12px;
