@@ -27,6 +27,8 @@ As soon as the Works Council election date is announced, any employee interested
   </button>
   <button class="submit subscribe-button" onclick="handleTemplateGeneratorExampleFormSubmit()" >Generate random example
   </button>
+  <button onClick="window.print()" class="submit subscribe-button">🖨 Print
+  </button>
 </div>
 
 <div id="works_council_size"></div>
