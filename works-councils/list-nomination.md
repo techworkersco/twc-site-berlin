@@ -3,13 +3,21 @@ layout: "page"
 title: "Nominating a list of candidates"
 permalink: /works-councils/nominating-candidates
 ---
+
+## Nominating a list of works council candidates
+
 As soon as the Works Council election date is announced, any employee interested in running only has two weeks to prepare list proposal of candidates and afterwards collect supporting signatures.
-<br>This website form helps you print a customizeable candidate sheet, that you can use, to start collecting the necessary support to run. After filling out the form, you will receive a printer friendly option to save your customisable sheets. This is not the only way to do it, but it is a model template.
+
+This form helps you print a customizeable candidate sheet that you can use to start collecting the necessary support to run. 
+
+After filling out the form, click "generate", and you will receive a printer friendly option to fill out, and you can print or save this document to PDF. This is not the only way to do it, but it is a model template to help you learn about the process.
+
+To see a whimsical example of what your canidate list might look like, try "generate random example".
 
 <div class="social-links">
   <div class="control">
     <label for="employee_count">Number of employees in your establishment</label>
-    <input id="employee_count" type="number" min="1" required/>
+    <input id="employee_count" oninput="handleEmployeeCount()" type="number" min="1" required/>
   </div>
   <div class="control">
     <label for="list_name">Name of your list</label>
@@ -18,6 +26,7 @@ As soon as the Works Council election date is announced, any employee interested
   <div class="control">
     <label for="candidate_count">If you know <b>exact</b> number of candidates for your list</label>
     <input id="candidate_count" type="number" min="1"/>
+    <span id="minimum-candidates"></span>
   </div>
   <div class="control">
     <label for="list_owners">List owners (two people's names, comma separated)</label>
@@ -69,3 +78,4 @@ As soon as the Works Council election date is announced, any employee interested
   </tr>
   <tbody id="signatures_id"></tbody>
 </table>
+<script type="text/javascript">{% include list-nomination.js %}</script>
