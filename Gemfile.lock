@@ -68,8 +68,8 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
     method_source (1.0.0)
-    mini_portile2 (2.8.0)
-    nokogiri (1.13.9)
+    mini_portile2 (2.8.1)
+    nokogiri (1.14.0)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     parallel (1.21.0)
@@ -79,7 +79,7 @@ GEM
       coderay (~> 1.1)
       method_source (~> 1.0)
     public_suffix (5.0.0)
-    racc (1.6.0)
+    racc (1.6.2)
     rainbow (3.0.0)
     rake (13.0.6)
     rb-fsevent (0.11.2)
@@ -115,7 +115,7 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 RUBY VERSION
-   ruby 3.0.0p0
+   ruby 3.2.0p0
 
 BUNDLED WITH
    2.2.4
