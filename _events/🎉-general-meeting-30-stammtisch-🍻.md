@@ -15,13 +15,15 @@ All people working in the tech industry are welcome. The event will be held in E
 
 ### Agenda
 
-📝Agenda (1,5 hours)
+📝Agenda 19:00-20:00 (1 hours)
 
 1. Organizing round (10 mins)
-2. ...To be Announced
-3. Various short anouncements (5 mins)
+2. Website update (15 mins)
+3. Call to action (10 mins)
+4. Care taking round (10 mins)
+5. Next meeting date and facilitators (5 mins)
 
-20:30 onward - enjoy some (non) alcoholic drinks 🍻🥤 and meet fellow workers
+20:00 onward - enjoy some (non) alcoholic drinks 🍻🥤 and meet fellow workers
 
 ## Venue
 
