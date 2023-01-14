@@ -1,6 +1,6 @@
 ---
-layout: "page"
-title: "Nominating a list of candidates"
+layout: 'page'
+title: 'Nominating a list of candidates'
 permalink: /works-councils/nominating-candidates
 ---
 
@@ -8,16 +8,17 @@ permalink: /works-councils/nominating-candidates
 
 As soon as the Works Council election date is announced, any employee interested in running only has two weeks to prepare list proposal of candidates and afterwards collect supporting signatures.
 
-This form helps you print a customizeable candidate sheet that you can use to start collecting the necessary support to run. 
+This form helps you print a customizeable candidate sheet that you can use to start collecting the necessary support to run.
 
 After filling out the form, click "generate", and you will receive a printer friendly option to fill out, and you can print or save this document to PDF. This is not the only way to do it, but it is a model template to help you learn about the process.
 
-To see a whimsical example of what your canidate list might look like, try "generate random example".
+To see an example of what your canidate list might look like, try "generate random example".
 
 <div class="social-links">
+<form id="nominating-candidates">
   <div class="control">
     <label for="employee_count">Number of employees in your establishment</label>
-    <input id="employee_count" oninput="handleEmployeeCount()" type="number" min="1" required/>
+    <input id="employee_count" oninput="handleEmployeeCount()" type="number" min="1" required />
   </div>
   <div class="control">
     <label for="list_name">Name of your list</label>
@@ -32,17 +33,20 @@ To see a whimsical example of what your canidate list might look like, try "gene
     <label for="list_owners">List owners (two people's names, comma separated)</label>
     <input id="list_owners" />
   </div>
-  <button class="submit subscribe-button"       onclick="handleTemplateGeneratorFormSubmit()" >Generate
+  <div class="control" id="form-error"></div>
+  <button class="submit subscribe-button" onclick="handleTemplateGeneratorFormSubmit()" >Generate
   </button>
   <button class="submit subscribe-button" onclick="handleTemplateGeneratorExampleFormSubmit()" >Generate random example
   </button>
-  <button onClick="window.print()" class="submit subscribe-button">🖨 Print
+  <button  id="print-button" onClick="window.print()" class="submit subscribe-button">🖨 Print
   </button>
+  </form>
 </div>
 
 <div id="works_council_size"></div>
 
 ## List of candidates
+
 <div class="page-break">
   <table id=candidate_table>
   <caption>List of Candidates</caption>
