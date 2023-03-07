@@ -18,8 +18,8 @@ All people working in the tech industry are welcome. The event will be held in E
 📝Agenda 19:00-20:00 (1 hours)
 
 1. Introductions + organizing round (15 min)
-2. Outreach actions at Zalando - Report back and call for volunteers (nadine+oriol) (20 min)
-3. Stammtisch and socializing (Ralf) (15 min)
+2. Outreach actions at Zalando - Report back and call for volunteers (20 min)
+3. Stammtisch and socializing (15 min)
 4. Call for Help round (10 min)
 
 20:00 onward - enjoy some (non) alcoholic drinks 🍻🥤 and meet fellow workers
