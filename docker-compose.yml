@@ -1,8 +1,9 @@
-jekyll:
-  image: jekyll/jekyll:3.8.5 # Same version as in the Gemfile
-  command: jekyll serve --watch --incremental
-  ports:
-    - 4000:4000
-  volumes:
-    - .:/srv/jekyll
-    - ./vendor/bundle:/usr/local/bundle # Cache gems
+services:
+  jekyll:
+    image: jekyll/jekyll:3.8.5 # Same version as in the Gemfile
+    command: jekyll serve --watch --incremental
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/srv/jekyll
+      - ./vendor/bundle:/usr/local/bundle # Cache gems
