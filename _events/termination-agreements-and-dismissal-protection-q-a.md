@@ -20,3 +20,5 @@ Our speakers are Anna Gilsbach and Daniel Weidmann. Both are lawyers with [dka R
 Berlin Tech Workers Coalition regularly hosts educational events like this, and a network of tech workers who can share their experiences on how to respond to situations like this.
 
 [Zoom registration event here](https://us02web.zoom.us/meeting/register/tZEuce-trTkqEtxauMfU-2pDcQyMBH4Qu-VI)
+
+![Photo of Gilsbach and Weidmann attornies](/assets/img/gilsbach_und_weidmann.jpg)
