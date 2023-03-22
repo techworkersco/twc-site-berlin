@@ -1,11 +1,11 @@
 ---
 title: An Introduction to Works Councils
-date: 2023-03-30T17:00:00.000Z
+date: 2023-03-30T19:00:00.000+0200
 tags:
   - works-council
 hide_form: true
 ---
-## 30 March 2023 19:00 CET
+## 30 March 2023 19:00
 
 Interested in hearing about what Works Councils are, and what they can do?
 This session is for you!
