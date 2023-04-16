@@ -1,5 +1,5 @@
 ---
-title: "🎉 General Meeting #32 & Stammtisch  🍻"
+title: "🎉 General Meeting #33 & Stammtisch  🍻"
 date: 2023-04-19T18:00:12.633Z
 hide_form: false
 ---
