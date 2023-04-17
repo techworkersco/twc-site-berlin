@@ -1,6 +1,6 @@
 ---
 title: "🎉 General Meeting #33 & Stammtisch  🍻"
-date: 2023-04-19T18:00:12.633Z
+date: 2023-04-19T17:00:12.633Z
 hide_form: false
 ---
 ## {{ page.date | date: '%R %A, %d %B %Y' }}
