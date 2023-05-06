@@ -21,4 +21,7 @@ make_amazon_pay:
   name: Make Amazon Pay
   url: www.makeamazonpay.com
   picture: /assets/img/authors/make_amazon_pay.jpg
+mutova:
+  name: Simon
+  picture: /assets/css/images/logo.png
 title: omg
