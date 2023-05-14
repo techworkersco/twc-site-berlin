@@ -11,17 +11,22 @@ tags:
 
 💫Highlights: 
 
-Our monthly general meetings are *usually* on a Thursday and in person (note this time it is a Wednesday). 
+Our monthly general meetings are *usually* on a Wednesday and in person. 
 
 All people working in the tech industry are welcome. The event will be held in English.
 
 ### Agenda
 
-📝Agenda 19:00-20:30 (1.5 hours)
+📝Agenda 19:00-20:00 (1 hour)
 
-...
+1. Introductions (15 min)
+2. Presentation of the upcoming Governance and Process Jam (5 mins)
+3. Report on 1st of May stall (10 min)
+4. Report on [strike conference in Bochum](https://www.rosalux.de/en/event/es_detail/HY832/going-on-the-offensive-together) (10 min)
+5. Modernizing works council legislation (10min)
+6. Call for help + organizing round / various items (10min)
 
-20:30 onward - enjoy some (non) alcoholic drinks 🍻🥤 and meet fellow workers
+20:00 onward - enjoy some (non) alcoholic drinks 🍻🥤 and meet fellow workers
 
 ## Venue
 
