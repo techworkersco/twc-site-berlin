@@ -1,5 +1,5 @@
 ---
-title: Know your Rights, Powers & History
+title: Tech Conference 2023
 date: 2023-10-13T07:00:40.647Z
 hide_form: true
 image: ""
