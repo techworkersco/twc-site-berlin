@@ -10,17 +10,19 @@ Save the date!
 
 On 13-14 October 2023, the Berlin Tech Workers Coalition will host a worker-led conference along with trade unions ver.di and IG metall, focused on engaging English speaking works council members and workplace activists across different tech, video gaming and rider companies.
 
-It is the second time we organise this conference, [read about the first edition here](https://techworkersberlin.com/events/tech-video-gaming-conference-in-berlin)
+Friday, 13 October will be mostly focused on Works Council topics, and Saturday, 14 October will be open for larger audience. Everyone is welcome to attend both days! 
+
+It is the second time we organise this conference, [read about the first edition here](https://techworkersberlin.com/events/tech-video-gaming-conference-in-berlin).
 
 ![Group photo of Tech Workers Conference from last year](/assets/img/crowd_twc.jpg)
 
-We will bring 50-100 people from 30-50 companies together for a day-long workshop (in Berlin) on sharing best organising practices for winning better workplace and living conditions.
+We will bring 50-100 people from 50+ companies together for a day-long workshop (in Berlin) on sharing best organising practices for winning better workplace and living conditions.
 
 There will be interactive workshops, discussions, and the opportunity to activate workplaces to respond to increasing rent/inflation as well as common workplace issues like surveillance, algorithmic management and layoffs.
 
 The conference is open to all experience and engagement levels from beginners to experts.
 
-Ideally, 2-4 colleagues per company would attend. If you have further questions or are interested in attending, you can get in touch with conference@techworkersberlin.com for more info.
+If you have further questions or are interested in attending, you can get in touch with conference@techworkersberlin.com for more info.
 
 ## Venue
 
