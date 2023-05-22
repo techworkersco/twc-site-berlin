@@ -78,6 +78,15 @@
         <input class="input-text" id="referrer" type="hidden" name="referrer" />
       </div>
       <div class="control">
+        <label for="telegram">What is your telegram handle or number?</label>
+        <input
+          class="input-text"
+          id="Telegram"
+          type="text"
+          name="Telegram"
+        />
+      </div>
+      <div class="control">
         <label for="how_did_hear">{% t connect.how_did_hear %}</label>
         <input
           class="input-text"
@@ -87,23 +96,7 @@
         />
       </div>
 
-      <div class="flex flex-row ai-ctr">
-        <label for="subscribeSlack"
-          ><b>{% t connect.subscribe_to_slack %}</b></label
-        >
-        <input id="subscribeSlack" type="checkbox" name="slack" checked />
-      </div>
-      <div>
-        <label for="subscribeNewsletter"
-          ><b>{% t connect.subscribe_to_newsletter %}</b></label
-        >
-        <input
-          id="subscribeNewsletter"
-          type="checkbox"
-          name="newsletter"
-          checked
-        />
-      </div>
+
       <button class="subscribe-button" type="submit">
         {% t connect.subscribe %}
       </button>
