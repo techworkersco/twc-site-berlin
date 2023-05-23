@@ -54,15 +54,15 @@ languages: ["en", "de", "pl", "ru"]
 exclude_from_localizations: ["assets", "admin", "vendor"]
 header_themes:
   - url: /about
-    text: about
+    key: about.label
   - url: /news
-    text: articles
+    key: news.label
   - url: /press
-    text: Press
+    key: press
   - url: /events
-    text: events
+    key: events.label
   - url: /works-councils
-    text: Works Councils
+    key: works_councils.label
 footer_links:
   - url: /learning
     text: Learning Group
@@ -92,7 +92,9 @@ defaults:
       type: "events"
     values:
       layout: "event"
+      namespace: event
   - scope:
       type: "news"
     values:
       layout: "news"
+      namespace: news
