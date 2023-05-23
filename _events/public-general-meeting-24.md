@@ -2,7 +2,7 @@
 title: "Public General Meeting #24"
 date: 2021-11-01T18:30:38.714Z
 ---
-## {{ page.date | date: '%R %A, %d %B %Y' }}
+
 
 Our monthly general meeting will be in person, at an outdoor table of Suedblock, instead of the usual online meetings. See below for address/accessibility.  
 

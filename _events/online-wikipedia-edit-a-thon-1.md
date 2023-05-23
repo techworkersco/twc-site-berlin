@@ -4,7 +4,7 @@ date: 2023-02-18T14:00:47.795Z
 hide_form: true
 image: /assets/img/twc_wikipedia.jpg
 ---
-## {{ page.date | date: '%R %A, %d %B %Y' }}
+
 
 This event is open for anyone interested in editing WikiProject Organized Labour. 
 

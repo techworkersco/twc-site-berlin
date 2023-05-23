@@ -4,7 +4,7 @@ date: 2023-10-13T07:00:40.647Z
 hide_form: true
 image: /assets/img/crowd_twc.jpg
 ---
-## {{ page.date | date: '%R %A, %d %B %Y' }}
+
 
 Save the date!
 

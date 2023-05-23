@@ -3,7 +3,7 @@ title: "General Meeting #28 & Stammtisch  🍻"
 date: 2022-11-17T18:00:00.000Z
 hide_form: false
 ---
-## {{ page.date | date: '%R %A, %d %B %Y' }}
+
 
 🧚‍♂️ We cordially invite you to the monthly general meeting for the Berlin Tech Workers Coalition (TWC), where those organizing in the tech industry come together to build collective power beyond their individual workplace.
 

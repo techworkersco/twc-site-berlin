@@ -5,7 +5,7 @@ hide_form: false
 tags:
   - general-meeting
 ---
-## {{ page.date | date: '%R %A, %d %B %Y' }}
+
 
 🧚‍♂️ We cordially invite you to the monthly general meeting for the Berlin Tech Workers Coalition (TWC), where those organizing in the tech industry come together to build collective power beyond their individual workplaces.
 

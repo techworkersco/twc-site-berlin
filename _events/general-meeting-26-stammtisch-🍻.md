@@ -3,7 +3,7 @@ title: "General Meeting #26 & Stammtisch  🍻"
 date: 2022-08-25T17:00:57.032Z
 hide_form: false
 ---
-## {{ page.date | date: '%R %A, %d %B %Y' }}
+
 
 Our monthly general meeting will be in person at the Hasenheide park in Berlin. See below for address/accessibility.
 
