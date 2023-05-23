@@ -4,7 +4,7 @@ date: 2021-04-15T17:30:00.000Z
 tags:
   - general-meeting
 ---
-## {{ page.date | date: '%R %A, %d %B %Y' }}
+
 
 Our monthly online general meeting via [zoom.us]( https://us02web.zoom.us/j/83817260254?pwd=eVBha1RTRTVGQUcxcUIzKzRYR0dFQT09) or telephone. We normally host it on first day of the month, but this year it's Easter Weekend.
 

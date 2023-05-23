@@ -3,7 +3,7 @@ title: "General Meeting #25 & Stammtisch  🍻"
 date: 2022-07-28T17:00:18.879Z
 hide_form: false
 ---
-## {{ page.date | date: '%R %A, %d %B %Y' }}
+
 
 Our monthly general meeting will be in person, at an outdoor table of Suedblock. Look for an orange vest to find us. See below for address/accessibility.  
 

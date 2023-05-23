@@ -3,11 +3,12 @@ layout: default
 ---
 <style>h1, .main-wrapper h2, h3 {text-align: left; font-weight: bold;}</style>
 <article class="post">
-  <header class="post-header">
+  <header>
     <a href="/events">Find more Berlin events</a>
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
   <div class="post-content">
+    <h2>{{ page.date | date: '%R %A, %d %B %Y' }}</h2>
     {{ content }}
 
     <h2>{% translate global.code_of_conduct.title %}</h2>

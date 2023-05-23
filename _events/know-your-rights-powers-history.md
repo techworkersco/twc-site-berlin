@@ -4,7 +4,7 @@ date: 2022-08-20T09:00:00.000Z
 hide_form: true
 image: /assets/img/photo_2022-07-29_15-47-26.jpg
 ---
-## {{ page.date | date: '%R %A, %d %B %Y' }}
+
 
 Join migrant workers in tech, aviation, and delivery at a workshop covering legal advice, organizing and history.
 

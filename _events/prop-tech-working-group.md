@@ -5,7 +5,7 @@ tags:
   - proptech
 image: /assets/img/dwe.jpg
 ---
-## {{ page.date | date: '%R %A, %d %B %Y' }}
+
 
 We are launching a collaboration with the anti-gentrification campaign [Deutche Wohnen einteignen](https://www.dwenteignen.de/). If you are interested, please write an email [dwe@techworkersberlin.com](mailto:dwe@techworkersberlin.com). In the future, these events will be open to the public.
 

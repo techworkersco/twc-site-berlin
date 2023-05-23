@@ -4,7 +4,7 @@ date: 2022-07-10T13:00:46.766Z
 hide_form: false
 image: /assets/img/tempelhofer-feld.png
 ---
-## {{ page.date | date: '%A, %d %B %Y at %H:%M' }}
+
 
 Tempelhofer Feld Grillplatz Ost 
 

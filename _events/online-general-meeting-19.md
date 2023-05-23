@@ -4,7 +4,7 @@ date: 2021-02-01T18:30:00.000Z
 tags:
   - general-meeting
 ---
-## {{ page.date | date: '%R %A, %d %B %Y' }}
+
 
 Our monthly online general meeting via [zoom.us](https://zoom.us/j/82138847989) or telephone.
 

@@ -13,7 +13,7 @@ home:
 
   zero_covid:
     title: ZERO COVID
-    summary:  We as TWC Berlin support the <a href="https://zero-covid.org/language/en/">ZeroCovid</a> campaign. Employers must take responsibility for the health and safety of workers and support working from home wherever possible. In all branches of industry where this is not possible and that are non-essential, a solidarity shutdown is urgently needed to fight the pandemic. If your employer fails to protect your health by adequate measures, or denies home office and you would like to discuss how we can support you, please contact us (also anonymously) on zero-covid@techworkersberlin.com
+    summary:  We as TWC Berlin support the <a href="https://zero-covid.org/language/en/">ZeroCovid</a> campaign. Employers must take responsibility for the health and safety of workers and support working from home wherever possible. In all branches of industry where this is not possible and that are non-essential, a solidarity shutdown is urgently needed to fight the pandemic. If your employer fails to protect your health by adequate measures, or denies home office and you would like to discuss how we can support you, please contact us (also anonymously) on zero-covid@TechWorkersBerlin.com
 
   dw_enteignen:
     summary: We as Berlin TWC support the <a href="https://www.dwenteignen.de/wp-content/uploads/2021/03/a5_DWE_INFOFLYER_ENGLISCH.pdf">Deutsche Wohnen & Co enteignen</a> campaign. If you live in Berlin and are eligible to vote, find out how to sign <a href="https://www.dwenteignen.de/unterschreiben/">here</a>.
@@ -26,17 +26,18 @@ home:
     title: Recent articles
 
 connect:
-  info: Get involved
-  description: The easiest way to get involved is to attend one of our upcoming <a href="/events" >events</a>. If you like to join our Newsletter and Slack, please fill out the registration form below. Please note that registrations are reviewed individually and might take some time. For Slack, it is mandatory to submit a link to a public profile (Website, Blog, LinkedIn, Github, etc.) for review. If this is not possible for you, please contact us at <a rel="noopener noreferrer" target="_blank" href="mailto:join@techworkersberlin.com">join@techworkersberlin.com</a>.
-  title: Connect
+  info: Get involved! @TechWorkersBER
+  description: The easiest way to get involved is to attend one of our upcoming <a href="/events" >events</a>.
   email: Email
   name: Name
   public_link: Public link
   company: Your employer
-  how_did_hear: How did you hear about us?
+  telegram: Your Telegram handle if you want to join our <a rel="noopener noreferrer" target="_blank" href=" https://t.me/+-7rD_lN0tP1kNjNi">group chat</a>
+  number: Phone number
+  how_did_hear: How can we support your personal goals?
   subscribe_to_slack: Subscribe to Slack
-  subscribe_to_newsletter: Subscribe to Newsletter
-  subscribe: Subscribe
+  subscribe_to_newsletter: Subscribe to Newsletter 
+  subscribe: Join
 
 global:
   edit_this_page: Edit This Page
@@ -45,7 +46,7 @@ global:
     summary: All meetings and communications are covered under the <a rel="noopener noreferrer" target="_blank" href="https://berlincodeofconduct.org">Berlin Code of Conduct</a>. The privacy and safety of our members is important to us. Sharing the identity of members and or taking/sharing photos are strictly forbidden unless express consent is given.
   accessibility:
     title: Accessibility
-    summary: We understand accessibility in a broad sense and strive to do better. We try to host meetings that are wheelchair accessible, smoke free, short(er) and provide child care. We provide information on the meeting location, including a description of the entrance, lighting and sounds, and policy around companion and service dogs beforehand so that participants can best plan for their visit. If you have feedback or questions regarding the accessibility of our meetings or initiatives, please get in touch at <a rel="noopener noreferrer" target="_blank" href="mailto:accessibility@techworkersberlin.com">accessibility@techworkersberlin.com</a>.
+    summary: We understand accessibility in a broad sense and strive to do better. We try to host meetings that are wheelchair accessible, smoke free, short(er) and provide child care. We provide information on the meeting location, including a description of the entrance, lighting and sounds, and policy around companion and service dogs beforehand so that participants can best plan for their visit. If you have feedback or questions regarding the accessibility of our meetings or initiatives, please get in touch at <a rel="noopener noreferrer" target="_blank" href="mailto:accessibility@TechWorkersBerlin.com">accessibility@TechWorkersBerlin.com</a>.
 
 # Keys used by localize filter as defined in _plugins/i18n_filter.rb
 en:
@@ -107,3 +108,8 @@ en:
 press:
   mentions: Press mentions
   inquiry: For Press inquiries contact us at
+
+resources_title: Resources
+resources:
+  - title: Co-determination at workplace level in Germany (DGB, English) (PDF, 99 kB)
+    url: https://www.dgb.de/betriebsratswahl/++co++336914b0-70b7-11ed-bfe8-001a4a160123
