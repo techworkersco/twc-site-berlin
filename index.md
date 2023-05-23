@@ -24,7 +24,7 @@ permalink: /
 
 
 <section class="titled-block" aria-labelledby="hl-links">
-  <h2 id="hl-links">{% t connect.title %}</h2>
+  <h2 id="hl-links">{% t connect.info %}</h2>
   {% include links.html %}
 </section>
 
