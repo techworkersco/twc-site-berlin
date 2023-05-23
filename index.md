@@ -15,6 +15,7 @@ permalink: /
   {% t home.events.summary | safe %}
 
   {% include events.html limit=5 %}
+
 </section>
 
 <section class="titled-block" aria-labelledby="hl-news">
@@ -22,10 +23,14 @@ permalink: /
   {% include news.html limit=3 %}
 </section>
 
-
 <section class="titled-block" aria-labelledby="hl-links">
   <h2 id="hl-links">{% t connect.title %}</h2>
   {% include links.html %}
+</section>
+
+<section class="titled-block" aria-labelledby="hl-resources">
+  <h2 id="hl-resources">{% t resources_title %}</h2>
+  {% include resources.html %}
 </section>
 
 <section class="titled-block" aria-labelledby="hl-a11y">

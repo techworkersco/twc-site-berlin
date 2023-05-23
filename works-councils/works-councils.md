@@ -29,3 +29,9 @@ Please check the [Events](/events) section for upcoming times and registration f
 Below we collect articles on Works Council activities in Berlin tech companies. In an interview series, we present perspectives and experiences from Works Councillors. If you are a Works Councillor yourself, or know a fellow worker who is, and would be interested taking part, we'd love to hear from you: [content@techworkersberlin.com](mailto:content@techworkersberlin.com).
 
 {% include news.html tags=page.tags %}
+
+<span id="resources" />
+
+## Resources
+
+* [Codetermination in the Workplace in Germany](https://www.dgb.de/betriebsratswahl/++co++97a86fd0-70bb-11ed-865c-001a4a160123) (available in 11 languages)
