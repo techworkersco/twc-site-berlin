@@ -63,16 +63,6 @@ header_themes:
     text: events
   - url: /works-councils
     text: Works Councils
-footer_links:
-  - url: /learning
-    text: Learning Group
-    newTab: true
-  - url: https://www.facebook.com/TechWorkersBER/
-    text: Facebook
-    newTab: true
-  - url: https://twitter.com/TechWorkersBER
-    text: Twitter
-    newTab: true
 
 permalink: pretty
 future: true
