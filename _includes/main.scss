@@ -92,54 +92,6 @@ input[type="submit"] {
   }
 }
 
-.site-footer {
-  box-shadow: -2px 0 10px rgba(0, 0, 0, 0.2);
-  background-color: white;
-  width: 100%;
-  padding: 2em 4vmin;
-  margin-top: 5em;
-
-  .columns {
-    justify-content: center;
-    text-align: center;
-    flex-wrap: wrap;
-
-    @include mobile {
-      display: block;
-    }
-  }
-
-  @include mobile {
-    position: relative;
-    box-shadow: none;
-    border-top: 1px #212121 solid;
-    ul {
-      padding-left: 1em;
-    }
-  }
-
-  a {
-    font-weight: 600;
-    // font-size: 16px;
-    text-decoration: none;
-    &:link {
-      color: #212121;
-    }
-    &:visited {
-      color: #212121;
-    }
-    &:hover {
-      color: #e6141b;
-    }
-    &:focus {
-      color: #e6141b;
-    }
-    &:active {
-      color: #212121;
-    }
-  }
-}
-
 blockquote,
 ol,
 p,
