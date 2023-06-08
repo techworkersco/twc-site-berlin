@@ -3,14 +3,18 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link href="/admin/netlify.css" rel="stylesheet" type="text/css"></link>
-
   <title>Content Manager</title>
+  <style>
+
+  </style>
 </head>
 <body>
   <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script>
+     CMS.registerPreviewStyle("/assets/css/preview.css");
+    </script>
 
   <!-- Add a menu:
    Log in / Sign up - when the user is not logged in
