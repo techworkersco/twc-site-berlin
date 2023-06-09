@@ -2,6 +2,8 @@
 title: "🎉 Reading Group: Your Boss is an Algorithm 📚"
 date: 2023-07-13T17:30:37.896Z
 hide_form: false
+tags:
+  - learning
 ---
 🧚‍♂️ We cordially invite you to a reading group for the Berlin Tech Workers Coalition (TWC), where those organizing in the tech industry come together to build collective power beyond their individual workplaces.
 
