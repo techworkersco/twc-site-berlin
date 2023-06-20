@@ -25,7 +25,7 @@ All people working in the tech industry are welcome. The event will be held in E
 6. Organizing round (10min)
 7. Next GA, facilitator, note taker, and moderator (5min)
 
-20:30 onward - enjoy some (non) alcoholic drinks 🍻🥤 and meet fellow workers
+20:15 onward - enjoy some (non) alcoholic drinks 🍻🥤 and meet fellow workers
 
 ## Venue
 
