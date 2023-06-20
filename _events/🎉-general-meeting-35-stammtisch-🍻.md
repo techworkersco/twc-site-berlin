@@ -18,7 +18,7 @@ All people working in the tech industry are welcome. The event will be held in E
 📝Agenda 19:00-20:15 (1,25 hours)
 
 1. Introductions (15 min)
-2. Results of [Governance and Process jam](https://www.notion.so/Governance-and-Process-jam-5e24ebf077f1417d9b3f77d1dd5fa075?pvs=21) (10 mins)
+2. Results of Governance and Process jam (10 mins)
 3. Study Group (5min)
 4. Text change on the website (15min)
 5. CCCamp Update (10min)
