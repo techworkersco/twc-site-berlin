@@ -7,9 +7,6 @@ backend:
 
 media_folder: "assets/img"
 
-# gives us the preview link workflow
-publish_mode: editorial_workflow
-
 collections:
   - name: "event" # Used in routes, e.g., /admin/collections/blog
     label: "Event" # Used in the UI
