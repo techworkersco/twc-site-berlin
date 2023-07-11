@@ -17,9 +17,12 @@ All people working in the tech industry are welcome. The event will be held in E
 
 📝Agenda 19:00-20:15 (1,25 hours)
 
-1. TBD
-2. Organizing round (10min)
-3. Next GA, facilitator, note taker, and moderator (5min)
+1. Introductions (15 min)
+2. Proposal on new structure for regular meetings (Mark/Mateus, 10 min)
+3. Proposal on new governance model (Simone, 10 min)
+4. Discussion/Idea Session on Mass Layoffs (Laura, 30 min)
+5. Organising round (Mark, 10 min)
+6. Next GA, facilitator, note taker, and moderator (5 min)
 
 20:15 onward - enjoy some (non) alcoholic drinks 🍻🥤 and meet fellow workers
 
