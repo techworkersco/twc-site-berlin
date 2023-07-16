@@ -20,6 +20,9 @@ url: "https://techworkersberlin.com" # the subpath of your site, e.g. /blog
 baseurl: "" # the base hostname & protocol for your site, e.g. http://example.com
 timezone: "Europe/Berlin"
 
+sass:
+  style: compressed
+
 # Build settings
 feed:
   collections:
