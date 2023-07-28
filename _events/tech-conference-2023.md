@@ -60,15 +60,11 @@ If you have further questions or are interested in attending, you can get in tou
     </div>
 
  <div class="flex flex-row ai-ctr"> 
- <label for="WoCoTraining" 
- \>Oct 13th Works Council training<b>(separate registration)</b></label 
- \>  
-<input id="WoCoTraining" type="checkbox" name="WoCoTraining"/> 
+   <label for="WoCoTraining">Oct 13th Works Council training <b>(separate registration)</b></label>  
+   <input id="WoCoTraining" type="checkbox" name="WoCoTraining"/> 
 </div> 
- <div> 
- <label for="OrganizingTraining" 
- \>Oct 14th Organizing day</label 
- \>  
+<div> 
+  <label for="OrganizingTraining">Oct 14th Organizing day</label>  
  <input 
  id="OrganizingTraining" 
  type="checkbox" 
