@@ -4,13 +4,13 @@ date: 2023-10-13T07:00:40.647Z
 hide_form: true
 image: /assets/img/crowd_twc.jpg
 ---
+![What's next for Berlin tech works councils?](/assets/img/2023_works_council_training.png)
+
 The Berlin Tech Workers Coalition will host the largest English speaking and tech worker-led conference in Germany, together with our trade unions [ver.di B+B](https://tech.verdi.de/) and [IG Metall Berlin](https://www.igmetall-berlin.de/english-info/news). 
 
 Friday, 13 October is open for all [Works Council](https://techworkersberlin.com/works-councils) members. As a Works Council training per [BetrVG 37(6)](https://www.gesetze-im-internet.de/englisch_betrvg/englisch_betrvg.html#p0229), you can do this training during working hours, and conference fee paid by your employer. **Registration is mandatory**. Find [further instructions](https://techworkersberlin.com/assets/Ausschreibung_Tech_Conference_2023.pdf) here. Email us conference@techworkersberlin.com if you have questions!
 
 Saturday, 14 October is open to all tech workers and will have both a broader focus on social movements, trade union organising and political education. Simply fill out the form below to register for the Saturday portion. Some people will want to attend both portions of conference, while others attend one of them.
-
-
 
 ## Registration
 
