@@ -1,0 +1,77 @@
+---
+title:  "Chaos Communication Camp '23"
+date:   2023-08-15T07:00:00.000Z
+tags:
+  - ccc
+  - chaos-communication-club
+---
+
+We are joining the 2023 Chaos Communication Camp! 
+
+Event link is [here](https://events.ccc.de/2023/04/21/camp2023/#eng-camp2023-intro), and english version [here](_events/55.md)
+
+We'll be joining the Komona Village, you can find us at their camp under the geodesic dome on [this map](https://map.events.ccc.de/camp/2023/map/#16/53.03136/13.30688)
+
+### Events Calendar
+
+| Date | Event |
+|------|-------|
+|Aug 16 - Wednesday|*[The Hidden labor of AI](#hidden-ai-labour)*|
+|Aug 17 - Thursday|*[How tech workers can strike](#tech-strike)*|
+|Aug 18 - Friday|*[Layoffs! What can we do?](#Layoffs)*|
+|Aug 18 - night |Closing party|
+
+
+
+
+## Talks
+
+### <A href="#hidden-ai-labour"> The hidden labor of AI </A>
+
+
+> “If cloud is someone else’s computer, AI is just somebody else’s labor.”
+
+The new wave of generative AI and large language models systematically steal, mix and regurgitate the product of unpaid and underpaid human labor. In this talk we will present several examples of exploitation enacted by the companies producing these technologies. 
+
+We must contend the control over these technologies against tech corporations, if we want to foster our labor as technology workers, writers and artists. Tech Won’t Save Us: Organize!
+
+
+---
+
+
+### <A href="#tech-strike"> How tech workers can strike _(How many sysadmins are needed to halt a nation?)_ </A>
+
+
+
+Anyone who has been given "god mode" on day one of a job knows that system administrators have a lot of power. But what kind of power is it? How could it be used effectively in the context of labor or political struggles?
+
+The goal of the session is to have a lively discussion about these possibilities. 
+
+The workshop has three parts:
+- Introduce some examples of past/current labor struggles
+- Analyze system administrators' potential power
+- Discuss concrete steps
+
+The Tech Workers Coalition is a grassroots organization which empowers tech workers to build collective power and get involved in campaigns that make a positive impact on our society. Tech won’t save us. Organize!
+
+---
+
+
+### <A href="#Layoffs"> Layoffs! What can we do? </A>
+
+
+
+Tech companies in all sectors have laid off over 250,000 tech workers since the beginning of 2022, while reporting record earnings. Are you or your colleagues affected, too? Come learn about your rights in case of dismissal, and other tips about German labor law. 
+
+Over 250,000 tech workers have been laid off since the beginning of 2022, while companies like Meta, Microsoft, and Salesforce report better than expected earnings. Employees must accept flatlining salaries, while CEOs enjoy pay raises. After years of successfully working remotely during the COVID-19 pandemic, employees are being told to return to the office or quit. Tech is not delivering on its promise to employees. We already know our workplaces are driven by profit and the whims of executives. 
+
+What happens when you are included in the next round of layoffs? Know your rights! Join up with your colleagues!
+
+Come to our interactive session to learn about German labor law and your rights in the case of dismissal. We look forward to meeting you!
+
+---
+
+
+### Closing party
+
+We'll be closing down our camp presence Friday Night with a party @ the Komona geodesic dome. Kommt vorbei!
