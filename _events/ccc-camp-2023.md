@@ -10,24 +10,20 @@ We are joining the [2023 Chaos Communication Camp](https://events.ccc.de/2023/04
 
 We'll be joining the Komona Village, you can find us at their camp under the geodesic dome on [this map](https://map.events.ccc.de/camp/2023/map/#16/53.03136/13.30688)
 
-### Events Calendar
+## Events Calendar
 
 | Date | Event |
 |------|-------|
-|Aug 16 - Wednesday|*[The Hidden labor of AI](#hidden-ai-labour)*|
+|Aug 16 - Wednesday|*[The Hidden labor of AI](#hidden-ai-labor)*|
 |Aug 17 - Thursday|*[How tech workers can strike](#tech-strike)*|
 |Aug 18 - Friday|*[Layoffs! What can we do?](#layoffs)*|
-|Aug 18 - night |Closing party|
+|Aug 18 - Friday night |*[Closing party](#party)*|
 
 
+## <a href="#hidden-ai-labor" id="hidden-ai-labor"> The hidden labor of AI </a>
 
 
-## Talks
-
-### <a id="hidden-ai-labour"> The hidden labor of AI </a>
-
-
-> “If cloud is someone else’s computer, AI is just somebody else’s labor.”
+> “If the cloud is someone else’s computer, AI is just somebody else’s labor.”
 
 The new wave of generative AI and large language models systematically steal, mix and regurgitate the product of unpaid and underpaid human labor. In this talk we will present several examples of exploitation enacted by the companies producing these technologies. 
 
@@ -37,7 +33,7 @@ We must contend the control over these technologies against tech corporations, i
 ---
 
 
-### <a id="tech-strike"> How tech workers can strike _(How many sysadmins are needed to halt a nation?)_ </a>
+## <a href="#tech-strike" id="tech-strike"> How tech workers can strike _(How many sysadmins are needed to halt a nation?)_ </a>
 
 
 
@@ -55,7 +51,7 @@ The Tech Workers Coalition is a grassroots organization which empowers tech work
 ---
 
 
-### <a id="layoffs"> Layoffs! What can we do? </a>
+## <a href="#layoffs" id="layoffs"> Layoffs! What can we do? </a>
 
 
 
@@ -70,6 +66,6 @@ Come to our interactive session to learn about German labor law and your rights 
 ---
 
 
-### Closing party
+## <a href="#party" id="party">Closing party</a>
 
 We'll be closing down our camp presence Friday Night (18 August 2023) with a party @ the Komona geodesic dome. Kommt vorbei!
