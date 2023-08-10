@@ -1,14 +1,12 @@
 ---
-title:  "Chaos Communication Camp '23"
-date:   2023-08-15T07:00:00.000Z
+title: Chaos Communication Camp '23
+date: 2023-08-15T07:00:00.000Z
+hide_form: false
 tags:
   - ccc
-  - chaos-communication-club
 ---
 
-We are joining the 2023 Chaos Communication Camp! 
-
-Event link is [here](https://events.ccc.de/2023/04/21/camp2023/#eng-camp2023-intro), and english version [here](_events/55.md)
+We are joining the [2023 Chaos Communication Camp](https://events.ccc.de/2023/04/21/camp2023/#eng-camp2023-intro)! 
 
 We'll be joining the Komona Village, you can find us at their camp under the geodesic dome on [this map](https://map.events.ccc.de/camp/2023/map/#16/53.03136/13.30688)
 
@@ -18,7 +16,7 @@ We'll be joining the Komona Village, you can find us at their camp under the geo
 |------|-------|
 |Aug 16 - Wednesday|*[The Hidden labor of AI](#hidden-ai-labour)*|
 |Aug 17 - Thursday|*[How tech workers can strike](#tech-strike)*|
-|Aug 18 - Friday|*[Layoffs! What can we do?](#Layoffs)*|
+|Aug 18 - Friday|*[Layoffs! What can we do?](#layoffs)*|
 |Aug 18 - night |Closing party|
 
 
@@ -26,7 +24,7 @@ We'll be joining the Komona Village, you can find us at their camp under the geo
 
 ## Talks
 
-### <A href="#hidden-ai-labour"> The hidden labor of AI </A>
+### <a id="hidden-ai-labour"> The hidden labor of AI </a>
 
 
 > “If cloud is someone else’s computer, AI is just somebody else’s labor.”
@@ -39,7 +37,7 @@ We must contend the control over these technologies against tech corporations, i
 ---
 
 
-### <A href="#tech-strike"> How tech workers can strike _(How many sysadmins are needed to halt a nation?)_ </A>
+### <a id="tech-strike"> How tech workers can strike _(How many sysadmins are needed to halt a nation?)_ </a>
 
 
 
@@ -57,7 +55,7 @@ The Tech Workers Coalition is a grassroots organization which empowers tech work
 ---
 
 
-### <A href="#Layoffs"> Layoffs! What can we do? </A>
+### <a id="layoffs"> Layoffs! What can we do? </a>
 
 
 
@@ -74,4 +72,4 @@ Come to our interactive session to learn about German labor law and your rights 
 
 ### Closing party
 
-We'll be closing down our camp presence Friday Night with a party @ the Komona geodesic dome. Kommt vorbei!
+We'll be closing down our camp presence Friday Night (18 August 2023) with a party @ the Komona geodesic dome. Kommt vorbei!
