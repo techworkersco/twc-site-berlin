@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Berlin Tech Workers Coalition
 email: contact@techworkerberlin.com
-description: Berlin Tech Workers Coalition is a grassroots organization that empowers tech workers to build power and get involved to make a positive impact in our society.
+description: Berlin Tech Workers Coalition is a landing page for tech workers looking to organise their workplace. Whether it is through Works Councils (Betriebsräte), union campaigns for higher wages, or broader struggles against racism and gentrification, we are here to support you! Tech Won’t Save Us...Organise! ✊ We are the largest English speaking network of Works Councils, tech workers and trade union members supporting each other in different tech companies like Soundcloud, Contentful, ShareNow, Amazon, SumUp, N26, TikTok and maybe your company!
 url: "https://techworkersberlin.com" # the subpath of your site, e.g. /blog
 baseurl: "" # the base hostname & protocol for your site, e.g. http://example.com
 timezone: "Europe/Berlin"
