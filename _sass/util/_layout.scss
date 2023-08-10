@@ -21,3 +21,12 @@
     }
   }
 }
+
+[id]::before { 
+  display: block; 
+  content: " "; 
+  margin-top: -73px; // height of nav bar
+  height: 73px; 
+  visibility: hidden; 
+  pointer-events: none;
+}
