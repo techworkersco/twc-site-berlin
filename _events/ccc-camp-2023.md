@@ -8,16 +8,18 @@ tags:
 
 We are joining the [2023 Chaos Communication Camp](https://events.ccc.de/2023/04/21/camp2023/#eng-camp2023-intro)! 
 
-We'll be joining the Komona Village, you can find us at their camp under the geodesic dome on [this map](https://map.events.ccc.de/camp/2023/map/#16/53.03136/13.30688)
+We'll be joining the Komona Village, you can find us at their camp under the geodesic dome on [this map](https://map.events.ccc.de/camp/2023/map/#19.77/53.0313611/13.308618)
+
+Link to all community events is [here](https://events.ccc.de/camp/2023/hub/camp23/en/fahrplan)
 
 ## Events Calendar
 
 | Date | Event |
 |------|-------|
-|Aug 16 - Wednesday|*[The Hidden labor of AI](#hidden-ai-labor)*|
-|Aug 17 - Thursday|*[How tech workers can strike](#tech-strike)*|
-|Aug 18 - Friday|*[Layoffs! What can we do?](#layoffs)*|
-|Aug 18 - Friday night |*[Closing party](#party)*|
+|Aug 16 - Wednesday 3PM|*[The Hidden labor of AI](#hidden-ai-labor)*|
+|Aug 17 - Thursday 3PM|*[How tech workers can strike](#tech-strike)*|
+|Aug 18 - Friday 3PM|*[Layoffs! What can we do?](#layoffs)*|
+|Aug 18 - Friday night 10PM|*[Closing party](#party)*|
 
 
 ## <a href="#hidden-ai-labor" id="hidden-ai-labor"> The hidden labor of AI </a>
