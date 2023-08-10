@@ -10,7 +10,7 @@ We are joining the [2023 Chaos Communication Camp](https://events.ccc.de/2023/04
 
 We'll be joining the Komona Village, you can find us at their camp under the geodesic dome on [this map](https://map.events.ccc.de/camp/2023/map/#19.77/53.0313611/13.308618)
 
-Link to all community events is [here] (https://events.ccc.de/camp/2023/hub/camp23/en/fahrplan)
+Link to all community events is [here](https://events.ccc.de/camp/2023/hub/camp23/en/fahrplan)
 
 ## Events Calendar
 
