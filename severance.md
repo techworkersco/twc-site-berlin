@@ -1,11 +1,11 @@
 ---
 layout: default
-permalink: /ccc-severence
+permalink: /ccc-severance
 ---
 <script>
-function calculateSeverence() {
+function calculateSeverance() {
     factor = Math.floor(Math.random() * 2 + 1)
-    document.getElementById('severence').innerHTML = `You are entitled to: ${factor} shot(s) of Pfeffi</br>please see one of our People Partners for payout`;
+    document.getElementById('severance').innerHTML = `You are entitled to: ${factor} shot(s) of Pfeffi</br>please see one of our People Partners for payout`;
 }
 </script>
 
@@ -23,7 +23,7 @@ To calculate your severance package, please fill out the following form:
     <label for="kids">How many dependants do you have?</label>
     <input type="text" name="kids" />
     <br />
-    <input type="submit" text="Calulate severence pay" onClick="calculateSeverence();" />
+    <input type="submit" text="Calulate severance pay" onClick="calculateSeverance();" />
 </form>
-<label id="severence" />
+<label id="severance" />
 {% endraw %}

@@ -12,6 +12,8 @@ We'll be joining the Komona Village, you can find us at their camp under the geo
 
 Link to all community events is [here](https://events.ccc.de/camp/2023/hub/camp23/en/fahrplan)
 
+### Have you been laid off recently by a rougue CEO? Caluculate your severance package [here](/ccc-severance)!
+
 ## Events Calendar
 
 | Date | Event |
