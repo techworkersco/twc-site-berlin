@@ -17,7 +17,7 @@ All people working in the tech industry are welcome. The event will be held in E
 
 1. Introductions (15 min)
 2. Update on [TWC conference](https://techworkersberlin.com/events/tech-conference-2023) (Yonatan, 10 min)
-3. Feedback on governance and new meeting structures (Simone 10 min)
+3. Feedback on [governance and new meeting structures](https://www.notion.so/Member-s-Handbook-1-1-WIP-bf7b1112ffe9499497dc2cea962a6a95?pvs=4) (Simone, 10 min)
 4. Organising round (Yonatan, 10 min)
 5. Next GA, facilitator, note taker, and moderator (5 min)
 
