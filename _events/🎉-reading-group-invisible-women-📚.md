@@ -1,6 +1,6 @@
 ---
 title: "🎉 Reading Group: Invisible Women 📚"
-date: 2023-09-14T17:00:53.494Z
+date: 2023-09-14T17:30:53.494Z
 hide_form: false
 tags:
   - learning
@@ -13,7 +13,7 @@ Our reading group meets to discuss topics related to tech topics. This time we a
 
 All people working in the tech industry are welcome. The event will be held in English.
 
-**We recommended following 3 sections**: 
+**We are not reading entire book! We will focus on the following 3 sections**: 
 
 * Intro pages 1-25
 * Part 2: The workplace pages 67-141
