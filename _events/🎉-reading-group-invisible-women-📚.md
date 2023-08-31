@@ -9,11 +9,11 @@ tags:
 
 💫Highlights: 
 
-Our reading group meets to discuss topics related to tech topics. This time we are reading Invisible Women: Data Bias in a World Designed for Men by Caroline Criado-Perez.
+Our reading group meets to discuss topics related to tech topics. This time we are reading **Invisible Women: Data Bias in a World Designed for Men** by Caroline Criado-Perez.
 
 All people working in the tech industry are welcome. The event will be held in English.
 
-**We are not reading entire book! We will focus on the following 3 sections**: 
+Don't have enough time to read the entire book? Feel free to only read the following 3 sections to participate in our discussion!
 
 * Intro pages 1-25
 * Part 2: The workplace pages 67-141
