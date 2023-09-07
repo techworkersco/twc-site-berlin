@@ -29,6 +29,36 @@ The conference is open to tech workers of all experiences and engagement levels 
 
 If you have further questions or are interested in attending, you can get in touch with conference@techworkersberlin.com for further info.
 
+## 13 October Schedule 
+| Time | Panel 
+|------|-------
+|08:00|☕️ Morning Check in
+|09:00 AM|Morning introduction and welcome
+|12:00|🥙 Lunch including vegetarian/vegan food
+|13:00|**Workshop 1**: Works council communication with co-workers in mobile/remote scenarios
+|13:00|**Workshop 2**: Legal framework for collaboration between works councils and trade unions
+|13:00|**Workshop 3**: Workplace and employee surveillance: legal framework and strategies
+|14:45|☕️ Coffee break
+|15:00|**Workshop 4**: [Works agreements](https://en.wikipedia.org/wiki/Works_agreement) on mobile work: risks and opportunities
+|15:00|**Workshop 5**: The works council's role in workplace downsizing scenarios (mass layoffs)
+|15:00|**Workshop 6**:  Data Protection in the works council's office: duties of the works council and its members
+|17:00|**Reflection phase**, next steps, end of conference
+|18:00|**Get together**
+
+## 14 October Schedule 
+| Time | Panel 
+|------|-------
+|10:30|☕️ Welcoming words
+|11:15 AM|Interactive activity and setting the stage
+|12:15|🥙 Lunch including vegetarian/vegan food
+|13:00|**Opening panel and Q/A**: Collective bargaining: Success stories from the real world. 
+|14:30|**Workshop 7**: Climate change and tech
+|14:30|**Workshop 8**: Transnational organising, challenges and successes
+|14:30|**Workshop 9**: Sexism, gender pay gap and how we can win
+|14:30|**Workshop 10**: Works Council mobbing and retaliation from management
+|16:00|**Report back** and commitmens for future project launches
+|16:30|**Closing** and commitmens for future project launches
+
 ## Venue
 
 [ver.di Berlin-Brandenburg, Paula-Thiede-Ufer 10](https://tech.verdi.de/)
