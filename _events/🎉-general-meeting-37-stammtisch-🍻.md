@@ -5,6 +5,8 @@ hide_form: false
 tags:
   - general-meeting
 ---
+(Note location change at bottom)
+
 💫Highlights: 
 
 Our monthly general meetings are *usually* in person in 3rd week of the month
@@ -25,13 +27,6 @@ All people working in the tech industry are welcome. The event will be held in E
 
 ## Venue
 
-Stadtteilbüro Friedrichshain
+(last minute change) 
 
-Warschauer Str. 23\
-10243 Berlin
-
-## Accessibility
-
-Entrance has one step with a maximum of 7 centimeter height. Most rooms are available without steps.
-
-<https://wheelmap.org/nodes/7046289200>
+[Grassy part of East Side Gallery](https://www.google.com/maps/place/52%C2%B030'12.6%22N+13%C2%B026'35.4%22E/@52.5035102,13.4426511,18.17z/data=!4m4!3m3!8m2!3d52.5034965!4d13.4431706?hl=en-DE&entry=ttu) along the Spree. We'll have a large green picnic blanket, and loud speakers. Contact the [facilitator on telegram](https://t.me/shushugah) if you have difficulty finding us!
