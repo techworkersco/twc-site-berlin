@@ -29,7 +29,8 @@ The conference is open to tech workers of all experiences and engagement levels 
 
 If you have further questions or are interested in attending, you can get in touch with conference@techworkersberlin.com for further info.
 
-## 13 October Schedule 
+## 13 October Schedule
+
 | Time | Panel| 
 |------|-------|
 |08:00|☕️ Morning Check in|
@@ -46,6 +47,7 @@ If you have further questions or are interested in attending, you can get in tou
 |18:00|**Get together**|
 
 ## 14 October Schedule 
+
 | Time | Panel |
 |------|-------|
 |10:30|☕️ Welcoming words|
