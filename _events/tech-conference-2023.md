@@ -10,7 +10,7 @@ The Berlin Tech Workers Coalition will host the largest English speaking and tec
 
 Friday, 13 October is open for all [Works Council](https://techworkersberlin.com/works-councils) members (registration required). As a Works Council training per [BetrVG 37(6)](https://www.gesetze-im-internet.de/englisch_betrvg/englisch_betrvg.html#p0229), you can do this training during working hours, and conference fee is paid by your employer. **Registration is mandatory**. Find [further instructions](https://techworkersberlin.com/assets/Ausschreibung_Tech_Conference_2023.pdf) here. Email us conference@techworkersberlin.com if you have questions!
 
-Saturday, 14 October is free of cost and open for all tech workers. It will have both a broader focus on social movements, trade union organising and political education. Fill out the form below to register for the Saturday portion. Some people will want to attend both portions of conference, while others attend one of them.
+[Saturday, 14 October](#14-october-schedule) is free of cost and open for all tech workers. It will have both a broader focus on social movements, trade union organising and political education. Fill out the form below to register for the Saturday portion. Some people will want to attend both portions of conference, while others attend one of them.
 
 ## Registration
 
@@ -77,11 +77,11 @@ Saturday, 14 October is free of cost and open for all tech workers. It will have
   </form>
 </div>
 
-It is the second time we organise this conference, [read about the first edition](https://techworkersberlin.com/events/tech-video-gaming-conference-in-berlin) here. Last year participants gathered at IG Metall's Berlin office, this year's conference will take place at ver.di’s headquarter in Berlin.
+This is our second conference, [read about the first edition](https://techworkersberlin.com/events/tech-video-gaming-conference-in-berlin). Last year participants gathered at IG Metall's Berlin office, this year's conference will take place at ver.di's headquarter in Berlin.
 
 ![Group photo of Tech Workers Conference from last year](/assets/img/crowd_twc.jpg)
 
-We are bringing 100+ English speaking tech workers from 50+ companies together for a two day conference in Berlin. Year round, we regularly network and stay in touch with each other, so it is an opportunity to celebrate each other's milestones, successes and learning over the year. 
+We are bringing 100+ English speaking tech workers from 50+ companies together for a two day conference in Berlin. Year round, we regularly network and stay in touch with each other. The conference is an opportunity to celebrate each others' milestones, successes and learnings over the year. 
 
 There will be interactive workshops, discussions, and the opportunity to activate your workplaces. Topics include societal issues like rent, inflation, ecology and practical workplace issues like surveillance, gender pay gap, mass-layoffs and migrant organising.
 
@@ -89,7 +89,7 @@ The conference is open to tech workers of all experiences and engagement levels 
 
 If you have further questions or are interested in attending, you can get in touch with conference@techworkersberlin.com for further info.
 
-## 13 October Schedule
+## <a href="#13-october-schedule" id="13-october-schedule">13 October Schedule</a>
 
 | Time  | Panel                                                                                                                     |
 | ----- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -107,7 +107,7 @@ If you have further questions or are interested in attending, you can get in tou
 | 17:00 | **Reflection phase**, next steps, end of conference                                                                       |
 | 18:00 | **Get together**                                                                                                          |
 
-## 14 October Schedule
+## <a href="#14-october-schedule" id="14-october-schedule">14 October Schedule</a>
 
 | Time  | Panel                                                                                 |
 | ----- | ------------------------------------------------------------------------------------- |
@@ -117,10 +117,11 @@ If you have further questions or are interested in attending, you can get in tou
 | 13:00 | **Opening panel and Q/A**: Collective bargaining: Success stories from the real world |
 | 14:30 | **Workshop 8**: Climate change and tech                                               |
 | 14:30 | **Workshop 9**: Transnational organising, challenges and successes                    |
-| 14:30 | **Workshop 10**: Sexism, gender pay gap and how we can win                             |
-| 14:30 | **Workshop 11**: Works Council mobbing and retaliation from management                |
-| 16:00 | **Report back** and commitments for future project launches                            |
-| 16:30 | **Closing** and commitments for future project launches                                |
+| 14:30 | **Workshop 10**: Sexism, gender pay gap and how we can win                            |
+| 14:30 | **Workshop 11**: Works Council mobbing/bullying and retaliation from management       |
+| 14:30 | **Workshop 12**: [Deutsche Wohnen & Co. Expropriation campaign](https://dwenteignen.de/en/) and why you should get involved|
+| 16:00 | **Report back** and commitments for future project launches                           |
+| 16:30 | **Closing** and commitments for future project launches                               |
 
 ## Venue
 
