@@ -112,15 +112,15 @@ If you have further questions or are interested in attending, you can get in tou
 | Time  | Panel                                                                                                                       |
 | ----- | --------------------------------------------------------------------------------------------------------------------------- |
 | 10:30 | ☕️ **Welcoming Words**                                      |
-| 11:15 | **Interactive activity and setting the stage**                                                                                  |
+| 11:15 | **Interactive activity and setting the stage** <br /> *Kay Alave (she/her), Data Engineer <br /> Carolina Cabrera John (she/they), Data Analyst*                                                   |
 | 12:15 | 🥙 Lunch including vegetarian/vegan food                                                                                    |
 | 13:00 | **Panel: Collective Bargaining -- Success Stories from the Real World** <br /> *Moderation: Jax Hudspeth (she/they), HelloFresh Works Council <br /> Silvia Habekost, Hospital Movement <br /> Member of collective bargaining committee at ASML and IGMetall*                                                            |
-| 14:30 | **Workshop 1: Climate change and tech** <br /> *Moderation: Malene Guergen (she/her), Journalist Ecological Unionism Tech and Climate <br /> Amira Moeding (they/them, she/her), PhD Student, University of Cambridge*                         |
-| 14:30 | **Workshop 2: Transnational Oragnizing, Challenges, and Opportunities. How to go about a transnational campaign?** <br /> *Moderation: Yonatan Miller (he/him), Share Now Works Council Chair <br /> HelloFresh <br /> Marta, Amazon Workers International*                                                        |
-| 14:30 | **Workshop 3: Sexism, Gender Pay Gap, and How We Can Win** <br />                                                             |
-| 14:30 | **Workshop 4**: [Deutsche Wohnen & Co. Expropriation campaign](https://dwenteignen.de/en/) and why you should get involved |
-| 16:00 | **Report back** and commitments for future project launches                                                                 |
-| 16:30 | **Closing** and commitments for future project launches                                                                     |
+| 14:30 | **Workshop 1: Climate Change and Tech** <br /> *Moderation: Malene Guergen (she/her), Journalist Ecological Unionism Tech and Climate <br /> Amira Moeding (they/them, she/her), PhD Student, University of Cambridge*                         |
+| 14:30 | **Workshop 2: Transnational Organizing, Challenges, and Opportunities. How to go about a transnational campaign?** <br /> *Moderation: Yonatan Miller (he/him), Share Now Works Council Chair <br /> HelloFresh <br /> Marta, Amazon Workers International*                                                        |
+| 14:30 | **Workshop 3: Sexism, Gender Pay Gap, and How We Can Win** <br /> *Moderation: Deanna Knudsen (she/her), HelloFresh Works Council <br /> Adrian Mengay (he/him), Forba <br /> Luisa Rodrigues (she/they), Klarna Works Council*                                |
+| 14:30 | **Workshop 4: [Deutsche Wohnen & Co. Expropriation](https://dwenteignen.de/en/), the Berlin Housing Crisis, and How You Can Get Involved** <br /> *Lily Cichanowicz, Right to the City <br /> Ian Clotworthy, Deutsche Wohnen & Co. Enteignen*                  |
+| 16:00 | **Report back and Commitments for Future Projects**                                                                 |
+| 16:30 | **Closing** |
 
 ## Venue
 
