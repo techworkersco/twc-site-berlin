@@ -102,7 +102,7 @@ If you have further questions or are interested in attending, you can get in tou
 | 13:00 | **Workshop 3: Workers' Profile Rights and Algorithmic Surviellance** <br /> *Maike Pricelius (she/her), G.IBS <br /> Prof. Phoebe Moore (she/her), University of Essex, Essex Business School* ﻿                                                                 |
 | 14:45 | ☕️ Coffee break                                                                                                                |
 | 15:00 | **Workshop 4: [Works Agreements](https://en.wikipedia.org/wiki/Works_agreement) on Mobile Work: Risks and Opportunities** <br /> *Britta Berlet (she/her), CARIAD Works Council Chair <br /> Jordan Coll (he/him), SoundCloud Works Council <br /> Thomas Weber (he/him), IG Metall*                         |
-| 15:00 | **Workshop 5: The Works Council's Role in Workplace Downsizing Scenarios (Mass Layoffs)** <br /> *Yonatan Miller (he/him), Share Now Works Council Chair <br /> Artur (he/him), Klarna Works Council*        |
+| 15:00 | **Workshop 5: The Works Council's Role in Workplace Downsizing Scenarios (Mass Layoffs)** <br /> *Yonatan Miller (he/him), Share Now Works Council Chair <br /> Artur (he/him), Klarna Works Council*                                                   |
 | 15:00 | **Workshop 6:  Data Protection in the Works Council Office: Duties of the Works Council and its Members** <br /> *Micha Heilmann (he/him), Lawyer DKA*                                   |
 | 17:00 | **Reflection and Closing**                                      |
 | 18:00-22:00 | **Get Together and Celebrate** <br />*Eiswerk Berlin <br /> Koepenicker str. 40-41.<br /> Food and drinks provided.*  
