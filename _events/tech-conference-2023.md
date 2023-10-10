@@ -91,37 +91,37 @@ If you have further questions or are interested in attending, you can get in tou
 
 ## <a href="#13-october-schedule" id="13-october-schedule">13 October Schedule</a>
 
-| Time  | Panel                                                                                                                     |
-| ----- | ------------------------------------------------------------------------------------------------------------------------- |
-| 08:00 | ☕️ Morning Check in                                                                                                       |
-| 09:00 | Morning introduction and welcome                                                                                          |
-| 12:00 | 🥙 Lunch including vegetarian/vegan food                                                                                  |
-| 13:00 | **Workshop 1**: Works council communication with co-workers in mobile/remote scenarios                                    |
-| 13:00 | **Workshop 2**: Legal framework for collaboration between works councils and trade unions                                 |
-| 13:00 | **Workshop 3**: Workplace and employee surveillance: legal framework and strategies
-| 13:00 | **Workshop 4**: What is a Finance Committee and its role in downsizing scenarios?                                     |
-| 14:45 | ☕️ Coffee break                                                                                                           |
-| 15:00 | **Workshop 5**: [Works agreements](https://en.wikipedia.org/wiki/Works_agreement) on mobile work: risks and opportunities |
-| 15:00 | **Workshop 6**: The works council's role in workplace downsizing scenarios (mass layoffs)                                 |
-| 15:00 | **Workshop 7**:  Data Protection in the works council's office: duties of the works council and its members               |
-| 17:00 | **Reflection phase**, next steps, end of conference                                                                       |
-| 18:00 | **Get together**                                                                                                          |
+| Time  | Panel                                                                                                                          |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 08:00 | ☕️ Morning Check in                                                                                                            |
+| 09:00 | **Introduction and Welcome** | 
+| 10:00 | **Ice Breaker and Issue Identification Workshop** <br /> *Antje Dieterich (she/her), Ver.di <br /> Phoebe Schmidt (she/they), Contentful Works Council* 
+| 12:00 | 🥙 Lunch including vegetarian/vegan food                                                                                                                            
+| 13:00 | **Workshop 1: Works Council Communication with Co-workers in Mobile/Remote Scenarios** <br /> *yv (they/them), former works council chair <br /> Raphael Kamps (he/him), G.IBS* |
+| 13:00 | **Workshop 2: Legal Framework for Collaboration between Works Councils and Trade Unions**                               <br /> *Janine Kaldeweier (she/her), Lawyer DKA <br /> Yonatan Miller (he/him), Share Now Works Council Chair <br /> Joey Rosenberger (he/him), Telekom Youth Works Council* |
+| 13:00 | **Workshop 3: Workers' Profile Rights and Algorithmic Surviellance** <br /> *Maike Pricelius (she/her), G.IBS <br /> Prof. Phoebe Moore (she/her), University of Essex, Essex Business School* ﻿                                                                 |
+| 14:45 | ☕️ Coffee break                                                                                                                |
+| 15:00 | **Workshop 4: [Works agreements](https://en.wikipedia.org/wiki/Works_agreement) on mobile work: risks and opportunities** <br /> *Britta Berlet (she/her), CARIAD Works Council Chair <br /> Jordan Coll (he/him), SoundCloud Works Council <br /> Thomas Weber (he/him), IG Metall*                         |
+| 15:00 | **Workshop 5: The Works Council's Role in Workplace Downsizing Scenarios (Mass Layoffs)** <br /> *Yonatan Miller (he/him), Share Now Works Council Chair <br /> Artur (he/him), Klarna Works Council *        |
+| 15:00 | **Workshop 6:  Data Protection in the Works Council Office: Duties of the Works Council and its Members** <br /> *Micha Heilmann (he/him), Lawyer DKA*                                   |
+| 17:00 | **Reflection and Closing**                                      |
+| 18:00-22:00 | **Get Together and Celebrate** <br />*Eiswerk Berlin <br /> Koepenicker str. 40-41.<br /> Food and drinks provided.*  
 
 ## <a href="#14-october-schedule" id="14-october-schedule">14 October Schedule</a>
 
-| Time  | Panel                                                                                 |
-| ----- | ------------------------------------------------------------------------------------- |
-| 10:30 | ☕️ Welcoming words                                                                    |
-| 11:15 | Interactive activity and setting the stage                                            |
-| 12:15 | 🥙 Lunch including vegetarian/vegan food                                              |
-| 13:00 | **Opening panel and Q/A**: Collective bargaining: Success stories from the real world |
-| 14:30 | **Workshop 8**: Climate change and tech                                               |
-| 14:30 | **Workshop 9**: Transnational organising, challenges and successes                    |
-| 14:30 | **Workshop 10**: Sexism, gender pay gap and how we can win                            |
-| 14:30 | **Workshop 11**: Works Council mobbing/bullying and retaliation from management       |
-| 14:30 | **Workshop 12**: [Deutsche Wohnen & Co. Expropriation campaign](https://dwenteignen.de/en/) and why you should get involved|
-| 16:00 | **Report back** and commitments for future project launches                           |
-| 16:30 | **Closing** and commitments for future project launches                               |
+| Time  | Panel                                                                                                                       |
+| ----- | --------------------------------------------------------------------------------------------------------------------------- |
+| 10:30 | ☕️ Welcoming words                                                                                                          |
+| 11:15 | Interactive activity and setting the stage                                                                                  |
+| 12:15 | 🥙 Lunch including vegetarian/vegan food                                                                                    |
+| 13:00 | **Opening panel and Q/A**: Collective bargaining: Success stories from the real world                                       |
+| 14:30 | **Workshop 8**: Climate change and tech                                                                                     |
+| 14:30 | **Workshop 9**: Transnational organising, challenges and successes                                                          |
+| 14:30 | **Workshop 10**: Sexism, gender pay gap and how we can win                                                                  |
+| 14:30 | **Workshop 11**: Works Council mobbing/bullying and retaliation from management                                             |
+| 14:30 | **Workshop 12**: [Deutsche Wohnen & Co. Expropriation campaign](https://dwenteignen.de/en/) and why you should get involved |
+| 16:00 | **Report back** and commitments for future project launches                                                                 |
+| 16:30 | **Closing** and commitments for future project launches                                                                     |
 
 ## Venue
 
