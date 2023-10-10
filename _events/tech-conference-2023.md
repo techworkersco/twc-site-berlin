@@ -117,9 +117,8 @@ If you have further questions or are interested in attending, you can get in tou
 | 13:00 | **Panel: Collective Bargaining -- Success Stories from the Real World** <br /> *Moderation: Jax Hudspeth (she/they), HelloFresh Works Council <br /> Silvia Habekost, Hospital Movement <br /> Member of collective bargaining committee at ASML and IGMetall*                                                            |
 | 14:30 | **Workshop 1: Climate change and tech** <br /> *Moderation: Malene Guergen (she/her), Journalist Ecological Unionism Tech and Climate <br /> Amira Moeding (they/them, she/her), PhD Student, University of Cambridge*                         |
 | 14:30 | **Workshop 2: Transnational Oragnizing, Challenges, and Opportunities. How to go about a transnational campaign?** <br /> *Moderation: Yonatan Miller (he/him), Share Now Works Council Chair <br /> HelloFresh <br /> Marta, Amazon Workers International*                                                        |
-| 14:30 | **Workshop 3: Sexism, Gender Pay Gap, and How We Can Win** <br />
-| 14:30 | **Workshop 11**: Works Council mobbing/bullying and retaliation from management                                             |
-| 14:30 | **Workshop 12**: [Deutsche Wohnen & Co. Expropriation campaign](https://dwenteignen.de/en/) and why you should get involved |
+| 14:30 | **Workshop 3: Sexism, Gender Pay Gap, and How We Can Win** <br />                                                             |
+| 14:30 | **Workshop 4**: [Deutsche Wohnen & Co. Expropriation campaign](https://dwenteignen.de/en/) and why you should get involved |
 | 16:00 | **Report back** and commitments for future project launches                                                                 |
 | 16:30 | **Closing** and commitments for future project launches                                                                     |
 
