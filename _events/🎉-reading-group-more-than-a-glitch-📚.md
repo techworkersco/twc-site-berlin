@@ -1,6 +1,6 @@
 ---
 title: "🎉 Reading Group: More than a glitch 📚"
-date: 2023-12-7T17:30:53.494Z
+date: 2023-12-7T18:30:53.494Z
 hide_form: false
 tags:
   - learning
