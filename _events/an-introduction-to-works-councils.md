@@ -1,6 +1,6 @@
 ---
 title: An Introduction to Works Councils
-date: 2023-11-15T18:30:14.111Z
+date: 2023-11-15T17:30:14.111Z
 hide_form: true
 tags:
   - works-council
