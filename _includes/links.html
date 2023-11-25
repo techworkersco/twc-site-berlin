@@ -41,7 +41,7 @@
 </div>
 {% unless page.hide_form %}
   <div class="social-links">
-    <form name="subscribe" class="join-form" method="POST" data-netlify="true">
+    <form name="subscribe" class="join-form" method="POST" action="/welcome" data-netlify="true">
       <div class="control">
         <label for="name">{% t connect.name %}</label>
         <input class="input-text" id="name" type="text" required name="name" />
