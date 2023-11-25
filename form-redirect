@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /join/complete
+permalink: /welcome
+hide_form: true
 ---
 
 # 🎉 Congratulations on joining Tech Workers Coalition
@@ -12,4 +13,6 @@ Our volunteer admin team have received your information and will invite you if y
 3. You will also receive an invite to our Slack, where you can meet other TWC chapters 
 
 In the meantime, come to one of our [upcoming events](/events)! If you have any further questions, you can contact us at join@techworkersberlin.com 
+
+{%include links.html %} 
 
