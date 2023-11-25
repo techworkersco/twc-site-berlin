@@ -9,6 +9,6 @@ For experienced and new works council members alike. We pick one specific topic 
 
 Whether you formed a Works Council one week ago or 10 years ago, we want you here! We are here to support each other with advice, questions and collaboration! If there is a topic you are interested in, offer to moderate the following Works Council round-table!
 
-## Data protection committee
+## Finance committee
 * What is it?
-* What are the best practices in setting one up, and how can it be leveraged effectively? 
+* What are the best practices in setting one up and how can it be leveraged effectively? 
