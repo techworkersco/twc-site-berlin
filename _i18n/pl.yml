@@ -15,8 +15,6 @@ connect:
   info: informacje kontaktowe
   title: Dołącz do naszej społeczności
   email: Adres e-mail
-  info:
-  title:
   name:
   public_link:
   company:
@@ -42,10 +40,9 @@ pl:
       short: "%d %b %H:%M"
   date:
     order:
-    - :day
-    - :month
-    - :year
-
+      - :day
+      - :month
+      - :year
     day_names:
       - niedziela
       - poniedziałek

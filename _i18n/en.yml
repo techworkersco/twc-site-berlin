@@ -48,14 +48,18 @@ global:
     title: Accessibility
     summary: We understand accessibility in a broad sense and strive to do better. We try to host meetings that are wheelchair accessible, smoke free, short(er) and provide child care. We provide information on the meeting location, including a description of the entrance, lighting and sounds, and policy around companion and service dogs beforehand so that participants can best plan for their visit. If you have feedback or questions regarding the accessibility of our meetings or initiatives, please get in touch at <a rel="noopener noreferrer" target="_blank" href="mailto:accessibility@TechWorkersBerlin.com">accessibility@TechWorkersBerlin.com</a>.
 
+press:
+  mentions: Press mentions
+  inquiry: For Press inquiries contact us at
+
 # Keys used by localize filter as defined in _plugins/i18n_filter.rb
 en:
   time:
     formats:
       default: "%A, %d %b %Y %H:%M"
-      long: "%B %d, %Y %H:%M"
-      short: "%d %b %H:%M"
   date:
+    formats:
+      default: "%-d %B %Y"
     order:
       - :day
       - :month
@@ -65,7 +69,7 @@ en:
       - Mon
       - Tue
       - Wed
-      - Thu
+      - Thur
       - Fri
       - Sat
     abbr_month_names:
@@ -75,13 +79,13 @@ en:
       - Mar
       - Apr
       - May
-      - Jun
-      - Jul
+      - June
+      - July
       - Aug
-      - Sep
+      - Sept
       - Oct
       - Nov
-      - Dec
+      - Dec  
     day_names:
       - Sunday
       - Monday
@@ -103,13 +107,4 @@ en:
       - September
       - October
       - November
-      - December
-
-press:
-  mentions: Press mentions
-  inquiry: For Press inquiries contact us at
-
-resources_title: Resources
-resources:
-  - title: Co-determination at workplace level in Germany (DGB, English) (PDF, 99 kB)
-    url: https://www.dgb.de/betriebsratswahl/++co++336914b0-70b7-11ed-bfe8-001a4a160123
+      - December 
