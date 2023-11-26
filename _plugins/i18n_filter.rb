@@ -19,7 +19,7 @@ module Jekyll
       end
       load_translations(locale)
       format = (format =~ /^:(\w+)/) ? $1.to_sym : format
-      I18n.l date_format, :format => format
+      I18n.with_locale(locale) { I18n.l date_format, :format => format }
     rescue
       "error"
     end

@@ -52,6 +52,8 @@ de:
       long: "%B %d, %Y %H:%M"
       short: "%d %b %H:%M"
   date:
+    formats:
+      default: "%-d %B %Y"
     order:
       - :day
       - :month
