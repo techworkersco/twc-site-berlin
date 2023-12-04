@@ -1,6 +1,6 @@
 ---
 title: "📝 Training - Foundations of Leadership in Democratic and Feminist organizations 💪"
-date: 2024-01-18T18:30:00.154Z
+date: 2024-01-18T17:30:00.154Z
 hide_form: false
 ---
 ## 💫Highlights 
