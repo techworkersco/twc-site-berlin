@@ -5,7 +5,7 @@ tags: works-councils
 ---
 # Works Councils
 
-As Tech Workers Coalition, we support the formation of Works Councils (Betriebsräte) as a means to organize and gain collective power within your workplace. Below is some basic information on the German system of Works Councils. If you'd like to learn more or have plans to initiate a campaign at your workplace, please get in touch or join us in our next general meeting. Please be aware that this it not legal advice.
+We support the formation of Works Councils (Betriebsräte) as a means to organize and gain collective power within our workplaces. Below are some basic information on the German system of Works Councils. If you'd like to learn more or have plans to initiate a campaign at your workplace, please get in touch or join us in our next general meeting. Please be aware this is not legal advice.
 
 [What is a Works Council]({% link works-councils/what-is-a-works-council.md %})
 
@@ -15,14 +15,11 @@ As Tech Workers Coalition, we support the formation of Works Councils (Betriebsr
 
 [Election template generator]({% link works-councils/list-nomination.md %})
 
-## Training
+## Trainings
 
-We host Works Council trainings regularly, including an introduction to the German Works Council and trade union structures and the possibility to discuss strategic questions and formal considerations of a Works Council campaign. We provide an open forum and safe space to share experiences and learn from each other.
+We host Works Council trainings regularly. We provide a forum and safe space to share experiences and learn from each other.
 
-## Event
-Please check the [Events](/events) section for upcoming times and registration form. The three most recent events are:
-
-{% include events.html tags="works-council" limit=3 %}
+{% include events.html tags="works-council" limit=5 %}
 
 ## Articles
 

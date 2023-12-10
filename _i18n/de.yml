@@ -17,14 +17,14 @@ home:
 
   events:
     title: Events
-    summary: Alle vergangenen [events](/de/events)
+    summary: Alle vergangenen [events](/events)
 
   news:
     title: Artikel
 
 connect:
   info: Mitmachen
-  description: Um bei uns mitzumachen, kommt am besten einfach an einem der kommenden <a href="/de/events">events</a> vorbei. Diese werden individuell bearbeitet, so dass es etwas dauern kann.
+  description: Um bei uns mitzumachen, kommt am besten einfach an einem der kommenden <a href="/events">events</a> vorbei. Diese werden individuell bearbeitet, so dass es etwas dauern kann.
   title: Kontakt
   email: Email
   name: Name
