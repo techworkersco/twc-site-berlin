@@ -1,5 +1,5 @@
 ---
-title: 🥗 Social potlock
+title: 🥗 Social potluck
 date: 2024-01-20 19:30:00 +0200
 hide_form: true
 tags: null
