@@ -53,6 +53,7 @@ body {
 input {
   display: inline-block;
   margin: 10px 0;
+  text-align: center;
 
   &:invalid {
     border: 2px solid red;
@@ -105,6 +106,12 @@ ul {
   border-radius: 8px;
   padding: 10px;
   margin-bottom: 5px;
+  
+  &:has(form) {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
   a {
     text-decoration: none;
@@ -113,10 +120,15 @@ ul {
 
 .control {
   margin-bottom: 5px;
+  text-align :center;
 
   input, label {
     display: block;
-    width: 75%;
+    width: 90%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 1%
   }
 }
 
@@ -164,6 +176,11 @@ img {
   padding: 8px 25px;
   border-radius: 8px;
   border-width: 1px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 12px;
+  width: 90%;
 
   &:hover {
     background-color: #e6141b;

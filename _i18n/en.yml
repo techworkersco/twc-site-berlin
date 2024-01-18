@@ -28,11 +28,11 @@ home:
 connect:
   info: Get involved! @TechWorkersBER
   description: The easiest way to get involved is to attend one of our upcoming <a href="/events" >events</a>.
-  email: Email
-  name: Name
+  email: Your Email
+  name: Your Name
   public_link: Public link
   company: Your employer
-  telegram: Your Telegram handle if you want to join our <a rel="noopener noreferrer" target="_blank" href=" https://t.me/+-7rD_lN0tP1kNjNi">group chat</a>
+  telegram: Your Telegram handle if you want<br>to join our <a rel="noopener noreferrer" target="_blank" href=" https://t.me/+-7rD_lN0tP1kNjNi">group chat</a>
   number: Phone number
   how_did_hear: How can we support your personal goals?
   subscribe_to_slack: Subscribe to Slack
