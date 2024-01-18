@@ -30,7 +30,7 @@ Our Core Fundamentals training focuses on how to do this. Across six weeks - in 
 
 ## Register 
 <div class="social-links">
-  <form name="social-potluck" class="join-form" method="POST" data-netlify="true">
+  <form name="general-form" class="join-form" method="POST" data-netlify="true">
     <div class="control">
       <label for="name">{% t connect.name %}</label>
       <input class="input-text" id="name" type="text" required name="name" />
