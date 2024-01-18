@@ -5,7 +5,7 @@ templateClass: tmpl-home
 permalink: /
 ---
 
-<section>
+<section class="intro-section">
   {% t home.summary %}
 </section>
 

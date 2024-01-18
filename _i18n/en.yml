@@ -5,7 +5,7 @@ langs:
   ru: Русский
 
 home:
-  summary: Berlin Tech Workers Coalition is a landing page for tech workers looking to organise their workplace. Whether it is through <a href="/works-councils">Works Councils</a> (Betriebsräte), union campaigns for higher wages, or broader struggles against racism and gentrification, we are here to support you! Tech Won’t Save Us...Organise! ✊ We are the largest English speaking network of Works Councils, tech workers and trade union members supporting each other in different tech companies like Soundcloud, Contentful, ShareNow, Amazon, SumUp, N26, TikTok and maybe your company!
+  summary: Berlin Tech Workers Coalition are a grassroots collective that builds collective power in our workplaces. We support all workers in the tech industry broadly speaking, including engineers, delivery riders, content moderators, customer service, warehouse pickers, video game artists and more!<br><br>We support each other in forming <a href="/works-councils">Works Councils</a> (Betriebsräte), unionising for higher wages, struggling against discrimination, gentrification to name a few.<br><br>We often brainstorm together, provide trainings and networking events. Join our <a href="/events">meetings</a> to share your knowledge and requests for support!<br><b>Tech Won't Save Us&colon; <span style="color:red">Organise!</span></b> 🤗
 
   black_lives_matter:
     title: Black Lives Matter
@@ -19,8 +19,8 @@ home:
     summary: We as Berlin TWC support the <a href="https://www.dwenteignen.de/wp-content/uploads/2021/03/a5_DWE_INFOFLYER_ENGLISCH.pdf">Deutsche Wohnen & Co enteignen</a> campaign. If you live in Berlin and are eligible to vote, find out how to sign <a href="https://www.dwenteignen.de/unterschreiben/">here</a>.
 
   events:
-    title: 5 Recent events
-    summary: Find [all upcoming events here](/events)
+    title: Latest events
+    summary: Find [our most recent events here](/events)
 
   news:
     title: Recent articles
