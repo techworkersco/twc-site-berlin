@@ -20,10 +20,11 @@ home:
 
   events:
     title: Latest events
-    summary: Find [our most recent events here](/events)
+    more: Find more events
 
-  news:
-    title: Recent articles
+  blog:
+    title: Latest blog posts
+    more: Find more blog posts
 
 connect:
   info: Get involved! @TechWorkersBER

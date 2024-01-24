@@ -25,9 +25,10 @@ sass:
 
 # Build settings
 feed:
+  disable_in_development: true
   collections:
     - events
-    - news
+    - blog
 plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
@@ -58,8 +59,8 @@ exclude_from_localizations: ["assets", "admin", "vendor"]
 header_themes:
   - url: /about
     text: about
-  - url: /news
-    text: articles
+  - url: /blog
+    text: blog
   - url: /press
     text: Press
   - url: /events
@@ -70,7 +71,7 @@ header_themes:
 permalink: pretty
 future: true
 collections:
-  news:
+  blog:
     output: true
   events:
     output: true
@@ -86,6 +87,6 @@ defaults:
     values:
       layout: "event"
   - scope:
-      type: "news"
+      type: "blog"
     values:
-      layout: "news"
+      layout: "blog"

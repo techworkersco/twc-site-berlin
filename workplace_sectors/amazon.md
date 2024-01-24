@@ -17,7 +17,7 @@ If you want to get in touch, contact amazon@techworkersberlin.com or press@techw
 Berlin Vs Amazon
 
 ## Articles
-{% include news.html tags=page.tags %}
+{% include blog.html tags=page.tags %}
 
 ## Events
 {% include events.html tags=page.tags %}

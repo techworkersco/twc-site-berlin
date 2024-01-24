@@ -21,8 +21,8 @@ We host Works Council trainings regularly. We provide a forum and safe space to 
 
 {% include events.html tags="works-council" limit=5 %}
 
-## Articles
+## Blog
 
-Below we collect articles on Works Council activities in Berlin tech companies. In an interview series, we present perspectives and experiences from Works Councillors. If you are a Works Councillor yourself, or know a fellow worker who is, and would be interested taking part, we'd love to hear from you: [content@techworkersberlin.com](mailto:content@techworkersberlin.com).
+Below are blog posts on Works Council activities in Berlin tech companies. In an interview series, we present perspectives and experiences from Works Councillors. If you are a Works Councillor yourself, or know a fellow worker who is, and would be interested taking part, we'd love to hear from you: [content@techworkersberlin.com](mailto:content@techworkersberlin.com).
 
-{% include news.html tags=page.tags %}
+{% include blog.html tags=page.tags %}

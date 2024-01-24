@@ -25,9 +25,9 @@ Open a browser to localhost:4000
 
 Add a file inside the [`_events`](_events) directory. Copy a previous file as a template, and make sure to include the right time zone for Berlin!
 
-## Add a blog post (inside /news)
+## Add a blog post (inside /blog)
 
-Add a file inside the [`_news`](_news) directory. Copy a previous file as a template. If an author does not exist, add one inside [`_data/authors.yml`](_data/authors.yml). A name is the only thing necessary, but photo is optional too.
+Add a file inside the [`_blog`](_blog) directory. Copy a previous file as a template. If an author does not exist, add one inside [`_data/authors.yml`](_data/authors.yml). A name is the only thing necessary, but photo is optional too.
 
 ## Add a press mention
 
@@ -62,16 +62,4 @@ Note, only the default [en.yml](_i18n/en.yml) must contain the names of each lan
 * English
 * German
 * Russian
-* Polish (except for join.md/press_mentions.md)
-
-## Adding Netlify Build Plugins
-
-Netlify is both our server and continuous integration. It offers [plugins](https://docs.netlify.com/configure-builds/build-plugins/) which can be ran before deploying the site, to either perform some checks or optimizations. Check out our [netlify.toml], it has some build plugins installed. To test them locally on your own machine run:  
-```
-# Ensure that you have the netlify build command available
-# (in future this will be provided via the CLI)
-npm install @netlify/build -g
-
-# In the project working directory, run the build as netlify would with the build bot
-netlify-build
-```
+* Polish

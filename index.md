@@ -11,15 +11,12 @@ permalink: /
 
 <section class="titled-block" aria-labelledby="hl-events">
   <h2 id="hl-events">{% t home.events.title %}</h2>
-
-  {% t home.events.summary | safe %}
-
   {% include events.html limit=5 %}
 </section>
 
 <section class="titled-block" aria-labelledby="hl-news">
-  <h2 id="hl-news">{% t home.news.title %}</h2>
-  {% include news.html limit=3 %}
+  <h2 id="hl-news">{% t home.blog.title %}</h2>
+  {% include blog.html limit=3 %}
 </section>
 
 
