@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/news/*"
+  to = "/blog/:splat"
+  status = 308
+  force = true
