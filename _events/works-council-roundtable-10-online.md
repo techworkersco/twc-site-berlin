@@ -1,6 +1,6 @@
 ---
 title: "Works Council Roundtable #10 (online)"
-date: 2024-01-30T12:00:01.407Z
+date: 2024-01-31T12:00:01.407Z
 hide_form: true
 tags:
   - works-council
