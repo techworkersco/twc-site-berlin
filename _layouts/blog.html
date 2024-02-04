@@ -6,7 +6,7 @@ layout: default
 <!-- Output author details if some exist. -->
 <article class="post">
   <header class="post-header">
-    <a href="/events">Read more articles</a>
+    <a href="/blog">{% t 'home.blog.more_articles' %}</a>
     <h1 class="post-title">{{ page.title | escape }}</h1>
     {% assign author = site.data.authors[page.author] | default: site.data.authors['techworkersber'] %}
       <section class="l-stack -horizontal -space-large">

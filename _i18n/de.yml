@@ -17,10 +17,11 @@ home:
 
   events:
     title: Events
-    summary: Alle vergangenen [events](/events)
+    more: Alle vergangenen events
 
-  news:
-    title: Artikel
+  blog:
+    title: Blog
+    more: Alle vergangenen blog
 
 connect:
   info: Mitmachen

@@ -12,7 +12,7 @@ If you want to get in touch, contact property@techworkersberlin.com or press@tec
 Deutsch Wohnen Einteignen und Co
 
 ## Articles
-{% include news.html tags=page.tags %}
+{% include blog.html tags=page.tags %}
 
 ## Events
 {% include events.html tags=page.tags %}
