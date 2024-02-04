@@ -90,3 +90,4 @@ defaults:
       type: "blog"
     values:
       layout: "blog"
+      author: "techworkersber"

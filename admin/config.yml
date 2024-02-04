@@ -1,3 +1,5 @@
+local_backend: true
+
 backend:
   name: git-gateway
   branch: develop # Branch to update (optional; defaults to master)
@@ -31,8 +33,39 @@ collections:
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Press", name: "Press", widget: "relation", collection: "relation_files", file: "press", search_fields: ['press.media'], value_field: "{{press.media}}" }
       - {label: "Date", name: "date", widget: "datetime", picker_utc: true }
       - {label: "Canonical url", name: "canonical_url", widget: "string", required: false}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Author", name: "author", widget: "relation", collection: "data.authors", search_fields: ['name'], value_field: "{{name}}" }
+  # Static files inside site/_data
+  - label: "Press and authors"
+    name: "data"
+    files:
+      - label: "Press entries"
+        name: "press"
+        file: "/_data/press.yml"
+        fields:
+          - label: Press entries
+            name: entries
+            widget: list
+            fields:
+              - {label: Publication name, name: media, widget: string}
+              - {label: Link, name: web_url, widget: string}
+              - {label: Language, name: lang, widget: string, default: "en" }
+              - {label: Byline, name: byline, widget: string}
+              - {label: date, name: date, widget: datetime, date_format: "YYYY-MM-DD"}
+              - {label: twitter, name: twitter, widget: string}
+      - label: "Author entries"
+        name: "authors"
+        file: "/_data/authors.yml"
+        fields:
+          - label: Author entries
+            name: entries
+            widget: list
+            fields:
+              - {label: Author handle, name: handle, widget: string}
+              - {label: Human name, name: name, widget: string}
+              - {label: Twitter, name: Twitter, widget: string}
+              - {label: Website, name: url, widget: string}
+              - {label: "Avatar image", name: "picture", widget: "image", required: true}
