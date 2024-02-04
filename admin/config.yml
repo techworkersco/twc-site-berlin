@@ -33,11 +33,13 @@ collections:
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Press", name: "Press", widget: "relation", collection: "relation_files", file: "press", search_fields: ['press.media'], value_field: "{{press.media}}" }
+      # this is still not working...in worst case...could set it to simple string...but without validation ;p   
+      - {label: "Author", name: "author", widget: "relation", collection: "relation_files", file: "authors", search_fields: ['authors.entries.handle'], value_field: "authors.entries.handle" }
       - {label: "Date", name: "date", widget: "datetime", picker_utc: true }
       - {label: "Canonical url", name: "canonical_url", widget: "string", required: false}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
+  
   # Static files inside site/_data
   - label: "Press and authors"
     name: "data"
