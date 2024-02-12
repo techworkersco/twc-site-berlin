@@ -5,7 +5,11 @@ hide_form: false
 ---
 30 September: Save the date!
 
+
+
 On 30 September 2022, the Berlin Tech Workers Coalition will host a worker-led conference along with trade unions ver.di and IG metall, focused on engaging English speaking works council members and workplace activists across different tech, video gaming and rider companies. 
+
+![around 60 workers gathered at conference ](/assets/img/crowd_twc.jpg)
 
 We will bring 50-100 people from 30-50 companies together for a day-long workshop (in Berlin) on sharing best organising practices for winning better workplace and living conditions. 
 
