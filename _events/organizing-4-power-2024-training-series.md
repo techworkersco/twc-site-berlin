@@ -5,7 +5,7 @@ hide_form: true
 ---
 **Organizing for Power’s** Core Fundamentals is a skills-based training that takes place weekly on **6 CONSECUTIVE TUESDAYS** from the 7th of May until the 11th of June 2024 from 18:00-CET until 20:30 CET.
 
-Each session lasts 2.5 hours. As the Berlin group, we'll be participating in Track A together. As a group, our common language is English, but there will be translation available during the online seminar for other languages including Deutsch, Español, François, Português and عربي
+Each session lasts 2.5 hours. As the Berlin group, we'll be participating in Track A together. As a group, our common language is English, but there will be translation available during the online seminar for other languages including Deutsch, Español, Français, Português and عربي
 
 <a href="#register">Fill out the form below</a> by 20 April 2024, so that can register Berlin Tech Workers Coalition as a single group. We will primarily be using Zoom together. If you have questions you can email O4P@techworkersberlin.com or fill out the registration form below. 
 
