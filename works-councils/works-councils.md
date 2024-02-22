@@ -19,7 +19,7 @@ We support the formation of Works Councils (Betriebsräte) as a means to organiz
 
 We host Works Council trainings regularly. We provide a forum and safe space to share experiences and learn from each other.
 
-{% include events.html tags="works-council" limit=5 %}
+{% include events.html tags="works-council" limit=3 %}
 
 ## Blog
 
