@@ -1,14 +1,20 @@
+local_backend: true
+
 backend:
   name: git-gateway
   branch: develop # Branch to update (optional; defaults to master)
   accept_roles: #optional - accepts all users if left out
     - admin
-    - editor
+    - editor  
+  commit_messages:
+    create: Add {{collection}} "{{slug}}" via DecapCMS
+    update: Update {{collection}} "{{slug}}" via DecapCMS
+    delete: Delete {{collection}} "{{slug}}" via DecapCMS
 
 media_folder: "assets/img"
 
 collections:
-  - name: "event" # Used in routes, e.g., /admin/collections/blog
+  - name: "event" # Used in routes, e.g., /admin/collections/event
     label: "Event" # Used in the UI
     folder: "_events" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
@@ -20,3 +26,48 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Optional image for SEO", name: "image", widget: "image", required: false}
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    label: "Blog" # Used in the UI
+    folder: "_blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      # this is still not working...in worst case...could set it to simple string...but without validation ;p   
+      - {label: "Author", name: "author", widget: "relation", collection: "relation_files", file: "authors", search_fields: ['authors.entries.handle'], value_field: "authors.entries.handle" }
+      - {label: "Date", name: "date", widget: "datetime", picker_utc: true }
+      - {label: "Canonical url", name: "canonical_url", widget: "string", required: false}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  
+  # Static files inside site/_data
+  - label: "Press and authors"
+    name: "data"
+    files:
+      - label: "Press entries"
+        name: "press"
+        file: "/_data/press.yml"
+        fields:
+          - label: Press entries
+            name: entries
+            widget: list
+            fields:
+              - {label: Publication name, name: media, widget: string}
+              - {label: Link, name: web_url, widget: string}
+              - {label: Language, name: lang, widget: string, default: "en" }
+              - {label: Byline, name: byline, widget: string}
+              - {label: date, name: date, widget: datetime, date_format: "YYYY-MM-DD"}
+              - {label: twitter, name: twitter, widget: string}
+      - label: "Author entries"
+        name: "authors"
+        file: "/_data/authors.yml"
+        fields:
+          - label: Author entries
+            name: entries
+            widget: list
+            fields:
+              - {label: Author handle, name: handle, widget: string}
+              - {label: Human name, name: name, widget: string}
+              - {label: Twitter, name: Twitter, widget: string}
+              - {label: Website, name: url, widget: string}
+              - {label: "Avatar image", name: "picture", widget: "image", required: true}

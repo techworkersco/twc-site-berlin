@@ -14,7 +14,7 @@ permalink_de: /pressespiegel
   style="--stack-spacing: 1.5rem"
   role="list">
 
-  {% for post in site.data.press  %}
+  {% for post in site.data.press.entries  %}
     <li>
       <article class="event-card">
         <img
