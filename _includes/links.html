@@ -64,6 +64,7 @@
           required
           type="text"
           name="social_media_1"
+          placeholder="{% t connect.public_link_placeholder %}"
         />
       </div>
       <div class="control">
@@ -74,11 +75,12 @@
           required
           type="text"
           name="social_media_2"
+          placeholder="{% t connect.public_link_placeholder %}"
         />
       </div>
       <div class="control">
         <label for="company">{% t connect.company %}</label>
-        <input class="input-text" id="company" type="text" name="company" />
+        <input class="input-text" required id="company" type="text" name="company" />
       </div>
 
       <div>
