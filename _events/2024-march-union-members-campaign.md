@@ -1,7 +1,8 @@
 ---
-title: Union members campaign strategy #1
+title: Union members campaign strategy
 date: 2024-03-21 18:00:00 +0100
 hide_form: true
+image: /assets/img/verdi-fintech-grafik-founding-a-works-council-startseite.png
 ---
 
 We invite all union members in beginning (and advanced) stages of organizing their workplace to signup for our first monthly membership meeting. In order to tailor the event to your needs, we ask a couple of questions below. If you cannot attend it this time, but would like to stay in touch, you can indicate that in the form as well.
