@@ -1,6 +1,6 @@
 ---
 title: Union members campaign strategy
-date: 2024-03-21 18:00:00 +0100
+date: 2024-03-22T17:00:00.000Z
 hide_form: true
 image: /assets/img/verdi-fintech-grafik-founding-a-works-council-startseite.png
 ---
