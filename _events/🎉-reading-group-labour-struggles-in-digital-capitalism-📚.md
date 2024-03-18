@@ -1,5 +1,5 @@
 ---
-title: "🎉 Labour Struggles in Digital Capitalism 📚"
+title: "🎉 Reading Group: Labour Struggles in Digital Capitalism 📚"
 date: 2024-04-11T19:30:00+02:00
 hide_form: false
 tags:
