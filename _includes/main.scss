@@ -107,14 +107,18 @@ ul {
   padding: 10px;
   margin-bottom: 5px;
   
-  &:has(form) {
-    width: 80%;
-    margin-right: auto;
-  }
+  width: 80%;
+  margin-right: auto;
+
 
   a {
     text-decoration: none;
   }
+}
+
+.social-icon {
+  margin-bottom: -7px;
+  padding-left: 5px;
 }
 
 .control {

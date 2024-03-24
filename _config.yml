@@ -84,9 +84,11 @@ defaults:
       image: /assets/img/beat_the_boss.jpg
   - scope:
       type: "events"
+      path: ""
     values:
       layout: "event"
   - scope:
       type: "blog"
+      path: ""
     values:
       layout: "blog"

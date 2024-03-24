@@ -35,6 +35,7 @@ connect:
   public_link_placeholder: Linkedin, Xing, Twitter etc...
   company: Your employer
   telegram: Your Telegram handle if you want<br>to join our <a rel="noopener noreferrer" target="_blank" href=" https://t.me/+-7rD_lN0tP1kNjNi">group chat</a>
+  telegram_placeholder: "@telegram_username"
   number: Phone number
   how_did_hear: How can we support your personal goals?
   subscribe_to_slack: Subscribe to Slack
