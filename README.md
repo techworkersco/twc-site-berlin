@@ -52,6 +52,12 @@ Note, only the default [en.yml](_i18n/en.yml) must contain the names of each lan
 
 ![Screen Shot 2019-07-21 at 14 48 46](https://user-images.githubusercontent.com/7111514/61591397-cb0cd180-abc6-11e9-9876-1577d5c8b4bd.png)
 
+
+### API feeds
+
+Currently [techworkerscoalition.org](https://techworkerscoalition.org) uses Berlin press and events either from GitHub or directly from our exposed APIs e.g [/events.json](https://techworkersberlin.com/events.json). You can find other uses cases [here](https://github.com/techworkersco/twc-site/blob/master/_config.yml#L32)
+
+
 ### Supported Pages
 * Landing Page [index.yml](index.md)
 * Join Page [join.md](join.md)
