@@ -1,0 +1,9 @@
+{
+    "name": "twc-berlin-functions",
+    "dependencies": {
+        "@netlify/functions": "^1.4.0",
+        "axios": "^1.2.2",
+        "dotenv": "^16.0.3",
+        "envalid": "^7.3.1"
+    }
+}
