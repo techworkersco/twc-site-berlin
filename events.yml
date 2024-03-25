@@ -4,7 +4,7 @@ layout: null
 {% for event in site.events %}
 - title: "{{event.title}}"
   date: {{event.date}}
-  chapter: Berlin
+  locations: [Berlin]
   tags: {{event.tags}} 
   timeszones: [Europe/Berlin]
   image: {{site.url}}{{event.image}}
