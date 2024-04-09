@@ -6,7 +6,9 @@ locations:
 hide_form: true
 image: /assets/img/verdi-fintech-grafik-founding-a-works-council-startseite.png
 ---
-We invite all union members in beginning (and advanced) stages of organizing their workplace to signup for our first monthly membership meeting. In order to tailor the event to your needs, we ask a couple of questions below. If you cannot attend it this time, but would like to stay in touch, you can indicate that in the form as well.
+We invite [ver.di union members](https://tech.verdi.de/) in beginning to advanced stages of workplace organizing to signup for our *second* monthly membership meeting. 
+
+In order to tailor the event to your needs, we ask a couple of questions below. If you cannot attend it this time, but would like to stay in touch, you can indicate that in the form as well.
 
 If you are not involved in a workplace campaign, do not worry, there will be other events and trainings that you can participate in. For this specific campaign, we want to foster an environment that is adapted for active and newly forming workplace campaigns. 
 
@@ -16,7 +18,8 @@ If you are not involved in a workplace campaign, do not worry, there will be oth
 * 17:30 - Presentations + group exercises
 * 18:30 - Breakout groups
 * 19:00 - Report backs and next steps
-* 19:30 - We wrap up together and head to bar
+* 19:30 - We wrap up together
+* Optionally grab drinks afterwards at nearby cafe-bar
 
 ![Monthly membership meeting: Join members from across the start-up sector to take concrete next steps on how to organize your workplace! Facilitated collective trouble shooting! Learn fundamental skills in workplace organizing! Learn from the experience of other initiatives!](/assets/img/verdi_04-26.jpg)
 
