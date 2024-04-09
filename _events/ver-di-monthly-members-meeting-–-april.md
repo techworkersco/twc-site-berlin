@@ -4,9 +4,9 @@ date: 2024-04-26T15:00:00.000Z
 locations:
   - Berlin
 hide_form: true
-image: /assets/img/verdi-fintech-grafik-founding-a-works-council-startseite.png
+image: /assets/img/verdi_04-26.jpg
 ---
-We invite [ver.di union members](https://tech.verdi.de/) in beginning to advanced stages of workplace organizing to signup for our *second* monthly membership meeting. 
+We invite [ver.di union members](https://tech.verdi.de/) in both beginning and advanced stages of workplace organizing to signup for our *second* monthly membership meeting. 
 
 In order to tailor the event to your needs, we ask a couple of questions below. If you cannot attend it this time, but would like to stay in touch, you can indicate that in the form as well.
 
@@ -73,7 +73,7 @@ Room Heinrich Böll (7th floor accessible via elevator)
       <select id="union" name="union" required class="subscribe-button">
           <option value="Yes">Yes</option>
           <option value="No">No</option>
-          <option value="Not sure">Not yes</option>
+          <option value="Not sure">Not yet</option>
         </select>
     </div>   
     <div class="control">
