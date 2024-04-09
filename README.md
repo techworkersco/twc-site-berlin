@@ -18,6 +18,7 @@ Before proceeding, install [Docker Compose](https://docs.docker.com/compose/inst
 1. Install dependencies: `bundle install`
 2. Start a local server: `bundle exec jekyll serve`
 3. Verify all internal links are valid: `bundle exec rake`
+4. (Optional) to reproduce Netlify functions run `npx decap-server`; then you can access `/admin` or other Netlify services
 
 Open a browser to localhost:4000
 
