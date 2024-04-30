@@ -24,4 +24,6 @@ make_amazon_pay:
 mutova:
   name: Simon
   picture: /assets/css/images/logo.png
-title: omg
+yonatan:
+  name: Yonatan Miller
+  picture: /assets/img/authors/yonatan.jpg
