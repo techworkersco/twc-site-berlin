@@ -1,6 +1,8 @@
 ---
-title: Organizing 4 Power 2024 Training Series
+title: Organizing 4 Power 2024 Traininng Series (Part 1)
 date: 2024-05-07T16:00:28.650Z
+locations:
+  - Berlin
 hide_form: true
 ---
 **Organizing for Power’s** Core Fundamentals is a skills-based training that takes place weekly on **6 CONSECUTIVE TUESDAYS** from the 7th of May until the 11th of June 2024 from 18:00-CET until 20:30 CET.
