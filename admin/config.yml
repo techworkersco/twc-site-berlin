@@ -16,8 +16,8 @@ collections:
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Locations", name: "locations", widget: "select", multiple: true, default: ["Berlin"], min: 1, options: ["Berlin", Global", "Online"]}
+      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm" }
+      - {label: "Locations", name: "locations", widget: "select", multiple: true, default: ["Berlin"], min: 1, options: ["Berlin", "Global", "Online"]}
       - {label: "hide signup form", name: "hide_form", widget: "boolean", default: false}
       - {label: "Canonical url", name: "canonical_url", widget: "string", required: false}
       - {label: "Tags", name: "tags", widget: "list"}
