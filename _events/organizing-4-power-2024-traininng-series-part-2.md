@@ -9,8 +9,6 @@ hide_form: true
 
 Each session lasts 2.5 hours. As the Berlin group, we'll be participating in Track A together. As a group, our common language is English, but there will be translation available during the online seminar for other languages including Deutsch, Español, Français, Português and عربي
 
-<a href="#register">Fill out the form below</a> by 20 April 2024, so that can register Berlin Tech Workers Coalition as a single group. We will primarily be using Zoom together. If you have questions you can email O4P@techworkersberlin.com or fill out the registration form below. 
-
 ## About
 
 Organizing for Power is a training and networking program that, since its founding in 2019, has welcomed more than 35,000 organizers from 110 countries. Led by Jane McAlevey and hosted by the Rosa Luxemburg Foundation, O4P is based on the radical notion that, to win the changes this world needs, we need to get a whole lot better at talking to - and organizing with - people who don’t already agree with us. 
@@ -29,51 +27,3 @@ Our Core Fundamentals training focuses on how to do this. Across six weeks - in 
 * charting: incorporating a simple method to understand human social relationships, and to prioritize and systematize outreach;
 
 * structure tests: developing mini campaigns to build solidarity and site structure, and to know when you are ready to win.
-
-## Register 
-<div class="social-links">
-  <form name="general-form" class="join-form" method="POST" data-netlify="true" action="/success">
-    <div class="control">
-      <label for="name">{% t connect.name %}</label>
-      <input class="input-text" id="name" type="text" required name="name" />
-    </div>
-    <div class="control">
-      <label for="email">{% t connect.email %}</label>
-      <input
-        class="input-text"
-        id="email"
-        type="email"
-        required
-        name="email"
-      />
-    </div>
-    <div class="control">
-      <label for="company">{% t connect.company %}</label>
-      <input
-        class="input-text"
-        id="company"
-        type="company"
-        required
-        name="company"
-      />
-    </div>
-    <div class="control">
-      <label for="phone">Your Whatsapp number (optional)</label>
-      <input
-        class="input-text"
-        id="phone"
-        type="tel"
-        name="phone"
-        placeholder="+49XXXXXXXXX"
-      />
-    </div>
-    <div class="control">
-      <label for="misc">Any other questions?</label>
-      <input class="input-text" id="misc" type="textarea" name="misc" />
-    </div>
-    <div><input class="input-text" id="referrer" type="hidden" name="referrer" /></div>
-    <button class="subscribe-button" type="submit">
-  Register
-</button>
-  </form>
-</div>
