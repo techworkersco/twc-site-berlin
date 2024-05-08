@@ -1,5 +1,5 @@
 ---
-title: Organizing 4 Power 2024 Traininng Series (Hybrid; Part 3)
+title: Organizing 4 Power 2024 Training Series Part 2
 date: 2024-05-21T20:00:00.000Z
 locations:
   - Berlin
@@ -11,10 +11,6 @@ hide_form: true
 Each session lasts 2.5 hours. As the Berlin group, we'll be participating in Track A together. As a group, our common language is English, but there will be translation available during the online seminar for other languages including Deutsch, Español, Français, Português and عربي
 
 We will primarily be using Zoom together. If you have questions you can email O4P@techworkersberlin.com or fill out the registration form below. 
-
-## In-person venue
-
-In addition to online, we have opportunity to meet each other in **Agit venue** at [Nansenstraße 2, 12047 Berlin](https://www.google.com/maps/place/AGIT/@52.4883979,13.4272167,17z/data=!3m1!4b1!4m6!3m5!1s0x47a84f6bd1ac575b:0xd6a156ed5cdaf95f!8m2!3d52.4883979!4d13.4297916!16s%2Fg%2F11srv2sjln?entry=ttu)
 
 ## About
 
