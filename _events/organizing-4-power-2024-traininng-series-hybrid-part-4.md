@@ -1,5 +1,5 @@
 ---
-title: Organizing 4 Power 2024 Traininng Series (Hybrid) Part 4
+title: Organizing 4 Power 2024 Training Series (Hybrid) Part 4
 date: 2024-05-28T18:00:00.000Z
 locations:
   - Berlin
