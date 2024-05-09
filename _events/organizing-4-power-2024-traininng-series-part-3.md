@@ -1,6 +1,6 @@
 ---
 title: Organizing 4 Power 2024 Training Series Part 3
-date: 2024-05-21T18:00:00.000Z
+date: 2024-05-21 18:00
 locations:
   - Berlin
 hide_form: true
