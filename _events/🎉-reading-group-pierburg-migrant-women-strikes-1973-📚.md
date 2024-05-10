@@ -1,6 +1,6 @@
 ---
 title: "🎉 Reading Group: Pierburg Migrant Women Strikes 1973 📚"
-date: 2024-04-29 19:30
+date: 2024-05-29 19:30
 locations:
   - Berlin
 hide_form: false
