@@ -7,7 +7,7 @@ hide_form: false
 ---
 ![We are protesting Amazon's Project Nimbus contract with the Israeli military and will reach out to attendees unware of Amazon's involvement. Has profil avatars of Berlin Tech Workers Coalition, Berlin V Amazon, BDS Berlin, No Tech for Apartheid and Juedische Stimme](/assets/img/amazon_picket.jpg)
 
-We are protesting Amazon's Project Nimbus contract with the Israeli military and will reach out to attendees unware of Amazon's involvement. 
+We are protesting Amazon's Project Nimbus contract with the Israeli military and will reach out to attendees unaware of Amazon's involvement. 
 
 ## Location
 
