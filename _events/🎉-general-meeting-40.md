@@ -1,5 +1,5 @@
 ---
-title: "🎉 General Meeting #40"
+title: "🎉 General Meeting #41"
 date: 2024-05-23 19:30
 locations:
   - Berlin
