@@ -1,10 +1,10 @@
 ---
 title: ver.di  Monthly Members Meeting – May
-date: 2024-05-27 18:00
+date: 2024-05-24 18:00
 locations:
   - Berlin
 hide_form: true
-image: /assets/img/2024-may-verdi-meeting.jpg
+image: /assets/img/2024-05-24-verdi.jpg
 ---
 We invite [ver.di union members](https://tech.verdi.de/) in both beginning and advanced stages of workplace organizing to signup for our *second* monthly membership meeting. 
 
@@ -21,7 +21,7 @@ If you are not involved in a workplace campaign, do not worry, there will be oth
 * 20:30 - We wrap up together
 * Optionally grab drinks afterwards at nearby cafe-bar
 
-![Monthly membership meeting: Join members from across the start-up sector to take concrete next steps on how to organize your workplace! Facilitated collective trouble shooting! Learn fundamental skills in workplace organizing! Learn from the experience of other initiatives!](/assets/img/2024-may-verdi-meeting.jpg)
+![Monthly membership meeting: Join members from across the start-up sector to take concrete next steps on how to organize your workplace! Facilitated collective trouble shooting! Learn fundamental skills in workplace organizing! Learn from the experience of other initiatives!](/assets/img/2024-05-24-verdi.jpg)
 
 ## Venue
 
