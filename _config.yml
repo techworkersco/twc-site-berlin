@@ -25,7 +25,6 @@ sass:
 
 # Build settings
 feed:
-  disable_in_development: true
   collections:
     - events
     - blog
