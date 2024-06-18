@@ -53,7 +53,7 @@ sass:
   style: compressed
 exclude:
   - .jekyll-cache/
-languages: ["en", "de", "pl", "ru"]
+languages: ["en", "de", "pl", "ru", "tr"]
 exclude_from_localizations: ["assets", "admin", "vendor"]
 header_themes:
   - url: /about
