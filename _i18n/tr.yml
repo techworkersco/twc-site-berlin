@@ -54,7 +54,7 @@ press:
   inquiry: Basınla ilgili sorularınız için bizimle iletişime geçin
 
 # Keys used by localize filter as defined in _plugins/i18n_filter.rb
-en:
+tr:
   time:
     formats:
       default: "%A, %d %b %Y %H:%M"
