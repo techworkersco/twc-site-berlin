@@ -11,7 +11,7 @@ tags:
 
 Welcome! Our monthly General Meeting is your chance to get together with friendly, like-minded Berlin tech workers to talk about how to change the industry and build power – and then continue the discussion over some alcoholic and non-alcoholic drinks. Whether this is your first or your forty-second meeting, we're looking forward to seeing you!
 
-## 🗒️ Agenda items (work in progress)
+## 🗒️ Agenda
 
 * Introductions
 * Report back from action at AWS summit
