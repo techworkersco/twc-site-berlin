@@ -13,11 +13,13 @@ Welcome! Our monthly General Meeting is your chance to get together with friendl
 
 ## 🗒️ Agenda items (work in progress)
 
-* 5 year anniversary of Berlin TWC in June
-* Strategies and visions of Berlin TWC
-* How to better plan events and actions
-
-Got some ideas for the agenda? Message @haldente on Telegram, suggest an item in our Telegram group chat, or email info@techworkersberlin.com.
+* Introductions
+* Report back from action at AWS summit
+* Planned event: “Talking to your coworkers about Palestine”
+* CRM of TWC Berlin members
+* Motivating coworkers to participate in an Electoral Board vote
+* Burnout and regeneration for organizers
+* Organizing the next meeting
 
 ## 📍 Venue
 
