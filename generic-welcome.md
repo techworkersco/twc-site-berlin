@@ -4,11 +4,9 @@ permalink: /success
 hide_form: true
 ---
 
-# 🎉 Success
+# 🎉 Congratulations
 
-Our volunteer team has received your information and will send you further information very soon.
-
-If you have any further questions, you can contact us at join@techworkersberlin.com 
+We received your information. If you want to get more involved contact us by <a href="mailto:join@techworkersberlin.com">email</a> or Telegram.
 
 ## Social media links
 {%include links.html %} 
