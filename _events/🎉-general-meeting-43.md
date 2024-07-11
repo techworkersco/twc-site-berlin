@@ -13,7 +13,7 @@ Welcome! Our monthly General Meeting is your chance to get together with friendl
 
 ## 🗒️ Agenda
 
-This one will be a more casual meet up, because it's summer and it would be great to have a little more fun at our meetings. Bring snacks or drinks if you want! We will still have dedicated time for people to discuss their organizing initiatives and get feedback from the group, and there will be a brief update on the TWC survey. To suggest additional agenda items, please message the meeting hosts on our Telegram group.
+This one will be a more casual meet up, because it's summer and it would be great to have a little more fun at our meetings. Bring snacks or drinks if you want! We will still have dedicated time for people to discuss their organizing initiatives and get feedback from the group, and there will be a brief update on the TWC survey. To suggest additional agenda items, please message @Berlov007 on Telegram.
 
 * Introductions
 * Open discussion about organising initiatives
