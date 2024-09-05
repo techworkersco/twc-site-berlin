@@ -1,12 +1,12 @@
 ---
-title: ver.di Monthly Members Meeting – October
-date: 2024-10-25 18:00
+title: ver.di Monthly Members Meeting – November
+date: 2024-11-28 18:00
 locations:
   - Berlin
 hide_form: true
 image: ""
 ---
-We invite [ver.di union members](https://tech.verdi.de/) in both beginning and advanced stages of workplace organizing to signup for our *sixth* monthly membership meeting. (Images coming soon)
+We invite [ver.di union members](https://tech.verdi.de/) in both beginning and advanced stages of workplace organizing to signup for our *seventh* monthly membership meeting and last one for 2024. (Images coming soon)
 
 * September: Power
 * October: Plan to Win
