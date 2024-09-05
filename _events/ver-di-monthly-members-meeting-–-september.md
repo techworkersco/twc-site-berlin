@@ -4,7 +4,6 @@ date: 2024-09-26 18:00
 locations:
   - Berlin
 hide_form: true
-image:
 ---
 We invite [ver.di union members](https://tech.verdi.de/) in both beginning and advanced stages of workplace organizing to signup for our *fifth* monthly membership meeting. (Images coming soon)
 
