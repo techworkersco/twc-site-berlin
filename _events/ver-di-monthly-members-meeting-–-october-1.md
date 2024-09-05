@@ -21,8 +21,6 @@ We invite [ver.di union members](https://tech.verdi.de/) in both beginning and a
 * 20:30 - Assignments and closing
 * Optionally grab drinks afterwards at a nearby cafe/bar
 
-![Monthly membership meeting: Join members from across the start-up sector to take concrete next steps on how to organize your workplace! Facilitated collective trouble shooting! Learn fundamental skills in workplace organizing! Learn from the experience of other initiatives!]()
-
 ## Venue
 
 Room Picasso-Kahlo rooms (7th floor accessible via elevator)
