@@ -4,12 +4,15 @@ date: 2024-09-26 18:00
 locations:
   - Berlin
 hide_form: true
+image: /assets/img/photo_2024-09-09_19-05-00.jpg
 ---
 We invite [ver.di union members](https://tech.verdi.de/) in both beginning and advanced stages of workplace organizing to signup for our *fifth* monthly membership meeting. (Images coming soon)
 
 * September: Power
 * October: Plan to Win
 * November: Campaign and story telling 
+
+![Tan Yellow poster for Monthly Membership meeting: Join members from across the service sector to take concrete next steps on how to organize your workplace! New member onboard and skill training! Learnin fundamental skills in workplace organizing! Learn from the experience of other initiatives! After meeting drinks!](/assets/img/photo_2024-09-09_19-05-00.jpg)
 
 ## Agenda
 
