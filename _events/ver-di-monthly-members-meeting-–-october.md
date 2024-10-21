@@ -4,6 +4,7 @@ date: 2024-10-25 18:00
 locations:
   - Berlin
 hide_form: true
+image: /assets/img/2024-10-26-mmm.jpg
 ---
 We invite [ver.di union members](https://tech.verdi.de/) in both beginning and advanced stages of workplace organizing to signup for our *sixth* monthly membership meeting. (Images coming soon)
 
@@ -19,6 +20,8 @@ We invite [ver.di union members](https://tech.verdi.de/) in both beginning and a
 * 20:00 - Report backs and next steps
 * 20:30 - Assignments and closing
 * Optionally grab drinks afterwards at a nearby cafe/bar
+
+![](/assets/img/2024-10-26-mmm.jpg)
 
 ## Venue
 
