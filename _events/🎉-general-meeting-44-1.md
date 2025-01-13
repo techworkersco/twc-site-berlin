@@ -1,5 +1,5 @@
 ---
-title: "🎉 General Meeting #44"
+title: "🎉 General Meeting #45"
 date: 2025-01-21 19:00
 locations:
   - Berlin
