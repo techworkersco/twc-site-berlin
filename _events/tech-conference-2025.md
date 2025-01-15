@@ -1,5 +1,5 @@
 ---
-title: Tech Conference 2024
+title: Tech Conference 2025
 date: 2025-04-11 09:00
 locations:
   - Berlin

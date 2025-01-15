@@ -37,14 +37,13 @@ There is no legal risk in sharing such information. They do not constitute busin
       />
     </div>
      <div class="control">
-      <label for="workplace-size">Approximate number of workplace employees represented by works council</label>
+      <label for="workplace-size">Number of employees represented by works council at time of election</label>
       <input
         class="input-text"
         id="workplace-size"
         type="number"
-        min=50
-        max=5000
-        step=50
+        min=0
+        max=10000
         value=0
         required
         name="workplace-size"
