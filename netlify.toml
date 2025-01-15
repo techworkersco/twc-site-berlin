@@ -4,6 +4,7 @@
   status = 308
   force = true
 
+[[redirects]]
   from = "/events/tech-conference-2024"
   to = "/events/tech-conference-2025"
   status = 308
