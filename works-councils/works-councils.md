@@ -13,6 +13,8 @@ We support the formation of Works Councils (Betriebsräte) as a means to organiz
 
 [How to form a Works Council]({% link works-councils/how-to-form-a-works-council.md %})
 
+[WoCo Survey]({% link works-councils/survey.md %})
+
 [Election template generator]({% link works-councils/list-nomination.md %})
 
 ## Trainings
