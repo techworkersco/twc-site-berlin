@@ -29,7 +29,10 @@
 </div>
 {% unless page.hide_form %}
   <div class="social-links">
-    <form name="subscribe" class="join-form" method="POST" action="/welcome" data-netlify="true">
+    <form name="subscribe" class="join-form" method="POST" action="/welcome" data-netlify="true" netlify-honeypot="bot-field">
+  <label class="hidden">
+    Don’t fill this out if you’re human: <input name="bot-field" />
+  </label>
       <div class="control">
         <label for="name">{% t connect.name %}</label>
         <input class="input-text" id="name" type="text" required name="name" />
