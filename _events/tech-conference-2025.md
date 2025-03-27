@@ -4,7 +4,7 @@ date: 2025-04-11 09:00
 locations:
   - Berlin
 hide_form: true
-image: /assets/img/crowd_twc.jpg
+image: /assets/img/2025-twc-conference.png
 ---
 ## Register ASAP
 
@@ -14,24 +14,24 @@ Friday, 11 April 2025 is open for all [Works Council](https://techworkersberlin.
 
 ## <a href="#11-april-schedule" id="11-april-schedule">11 April Schedule</a>
 
-| Time        | Panel                                                                                                                                                                                                           |
-| ----------- | -------                                                                                                                                                                                                         |
-| 09:00       | ☕️ Morning Check in                                                                                                                                                                                             |
-| 09:30       | **Introduction and Welcome**                                                                                                                                                                                    |
-| 10:00       | **Parallel roundtables on current workplace issues, identification of common issues, exchange of experiences, best practices**                                                                                   |
-| 12:00       | 🥙 Lunch break (vegetarian/vegan food)                                                                                                                                                                           |
-| 13:00       | Workshop 1: **Are "Performance Improvement Plans" (PiPs) even a thing in Germany? What are the employment law regulations and what is the role of the Works Council?**                                           |
-| 13:00       | Workshop 2: **Unions and works councils, what’s the difference? Legal framework for collaboration, union rights of works council members**                                                                       |
-| 13:00       | Workshop 3: **ESOPs, VSOPs and the role of the woco: What to do with employer offers stock options?**                                                                                                            |
-| 14:30       | ☕️ Coffee break                                                                                                                                                                                                 |
-| 15:00       | Workshop 4: **Return to Office and the Works Council: Works agreements on mobile work, Recent developments in jurisdiction**        
-| 15:00       | Workshop 5: **The works council’s role in workplace downsizing scenarios (mass layoffs)n**        
-| 15:00       | Workshop 6: **Codetermination on remuneration: What are the woco’s rights and what differences are there between the unions’ collective agreements and works agreements?**                                                                                     |
-| 16:30       | ☕️ Coffee break   
-| 17:00       | **Closing panel on workplace discrimination,the Gender Pay Gap and workers’ counter strategies**                                                                                                                                                                                      |
-| 18:30 | **Reflection phase, next steps, end of conference** 
-| 19:30 | **Get together 🕺🪩**                                                                                                                                                                                  |
+| Time  | Panel                                                                                                                                                                      |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 09:00 | ☕️ Morning Check in                                                                                                                                                        |
+| 09:30 | **Introduction and Welcome**                                                                                                                                               |
+| 10:00 | **Parallel roundtables on current workplace issues, identification of common issues, exchange of experiences, best practices**                                             |
+| 12:00 | 🥙 Lunch break (vegetarian/vegan food)                                                                                                                                     |
+| 13:00 | Workshop 1: **Are "Performance Improvement Plans" (PiPs) even a thing in Germany? What are the employment law regulations and what is the role of the Works Council?**     |
+| 13:00 | Workshop 2: **Unions and works councils, what’s the difference? Legal framework for collaboration, union rights of works council members**                                 |
+| 13:00 | Workshop 3: **ESOPs, VSOPs and the role of the woco: What to do with employer offers stock options?**                                                                      |
+| 14:30 | ☕️ Coffee break                                                                                                                                                            |
+| 15:00 | Workshop 4: **Return to Office and the Works Council: Works agreements on mobile work, Recent developments in jurisdiction**                                               |
+| 15:00 | Workshop 5: **The works council’s role in workplace downsizing scenarios (mass layoffs)n**                                                                                 |
+| 15:00 | Workshop 6: **Codetermination on remuneration: What are the woco’s rights and what differences are there between the unions’ collective agreements and works agreements?** |
+| 16:30 | ☕️ Coffee break                                                                                                                                                            |
+| 17:00 | **Closing panel on workplace discrimination,the Gender Pay Gap and workers’ counter strategies**                                                                           |
+| 18:30 | **Reflection phase, next steps, end of conference**                                                                                                                        |
+| 19:30 | **Get together 🕺🪩**                                                                                                                                                      |
 
 Email us conference@techworkersberlin.com if you have questions!
 
-![IG Metall Haus, 60 attendees from 2022 Conference](/assets/img/crowd_twc.jpg "2022 Conference group photo")
+![Tech Workers Conference 2025 with logos of TWC, Verdi, ](/assets/img/2025-twc-conference.png "2025 and Onward: Tech Works Councils are here to Stay")
