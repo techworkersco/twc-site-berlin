@@ -20,15 +20,17 @@ Friday, 11 April 2025 is open for all [Works Council](https://techworkersberlin.
 | 09:30 | **Introduction and Welcome**                                                                                                                                               |
 | 10:00 | **Parallel roundtables on current workplace issues, identification of common issues, exchange of experiences, best practices**                                             |
 | 12:00 | 🥙 Lunch break (vegetarian/vegan food)                                                                                                                                     |
-| 13:00 | Workshop 1: **Are "Performance Improvement Plans" (PiPs) even a thing in Germany? What are the employment law regulations and what is the role of the Works Council?**     |
-| 13:00 | Workshop 2: **Unions and works councils, what’s the difference? Legal framework for collaboration, union rights of works council members**                                 |
-| 13:00 | Workshop 3: **ESOPs, VSOPs and the role of the woco: What to do with employer offers stock options?**                                                                      |
+| 13:00 | Workshop 1: Are **Performance Improvement Plans** (PiPs) even a thing in Germany? What are the employment law regulations and what is the role of the Works Council? (**Room 6** -- ground floor) |
+| 13:00 | Workshop 2: **Working Strategically: Expanding Leverage and Building Capacities** Whether Confronting hostile management, misinfomration, flood-the-zone-with-shit managerial strategies, or burn out, the intiial phase of works councils has revealed a repetoire of employer tactics to contain and control worker initiative. How do we overcome such strategies and expand leverage and build capacities of workers to transform how work in tech looks and feels like? (**Conference room** -- 5th floor)                                                                                              |
+| 13:00 | Workshop 3: **ESOPs, VSOPs and the role of the woco: What to do with employer offers stock options?** (**Room 2** -- ground floor)                                             |
+| 13:00 | Workshop 4: **Mass layoffs** Restructuring and the Role of Works Councils (**Room 1** -- ground floor)                                                                          |
 | 14:30 | ☕️ Coffee break                                                                                                                                                            |
-| 15:00 | Workshop 4: **Return to Office and the Works Council: Works agreements on mobile work, Recent developments in jurisdiction**                                               |
-| 15:00 | Workshop 5: **The works council’s role in workplace downsizing scenarios (mass layoffs)n**                                                                                 |
-| 15:00 | Workshop 6: **Codetermination on remuneration: What are the woco’s rights and what differences are there between the unions’ collective agreements and works agreements?** |
+| 15:00 | Workshop 5: **The Works Constitution Act as a means to oppose organizing** (**Room 6** ground floor)                                                                                |
+| 15:00 | Workshop 6: **Remuneration through works agreements or collective bargaining?** What are the woco’s rights and what differences are there between the unions’ collective agreements and works agreements? (Conference room 5th floor) |
+| 15:00 | Workshop 7: **(Self-)Care and how to not be overwhelmed** (**Room 2** ground floor) |
+| 15:00 | Workshop 8: **Union activities and WoCo members** (**Room 1** ground floor) |
 | 16:30 | ☕️ Coffee break                                                                                                                                                            |
-| 17:00 | **Closing panel on workplace discrimination,the Gender Pay Gap and workers’ counter strategies**                                                                           |
+| 17:00 | **Closing panel on workplace discrimination,the Gender Pay Gap and workers’ counter strategies**  (**Conference room** 5th floor)                                                                         |
 | 18:30 | **Reflection phase, next steps, end of conference**                                                                                                                        |
 | 19:30 | **Get together 🕺🪩**                                                                                                                                                      |
 
