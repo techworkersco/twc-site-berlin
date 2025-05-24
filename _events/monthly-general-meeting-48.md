@@ -5,11 +5,10 @@ locations:
   - Berlin
 hide_form: false
 ---
-We will meet from 15:00-18:00 outdoors (Volkspark Friedrichshain) at the south side of Kleiner Teich. Find us with the large "Tech Workers Coalition, Tech Won't Save Us:" banner on the grass. [Google maps link](https://maps.app.goo.gl/rqBndCVbeDpHCSW3A).
-
-![Kleiner Tisch lake south-side](/assets/img/screenshot-2025-04-29-at-18.05.10.png)
+We will meet from 15:00 at Stadtteilbüro Friedrichshain (Warschauer Straße 23) [Google maps link](https://maps.app.goo.gl/QK7jH1STTYNUPE268).
 
 **Agenda items include**
 
-* Introducing TWC Berlin steering committee
+* Introducing a TWC Berlin steering committee
 * Documenting workplace updates
+* Making Works Assemblies more engaging
