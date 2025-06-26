@@ -1,6 +1,6 @@
 ---
 title: "Monthly General Meeting #49"
-date: 2025-05-29 15:00
+date: 2025-06-29 15:00
 locations:
   - Berlin
 hide_form: false
