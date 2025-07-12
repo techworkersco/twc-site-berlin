@@ -7,6 +7,6 @@ layout: null
 "title":"{{ event.title}}",
 "tags":{{event.tags | jsonify}},
 "timeszones":["Europe/Berlin"],
-"image":"{{ site.url }}{{event.image}}",
+"image":"{{ event.image | absolute_url }}",
 "url":"{{ site.url }}{{event.url}}"}{% unless forloop.last %},{% endunless %}
 {% endfor %}]
