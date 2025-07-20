@@ -7,6 +7,6 @@ layout: null
   locations: [Berlin]
   tags: {{event.tags}} 
   timeszones: [Europe/Berlin]
-  image: {{site.url}}{{event.image}}
+  image: {{ event.image | absolute_url }}
   url: {{site.url}}{{event.url}}
 {% endfor %}
