@@ -1,6 +1,6 @@
 ---
-title: "Monthly General Meeting #51"
-date: 2025-09-28 18:30
+title: "Monthly General Meeting #52"
+date: 2025-10-26 18:30
 locations:
   - Berlin
 hide_form: false
