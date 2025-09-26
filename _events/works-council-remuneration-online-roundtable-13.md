@@ -1,6 +1,6 @@
 ---
 title: "Works Council: Remuneration Online Roundtable #13"
-date: 2025-10-30 14:00
+date: 2025-10-10 14:00
 locations:
   - Online
 hide_form: true
