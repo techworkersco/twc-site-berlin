@@ -164,6 +164,11 @@ main {
   padding: 6em 4vmin 2em;
 }
 
+footer {
+  @extend main;
+  padding-top: 0;
+}
+
 section.intro-section {
   margin-top: 15px;
 }
