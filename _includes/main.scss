@@ -525,9 +525,15 @@ ul {
   }
 }
 
+.footer-links {
+  @extend .social-links;
+  width: 100%;
+}
+
 .social-icon {
   margin-bottom: -7px;
   padding-left: 5px;
+  max-width: 30px;
 }
 
 .control {
