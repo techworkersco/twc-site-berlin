@@ -1,5 +1,5 @@
 ---
-title: "📚 Reading group: Manufacturing an Artificial Intelligence Revolution "
+title: "📚 Reading group: The Human Cost of Deepseek"
 date: 2025-03-11 18:30
 locations:
   - Berlin
@@ -11,7 +11,7 @@ tags:
 
 💫Highlights:
 
-Please prepare before hand by reading **[The Human Cost of Deepseek ](https://diplab.eu/wp-content/uploads/2025/02/THE-HUMAN-COST-OF-DEEPSEEK.pdf)** (open access) which we will discuss together. Bonus reading of **[Neocolonial Visions: Algorithmic Violence and Unmanned Aerial Systems](https://aksioma.org/pdf/aksioma_PostScriptUM_47_ENG_downey.pdf)**	
+Please prepare before hand by reading **[The Human Cost of Deepseek](https://diplab.eu/wp-content/uploads/2025/02/THE-HUMAN-COST-OF-DEEPSEEK.pdf)** (open access) which we will discuss together. Bonus reading of **[Neocolonial Visions: Algorithmic Violence and Unmanned Aerial Systems](https://aksioma.org/pdf/aksioma_PostScriptUM_47_ENG_downey.pdf)**	
 
  Everyone broadly working in the tech industry is warmly welcome. The event will be held in English language.
 
