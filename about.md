@@ -15,7 +15,7 @@ The initial inspiration happened during a panel about _New Tech Workers Movement
 
 ![Sketch Drawing of the New Tech Worker Movement](/assets/img/malweene_sketchnote.jpg)
 
-<span>Reposted with permission from [@Malweene](https://twitter.com/malweene)</span>
+<span>Reposted with permission from [Malweene]([malweene](https://malweene.com/).com)</span>
 
 ## Other chapters
 
