@@ -28,8 +28,11 @@ connect:
   title: Контакт
   email: Эл. Почта
   name: Имя
+  last_name: Фамилия
   public_link: Ссылка на профиль
+  public_link_placeholder: Linkedin, Xing, Twitter или т.п.
   company: Компания/Организация
+  telegram: Логин в Телеграмме, если вы<br/>хотите добавиться в наш <a rel="noopener noreferrer" target="_blank" href=" https://t.me/+-7rD_lN0tP1kNjNi">чат</a>
   how_did_hear: Как вы о нас узнали?
   subscribe_to_slack: Slack
   subscribe_to_newsletter: Новостная рассылка
