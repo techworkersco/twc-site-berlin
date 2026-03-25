@@ -3,7 +3,7 @@ title: "Cables of Resistance: Movement conference against big tech"
 date: 2026-04-10 09:00
 locations:
   - Berlin
-hide_form: false
+hide_form: true
 image: /assets/img/photo_2026-02-10_19-46-44.jpg
 ---
 ![Cables of Resistance: Movement conference against big tech](/assets/img/photo_2026-02-10_19-46-44.jpg)
