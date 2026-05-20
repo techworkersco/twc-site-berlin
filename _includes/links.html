@@ -29,13 +29,17 @@
     >
   </div>
   <div class="social-links">
-    <form name="subscribe" class="join-form" method="POST" action="/welcome" data-netlify="true" netlify-honeypot="bot-field">
+    <form name="subscribe-v2" class="join-form" method="POST" action="/welcome" data-netlify="true" netlify-honeypot="bot-field">
   <label style="display: none;">
     Don’t fill this out if you’re human: <input name="bot-field" />
   </label>
       <div class="control">
-        <label for="name">{% t connect.name %}</label>
-        <input class="input-text" id="name" type="text" required name="name" />
+        <label for="first-name">{% t connect.name %}</label>
+        <input class="input-text" id="first-name" type="text" required name="first-name" />
+      </div>
+      <div class="control">
+        <label for="last-name">{% t connect.last_name %}</label>
+        <input class="input-text" id="last-name" type="text" required name="last-name" />
       </div>
       <div class="control">
         <label for="email">{% t connect.email %}</label>

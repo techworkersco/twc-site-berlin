@@ -31,7 +31,8 @@ connect:
   info: Get involved! @TechWorkersBER
   description: The easiest way to get involved is to attend one of our upcoming <a href="/events" >events</a>.
   email: Your Email
-  name: Your Full Name
+  name: Your First Name
+  last_name: Your Last Name
   public_link: Social media link
   public_link_placeholder: Linkedin, Xing, Twitter etc...
   company: Your employer
