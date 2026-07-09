@@ -1,3 +1,10 @@
+[build]
+command = "mise install && bundle install && bundle exec jekyll build"
+publish = "_site"
+
+[build.environment]
+MISE_TRUSTED_CONFIG_PATHS = "."
+
 [[redirects]]
   from = "/news/*"
   to = "/blog/:splat"
