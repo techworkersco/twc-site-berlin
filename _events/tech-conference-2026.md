@@ -1,50 +1,57 @@
 ---
-title: "After 2026 Elections: New Challenges for Tech Works Councils" 
-date: 2026-11-16 09:00
+title: "After 2026 Elections: New Challenges for Tech Works Councils"
+date: 2026-10-16 09:00
 locations:
   - Berlin
 hide_form: true
 ---
+
 ## Register ASAP
 
-Berlin Tech Workers Coalition is co-hosting the largest English speaking and tech worker-led conference in Germany, together with our trade union [ver.di](https://tech.verdi.de/). We hosted it in [2022](https://techworkersberlin.com/events/tech-video-gaming-conference-in-berlin) [2023](https://techworkersberlin.com/events/tech-conference-2023) and [2025](https://techworkersberlin.com/events/tech-conference-2025). We are excited to organize it for a fourth time!  
+The outcome of the 2026 works council elections has made it clear that last year’s conference motto – “Tech Works Councils Are Here To Stay!” – was not just wishful thinking.
 
-Friday, 16 October 2026 is open for all [Works Council](https://techworkersberlin.com/works-councils) members (registration required). As a Works Council training per [BetrVG 37(6)](https://www.gesetze-im-internet.de/englisch_betrvg/englisch_betrvg.html#p0229), you can do this training during working hours, and the conference fee is paid by your employer. **[Register here](https://betriebsraete-bildung.de/seminar/tech-workers-conference-2025-berlin):** and  **[find Works Council resolution template to send your members](https://actionnetwork.org/user_files/user_files/000/120/804/original/2025-conference-woco-resolution-template.docx):**
+Since 2019, employees at more than 40 tech companies with a Berlin presence have elected works councils that now represent the interests of more than 20,000 tech workers, just under half of the Berlin tech workforce.
+
+This spring’s election cycle shows that this is more than just a trend. Works councils are now a staple of Berlin Tech. This is an encouraging sign, because things are otherwise not getting any easier for tech workers from here on. The large-scale expansion and rollout of AI makes workers wonder what their workday will look like a year from now, or even a week from now. Investment strategies are becoming more and more unpredictable. Tech companies are sold and bought, sometimes without a transparent plan even for the immediate future. “Voluntary separation programs” are on the table, and mass dismissals are looming. Then there are the plans for new federal legislation on pay transparency, corporate supply chain responsibility, and working hours and time tracking. There is more than enough to discuss and learn from each other at this year’s English-language Tech Workers Conference!
+
+Berlin Tech Workers Coalition is co-hosting the largest English-speaking and tech worker-led conference in Germany, together with our trade union [ver.di](https://tech.verdi.de/). We hosted it in [2022](https://techworkersberlin.com/events/tech-video-gaming-conference-in-berlin), [2023](https://techworkersberlin.com/events/tech-conference-2023), and [2025](https://techworkersberlin.com/events/tech-conference-2025). We are excited to organize it for a fourth time!
+
+Friday, 16 October 2026 is open to all [Works Council](https://techworkersberlin.com/works-councils) members (registration required). As a Works Council training under [BetrVG 37(6)](https://www.gesetze-im-internet.de/englisch_betrvg/englisch_betrvg.html#p0229), you can attend this training during working hours, and the conference fee is paid by your employer. **[Register here](https://betriebsraete-bildung.de/seminar/tech-workers-conference-2025-berlin)** and **[find the Works Council resolution template to send to your members](https://actionnetwork.org/user_files/user_files/000/120/804/original/2025-conference-woco-resolution-template.docx).**
 
 <h2><a href="#schedule" id="schedule">Schedule</a></h2>
 
 | Time | Session |
-|------|---------|
-| **09:00 AM** | Check-in |
-| **09:30 AM** | Conference Opening & Keynote |
-| **10:00 AM** | **Parallel Roundtables**<br>Identifying current workplace issues, common themes, exchange of experiences, and best practices. |
-| **12:00 PM** | Lunch Break |
-| **1:00 PM** | **<a href="#phase-1">Afternoon Workshops – Phase 1</a>** |
-| **2:30 PM** | Coffee Break |
-| **3:00 PM** | **<a href="#phase-2">Afternoon Workshops – Phase 2</a>**  |
-| **4:30 PM** | Coffee Break |
-| **5:00 PM** | **Works Council Chair Roundtable**<br>Burnout is one of the biggest challenges contributing to the high turnover of works council members, particularly chairs, who carry the dual responsibility of representing the works council externally while maintaining strong internal cohesion. |
-| **6:30 PM** | Closing Panel |
-| **7:00 PM** | Get-Together |
+| :--- | :------ |
+| **09:00** | Check-in |
+| **09:30** | Conference Opening Words and Keynote |
+| **10:00** | **Parallel Roundtables**<br>Identifying current workplace issues and common themes, exchanging experiences, and sharing best practices. |
+| **12:00** | Lunch Break |
+| **13:00** | **<a href="#phase-1">Afternoon Workshops – Phase 1</a>** |
+| **14:30** | Coffee Break |
+| **15:00** | **<a href="#phase-2">Afternoon Workshops – Phase 2</a>** |
+| **16:30** | Coffee Break |
+| **17:00** | **Works Council Chair Roundtable**<br>Burnout is one of the biggest challenges reflected in the high turnover of works council members. This is particularly true for chairs, who have the dual task of representing the works council both internally and externally while promoting strong internal cohesion. |
+| **18:30** | Closing Panel |
+| **19:00** | Get-Together |
 
-<h3><a href="#phase-1" id="phase-1">Phase 1 (1:00 PM)</a></h3>
-
-| Workshop | Description |
-|----------|-------------|
-| **Workshop 1: AI and Labour Law** | What does the EU AI Act mean for Berlin employees? What can the works council do to safeguard employment and counteract AI-induced work intensity and surveillance? |
-| **Workshop 2: Salary Transparency in the European Union** | Germany has once again missed the formal deadline to implement the EU Pay Transparency Directive. What does this mean for works council efforts to make salaries more transparent? Can staff already rely on the new EU provisions despite the delay by German lawmakers? |
-| **Workshop 3: We Can Win!** | Works council tasks can be frustrating, so let’s examine some recent victories. This workshop shares best practices on building collective resistance to counter employer plans that worsen working conditions. |
-| **Workshop 4: Resolving Conflicts Within the Works Council** | What can be done when works council members have more disagreements with one another than with the employer? How can the council return to meaningful collaboration without ignoring differences of opinion? |
-| **Workshop 5: Keeping Your Finger on the Pulse** | How can you identify the most pressing workplace issues in order to prioritize tasks? What tools and methods are available, and how do you choose your battles? |
-
-<h3><a href="#phase-2" id="phase-2">Phase 2 (3:00 PM)</a></h3>
+<h3><a href="#phase-1" id="phase-1">Phase 1 – 13:00</a></h3>
 
 | Workshop | Description |
-|----------|-------------|
-| **Workshop 6: How to Include Staff?** | Works council communication often focuses on emails, Slack, and quarterly meetings. How can employees be more actively involved in the day-to-day work of the works council, including discussions with the employer? What methods are available, and what legal limits apply? |
-| **Workshop 7: Migration and Labour** | What is the migrant composition of your workforce? What specific needs and challenges do migrant tech workers face? What should the works council pay attention to, and how can it safeguard employment and support migrant workers? |
-| **Workshop 8: Corporate Supply Chain Responsibility** | What role does the works council play in corporate social responsibility? How should the works council and its finance committee monitor compliance with the EU and German Supply Chain Acts? What do recent legal developments at the federal and EU levels mean in practice? |
-| **Workshop 9: Current Case Law on Employment** | Recent decisions by the Federal Labour Court have significantly changed the legal landscape on issues such as sick pay and the obligation to seek new employment while awaiting a dismissal protection ruling. This workshop provides an update on these important developments. |
-| **Workshop 10: Effective Organisation and Distribution of Tasks Within the Works Council** | How can a works council ensure that responsibilities are shared fairly among its members? What methods help prevent the same small group from carrying most of the workload? |
+| :-------- | :---------- |
+| **Workshop 1:<br>AI and Labour Law** | What does the EU AI Act mean for Berlin employees? What can the works council do to safeguard employment and counteract AI-induced work intensity and surveillance? |
+| **Workshop 2:<br>Salary Transparency in the European Union** | Once more, Germany has missed a formal deadline to implement the EU Pay Transparency Directive. What does this mean for works council efforts to make salaries more transparent? Can staff already refer to the new EU stipulations despite the delay by German lawmakers? |
+| **Workshop 3:<br>Communication and Messaging to Staff** | What are some of the best practices for communicating with employees during works meetings, consultations, and negotiations with the employer? What legal considerations must the works council keep in mind? |
+| **Workshop 4:<br>Resolving Conflicts Within the Works Council** | What should we do if members of the works council have more argumentsong themselves than with the employer? How can we resume meaningful collaboration without glossing over our differences of opinion? |
+| **Workshop 5:<br>Keeping Your Finger on the Pulse** | How can you identify the most important issues in the workplace in order to prioritise tasks? Which tools and methods are available, and how should you pick your battles? |
 
-Email us conference@techworkersberlin.com if you have questions!
+<h3><a href="#phase-2" id="phase-2">Phase 2 – 15:00</a></h3>
+
+| Workshop | Description |
+| :-------- | :---------- |
+| **Workshop 6:<br>Involving Regular Staff in the Works Council** | How can the works council increase its capacity and incorporate regular employees, including substitute members, into its everyday tasks, including negotiations with the employer? What methods can be used, and what legal limits exist? |
+| **Workshop 7:<br>Migration and Labour** | What proportion of your workforce are migrants? What specific needs and challenges do migrant tech workers face? What issues should the works council pay attention to, and how can it safeguard employment and mitigate the impact of these issues? |
+| **Workshop 8:<br>Corporate Supply Chain Responsibility** | What role does the works council have in relation to corporate social responsibility? How should the works council and its finance committee ensure compliance with the EU and German Supply Chain Acts? What do the recent legal developments at the federal and EU levels entail? |
+| **Workshop 9:<br>Current Case Law on Employment** | In recent years, the Federal Labour Court has significantly changed its stance on several major issues, including sick pay and the requirement to look for new work while waiting for the labour courts to make a decision in a dismissal protection lawsuit. The purpose of this workshop is to update works council members on these new developments. |
+| **Workshop 10:<br>Effective Organisation and Distribution of Tasks Within the Works Council** | How can a works council ensure that all members contribute equitably to its collective tasks? What methods can be used to ensure that the same handful of members are not always doing most of the work? |
+
+Email us at [conference@techworkersberlin.com](mailto:conference@techworkersberlin.com) if you have questions!
