@@ -1,3 +1,6 @@
+node_modules
+.DS_Store
+_includes/generated/
 _site
 .sass-cache
 .jekyll-metadata
@@ -5,6 +8,7 @@ _site
 s3_website.yml
 .letsencrypt
 *.log
+.jekyll-cache/
 
 # Gems are cached in this directory when running the Docker setup
 vendor/bundle/

@@ -14,47 +14,64 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Berlin Tech Workers Coalition
-email: hello@techworkersco.org
-description: A coalition of tech industry workers, labor organizers, community organizers, and friends cultivating solidarity among all workers in tech.
-url: "https://techworkersberlin.com" # the subpath of your site, e.g. /blog
-baseurl: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: TechWorkersBerlin
+email: contact@techworkerberlin.com
+description: Berlin Tech Workers Coalition is a landing page for tech workers looking to organise their workplace. Whether it is through Works Councils (Betriebsräte), union campaigns for higher wages, or broader struggles against racism and gentrification, we are here to support you! Tech Won’t Save Us...Organise! ✊ We are the largest English speaking network of Works Councils, tech workers and trade union members supporting each other in different tech companies like Soundcloud, Contentful, ShareNow, Amazon, SumUp, N26, TikTok and maybe your company!
+url: "https://techworkersberlin.com" 
+baseurl: "" 
 timezone: "Europe/Berlin"
 
+sass:
+  style: compressed
+
 # Build settings
-markdown: kramdown
+feed:
+  collections:
+    - events
+    - blog
 plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+## SEO, Open Graph etc..
+twitter:
+  username: techworkersber
+  card: summary
+facebook:
+  publisher: 105285494190738
+
+social:
+  name: Berlin Tech Workers Coalition
+  links:
+    - https://twitter.com/TechWorkersBER
+    - https://facebook.com/TechWorkersBER
+    - https://instagram.com/TechWorkersBER
+    - https://t.me/techworkersber
 
 sass:
   style: compressed
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor/bundle/
-languages: ["en"]
-exclude_from_localizations: ["assets"]
-header_links:
-  - url: /learning
-    text: Learn
-  - url: /#connect
-    text: Connect
+  - .jekyll-cache/
+languages: ["en", "de", "pl", "ru", "tr"]
+exclude_from_localizations: ["assets", "admin", "vendor"]
+header_themes:
+  - url: /about
+    text: about
+  - url: /blog
+    text: blog
+  - url: /press
+    text: Press
   - url: /events
-    text: Join
-footer_links:
-  - url: /learning
-    text: Learning Group
-    newTab: true
-  - url: https://www.facebook.com/TechWorkersBER/
-    text: Facebook
-    newTab: true
-  - url: https://twitter.com/TechWorkersBER
-    text: Twitter
-    newTab: true
+    text: events
+  - url: /works-councils
+    text: Works Councils
 
+permalink: pretty
 future: true
 collections:
+  blog:
+    output: true
   events:
     output: true
     permalink: events/:title
@@ -62,6 +79,15 @@ collections:
 defaults:
   - scope:
       path: ""
+    values:
+      image: /assets/img/beat_the_boss.jpg
+  - scope:
       type: "events"
+      path: ""
     values:
       layout: "event"
+  - scope:
+      type: "blog"
+      path: ""
+    values:
+      layout: "blog"

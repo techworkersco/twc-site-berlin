@@ -1,20 +1,37 @@
 ---
 layout: translated
+namespace: index
+templateClass: tmpl-home
 permalink: /
 ---
 
-<style>h1, .main-wrapper h2, h3 {text-align: left; font-weight: bold;}</style>
-{% t home.summary %}
+<section class="intro-section">
+  {% t home.summary %}
+</section>
 
-## {% t home.events.title %}
-{% t home.events.summary %}
-{% include events.html limit=5%}
+<section class="titled-block" aria-labelledby="hl-events">
+  <h2 id="hl-events">{% t home.events.title %}</h2>
+  {% include events.html limit=5 %}
+</section>
 
-## {% t home.connect.title %}
-{% t home.connect.links %}
+<section class="titled-block" aria-labelledby="hl-news">
+  <h2 id="hl-news">{% t home.blog.title %}</h2>
+  {% include blog.html limit=3 %}
+</section>
 
-## {% t global.accessibility.title %}
-{% t global.accessibility.summary %}
 
-## {% t global.code_of_conduct.title %}
-{% t global.code_of_conduct.summary %}
+<section class="titled-block" aria-labelledby="hl-links">
+  <h2 id="hl-links">{% t connect.info %}</h2>
+  {% include links.html %}
+</section>
+
+<section class="titled-block" aria-labelledby="hl-a11y">
+  <h2 id="hl-a11y">{% t global.accessibility.title %}</h2>
+  {% t global.accessibility.summary %}
+</section>
+
+<section class="titled-block" aria-labelledby="hl-coc">
+  <h2 id="hl-coc">{% t global.code_of_conduct.title %}</h2>
+  {% t global.code_of_conduct.summary %}
+
+</section>

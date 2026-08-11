@@ -1,0 +1,110 @@
+{% unless page.hide_form %}  
+  <div class="social-links">
+    <a
+      rel="noopener noreferrer"
+      target="_blank"
+      href="https://t.me/TechWorkersBer"
+      >
+      <img class="social-icon telegram" src="/assets/icons/telegram.svg" alt="Telegram">
+      Telegram <span style="color:black">{ </span>public</a><a
+    rel="noopener noreferrer"
+    target="_blank"
+    href= "https://t.me/+-7rD_lN0tP1kNjNi"
+    ><span style="color:black"> | </span>private <span style="color:black">}</span></a>
+    <a
+      rel="noopener noreferrer"
+      target="_blank"
+      href="https://twitter.com/TechWorkersBER"
+      >
+      <img class="social-icon twitter" src="/assets/icons/twitter.svg" alt="Twitter">
+      Twitter</a
+    >
+    <a
+      rel="noopener noreferrer"
+      target="_blank"
+      href="https://instagram.com/techworkersber"
+      >
+      <img class="social-icon instagram" src="/assets/icons/instagram.svg" alt="Instagram">
+      Instagram</a
+    >
+  </div>
+  <div class="social-links">
+    <form name="subscribe-v2" class="join-form" method="POST" action="/welcome" data-netlify="true" netlify-honeypot="bot-field">
+  <label style="display: none;">
+    Don’t fill this out if you’re human: <input name="bot-field" />
+  </label>
+      <div class="control">
+        <label for="first-name">{% t connect.name %}</label>
+        <input class="input-text" id="first-name" type="text" required name="first-name" />
+      </div>
+      <div class="control">
+        <label for="last-name">{% t connect.last_name %}</label>
+        <input class="input-text" id="last-name" type="text" required name="last-name" />
+      </div>
+      <div class="control">
+        <label for="email">{% t connect.email %}</label>
+        <input
+          class="input-text"
+          id="email"
+          type="email"
+          required
+          name="email"
+        />
+      </div>
+      <div class="control">
+        <label for="social1">{% t connect.public_link %} #1</label>
+        <input
+          class="input-text"
+          id="social1"
+          required
+          type="text"
+          name="social_media_1"
+          placeholder="{% t connect.public_link_placeholder %}"
+        />
+      </div>
+      <div class="control">
+        <label for="social2">{% t connect.public_link %} #2</label>
+        <input
+          class="input-text"
+          id="social2"
+          required
+          type="text"
+          name="social_media_2"
+          placeholder="{% t connect.public_link_placeholder %}"
+        />
+      </div>
+      <div class="control">
+        <label for="company">{% t connect.company %}</label>
+        <input class="input-text" required id="company" type="text" name="company" />
+      </div>
+
+      <div>
+        <input class="input-text" id="referrer" type="hidden" name="referrer" />
+      </div>
+      <div class="control">
+        <label for="telegram">{% t connect.telegram %}</label>
+        <input
+          class="input-text"
+          id="telegram"
+          type="text"
+          name="telegram"
+          placeholder="{% t connect.telegram_placeholder %}"
+        />
+      </div>
+      <div class="control">
+        <label for="how_did_hear">{% t connect.how_did_hear %}</label>
+        <input
+          class="input-text"
+          id="how_did_hear"
+          type="text"
+          name="how_did_hear"
+        />
+      </div>
+
+
+      <button class="subscribe-button" type="submit">
+        {% t connect.subscribe %}
+      </button>
+    </form>
+  </div>
+{% endunless %}

@@ -1,0 +1,18 @@
+[build]
+command = "mise install && bundle install && bundle exec jekyll build"
+publish = "_site"
+
+[build.environment]
+MISE_TRUSTED_CONFIG_PATHS = "."
+
+[[redirects]]
+  from = "/news/*"
+  to = "/blog/:splat"
+  status = 308
+  force = true
+
+[[redirects]]
+  from = "/events/tech-conference-2024"
+  to = "/events/tech-conference-2025"
+  status = 308
+  force = true

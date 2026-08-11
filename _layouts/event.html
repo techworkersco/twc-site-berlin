@@ -3,16 +3,19 @@ layout: default
 ---
 <style>h1, .main-wrapper h2, h3 {text-align: left; font-weight: bold;}</style>
 <article class="post">
-  <header class="post-header">
-    <a href="/events">Find more Berlin events</a>
+  <header>
+    <a href="/events">{%t home.events.more %}</a>
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
   <div class="post-content">
+    <h3>
+      {{ page.date | date: '%R %A, %d %B %Y' }}
+    </h3>     
     {{ content }}
 
     <h2>{% translate global.code_of_conduct.title %}</h2>
     {% translate global.code_of_conduct.summary %}
-    <h2>Contact info</h2>
-    {% translate home.connect.links %}
+      <h2>{% translate connect.info %}</h2>
+      {% include links.html %}
   </div>
 </article>
