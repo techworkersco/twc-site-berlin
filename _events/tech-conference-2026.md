@@ -8,7 +8,7 @@ image: /assets/img/tech_conf_2026.png
 ---
 ## Save the Date
 
-The 2026 works council election results has made it clear that last year's conference motto – "Tech Works Councils Are Here To Stay!" – was not just wishful thinking.
+The 2026 works council election results has made it clear that last year's conference motto – "Tech Works Councils Are Here To Stay!" – was not just wishful thinking. Register [today with your works council](https://verdi-bub.de/seminare/konferenzen-und-tagungen/tech-conference)!
 
 ![Logo of TWC/Verdi with text: 2026 Tech Worker Conference for works council members (registration required and special seminar release under BetrVG §37(6)) on Friday, October 16 09:00-19:00 at Ver.di Bundesverwaltung Paula-Thiede Ufer 10](/assets/img/tech_conf_2026.png)
 
@@ -18,7 +18,9 @@ This spring's election cycle shows that this is more than just a trend. Works co
 
 Berlin Tech Workers Coalition is co-hosting the largest English-speaking and tech worker-led conference in Germany, together with our trade union [ver.di](https://tech.verdi.de/). Previous editions were hold in [2022](https://techworkersberlin.com/events/tech-video-gaming-conference-in-berlin), [2023](https://techworkersberlin.com/events/tech-conference-2023), and [2025](https://techworkersberlin.com/events/tech-conference-2025). We are excited to organize it for a fourth time!
 
-Friday, 16 October 2026 is open to all [Works Council](https://techworkersberlin.com/works-councils) members (registration required). As a Works Council training under [BetrVG 37(6)](https://www.gesetze-im-internet.de/englisch_betrvg/englisch_betrvg.html#p0229), you can attend this training during working hours, and the conference fee is paid by your employer. 🚧 **Registration link** and **Works Council resolutions** will be uploaded as soon as possible.
+Friday, 16 October 2026 is open to all [Works Council](https://techworkersberlin.com/works-councils) members (registration required). As a Works Council training under [BetrVG 37(6)](https://www.gesetze-im-internet.de/englisch_betrvg/englisch_betrvg.html#p0229), you can attend this training during working hours, and the conference fee is paid by your employer. 
+
+🎯 **[Registration](https://verdi-bub.de/seminare/konferenzen-und-tagungen/tech-conference)** link includes cost confirmation form, resolution template
 
 <h2><a href="#schedule" id="schedule">Schedule</a></h2>
 
