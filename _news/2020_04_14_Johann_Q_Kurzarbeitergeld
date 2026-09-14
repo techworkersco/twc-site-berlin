@@ -1,0 +1,69 @@
+[//]: # (Let's collaborate on Kurzarbeitergeld and the most important issues around it. TWC Berlin's previous article: https://raw.githubusercontent.com/techworkersco/twc-site-berlin/develop/_news/2020-04-01-Timo_Daum-Agile_Methods_English.md)
+
+
+
+---
+date:   2020-04-12 00:00:00 +0200
+title: Kurzarbeitergeld
+---
+
+## Kurzarbeit - Germany's crisis mitigation mechanism
+
+[Johann Q](https://twitter.com/JMCQ87) and anonymous collaborators within the [Berlin Tech Workers Coalition](https://techworkersberlin.com/) 
+
+### The origins of Kurzarbeitergeld in Germany
+
+*Note: No lawyers or epidemiologists contributed to this text, which is purely supposed to give some basic info in English. The contributors have backgrounds in economics and computer science.*
+
+The current implementation of Kurzarbeitergeld was introduced to mitigate the financial crisis of 2008 & 2009, which is primarily associated with the failure of Lehman Brothers and a breakdown of bank lending that followed.[1] Now, during the *Corona crisis*, it is to be expected that this mechanism will be popular with employers again - and maybe even reach some industries, which previously did not make use of it, for example the tech industry in Berlin which our Worker's coalition is concerned with. The program has the following main aspects:
+
+1. Employees work shorter hours and are paid proportionally less from the employer, i.e. 50% hours means 50% salary from the employer. With the so-called "Kurzarbeit Null", employees no longer work or get paid from the employer at all.
+2. The pay differential to full-time work is partially covered by the government. The rate is 60% for most employees, 67% for employees with children, rates which are similar to the part of the salary covered by Arbeitslosengeld 1.* 
+3. The number of employees in the business is not reduced as much during an economic downturn as otherwise, trained staff stays on board for longer and remains around for times when the economy picks up again. This is supposed to have contributed to a more speedy recovery.
+4. The whole process is managed by the employer. Salaries are still paid in full through the company, which has to get the money back from the government.
+
+**ALG1 is the unemployment insurance which is generally paid for up to a year, to anyone who has worked in a job that is subject to social insurance.*
+
+The business newspaper Handelsblatt provides a calculator to estimate your salary with Kurzarbeit and summaries some of the most important aspects in German. [3]
+
+### Differences to Furlough leave
+
+In the United States, there is a temporary layoff mechanism called furlough. [2] To my knowledge, this mechanism is quite different, as the employee will not be paid during the period - neither from the government, which happens to be one of the most frequent users of this type of leave (during government shutdowns, when the senate cannot agree on a new budget), nor from the employer - and is also encouraged to take up other employment. Just like in Kurzarbeit, the employee keeps his health insurance under the same terms. Between states, there is a variety in implementations, with right-to-work states generally having an other interpretations than others.
+
+### Limitations of Kurzarbeitergeld
+
+Kurzarbeitergeld cannot be used by all companies, not for all employees and also not for an unlimited duration. Currently, however, the government has at least not capped the number of companies/employees which can be on Kurzarbeit at any given time in Germany. Unlike many of the other subsidy and loan programs to deal with Covid-19, which are usually on the Bundesland-level, there is no first-come-first-served of a set amount that can run out surprisingly quickly. The most important limits are the following:
+
+1. Any company only can be part of the program for a maximum of two years during this crisis. Originally, this was usually one year. This was temporarily reduced to six months in the past and could likely be changed again, once the economy picks up.
+2. At least ~~one third~~ 10% (Corona change!) of the employees of the company need to get reduced hours. Therefore, it should not be easily possible to shut down a small unprofitable division more cheaply using this mechanism. Employees which already got fired can no longer be put on Kurzarbeit for the remaining time under contract.
+3. Companies have to demonstrate that there are temporary "business reasons" that require them to scale down and Kurzarbeit cannot be avoided, by, for example, encouraging more employees to take their annual leave during the upcomig months.
+
+
+### Frequently Asked Questions
+
+* Can everyone be affected by Kurzarbeit?
+
+There are certain Härtefallreglungen, which mean that due to personal circumstances, some employees need to be excluded. Employees which already quit or got fired also cannot be put on Kurzarbeit.
+
+* For how long can a company run on Kurzarbeit?
+
+Currently for up to a year, before this sometimes was limited to 6 months. One would think that it is in a companies' best interest to eventually either return to full-time work *or* permanently lay off staff though.
+
+* Which companies can apply for Kurzarbeit?
+
+There needs to be a negative trend in sales, which should not be expected to be permanent.
+
+* What is the effect of Kurzarbeit on my working permit and visa status?
+
+Hard question. We have not found good information on this online that would answer this yet. One aspect which we find particularily import is how this is handled for employees that just started working on a sponsored visa in Germany, another is what happens to EU Blue Card holders if their salary drops below the required amount. The Arbeitsamt gives some general info 
+
+* How does Kurzarbeit affect my actual working hours?
+
+In companies with Arbeitserfassung, i.e. tracking of actual working hours, your working hours should actually be as specified by Kurzarbeit. Realistically, this is not the case everywhere though, especially in tech. **If you think your employer is not playing by the rules here, or have other further questions you might consider contacting us, or an employment lawyer.**
+
+
+[1] Wikipedia on Short-time working: https://en.wikipedia.org/wiki/Short-time_working
+
+[2] Wikipedia on Furlough leave: https://en.wikipedia.org/wiki/Furlough
+
+[3] Handelsblatt Kurzarbeitergeld-Rechner: https://www.handelsblatt.com/politik/deutschland/kurzarbeitergeld-rechner-nettogehalt-bei-kurzarbeit-schnell-und-einfach-berechnen/25685878.html
