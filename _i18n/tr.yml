@@ -1,0 +1,111 @@
+langs:
+  tr: Türkçe
+
+home:
+  summary: Berlin Tech Workers Coalition işyerlerimizde kolektif güç inşa eden bir oluşumdur. Mühendislerden müşteri hizmetleri çalışanlarına, içerik yöneticilerinden kuryelere teknoloji alanında çalışan tüm işçiler için bir dayanışma ağıyız. <a href="/works-councils">Betriebsrat / Works Councils</a> gibi iş yeri örgütlenmelerini kurmada, sendikalaşmada, ücret ya da ayrımcılığa karşı mücadelelerde ve daha sayamadığımız birçok noktada dayanışmayla büyüyoruz. Bir araya gelerek eğitimler ve tanışma toplantıları düzenliyoruz. Bilgi birikimini ve destek taleplerini paylaimak için sen de <a href="/events">toplantılarımıza</a> katılabilirsin. Unutma, dayanışma güçlendirir!
+
+
+  black_lives_matter:
+    title: Siyahların Hayatı Önemlidir
+    summary: Tüm Teknoloji Çalışanlarını ırksal adalet mücadelesinde Black Lives Matter hareketiyle dayanışma içinde olmaya teşvik ediyoruz. Berlin ve Almanya'daki yerel Siyah inisiyatifleri destekleme yolları ve daha fazla bilgi için <a href="https://www.blacklivesmatterberlin.de" >Black Lives Matter Berlin</a>, <a href="http://isdonline.de" >Initiative Schwarze Menschen in Deutschland (ISD)</a>, <a href="https://www.eoto-archiv.de" >Each One Teach One</a>
+
+  zero_covid:
+    title: SIFIR COVID
+    summary:  TWC Berlin olarak <a href="https://zero-covid.org/language/en/">Sıfır Covid</a> kampanyasını destekliyoruz. İşverenler, çalışanların sağlık ve güvenliği için sorumluluk almalı ve mümkün olan her yerde evden çalışmayı desteklemelidir. Bunun mümkün olmadığı ve zorunlu olmayan tüm sanayi dallarında, pandemiyle mücadele için acilen bir dayanışma kapanışına ihtiyaç vardır. İşvereniniz yeterli önlemlerle sağlığınızı koruyamıyorsa veya evden çalışmayı reddediyorsa ve size nasıl destek olabileceğimizi görüşmek istiyorsanız, lütfen zero-covid@TechWorkersBerlin.com adresinden bizimle (isimsiz olarak da) iletişime geçin.
+
+  dw_enteignen:
+    summary: Berlin TWC olarak <a href="https://www.dwenteignen.de/wp-content/uploads/2021/03/a5_DWE_INFOFLYER_ENGLISCH.pdf">Deutsche Wohnen & Co enteignen</a>  kampanyasını destekliyoruz. Berlin'de yaşıyorsanız ve oy kullanma hakkınız varsa, nasıl imza atacağınızı <a href="https://www.dwenteignen.de/unterschreiben/">buradan öğrenebilirsiniz</a>.
+
+  events:
+    title: Güncel etkinlikler
+    more: Daha fazla etkinlik bulun
+
+  blog:
+    title: Son blog yazıları
+    more: Daha fazla blog yazısı bul
+
+connect:
+  info: Katıl! @TechWorkersBER
+  description: Katılmanın en kolay yolu yaklaşan <a href="/events" >etkinliklerimizden</a> birine katılmaktır. .
+  email: E-postan
+  name: Adın Soyadın
+  public_link: Sosyal medya bağlantısı
+  public_link_placeholder: Linkedin, Xing, Twitter etc...
+  company: İşverenin
+  telegram: <a rel="noopener noreferrer" target="_blank" href=" https://t.me/+-7rD_lN0tP1kNjNi">Grup sohbetimize</a> katılmak istiyorsan Telegram kullanıcı adın
+  telegram_placeholder: "@telegram_username"
+  number: Telefon numaran
+  how_did_hear: Kişisel hedeflerini nasıl destekleyebiliriz?
+  subscribe_to_slack: Slack'e abone ol
+  subscribe_to_newsletter: Haber Bültenine Abone Ol
+  subscribe: Katıl
+
+global:
+  edit_this_page: Bu Sayfayı Düzenle
+  code_of_conduct:
+    title: Davranış Kuralları
+    summary: Tüm toplantılar ve iletişimler <a rel="noopener noreferrer" target="_blank" href="https://berlincodeofconduct.org">Berlin Davranış Kuralları</a>.  kapsamındadır. Üyelerimizin gizliliği ve güvenliği bizim için önemlidir. Üyelerin kimliklerinin paylaşılması veya fotoğraflarının çekilmesi/paylaşılması, açık izin verilmediği sürece kesinlikle yasaktır.
+  accessibility:
+    title: Erişilebilirlik
+    summary: Erişilebilirliği geniş anlamda anlıyor ve daha iyisini yapmak için çabalıyoruz. Tekerlekli sandalye erişimine uygun, sigara içilmeyen, daha kısa ve çocuk bakımı sağlayan toplantılara ev sahipliği yapmaya çalışıyoruz. Katılımcıların ziyaretlerini en iyi şekilde planlayabilmeleri için önceden giriş, aydınlatma ve sesler ile refakatçi ve hizmet köpeklerine ilişkin politika da dahil olmak üzere toplantı yeri hakkında bilgi veriyoruz. Toplantılarımızın veya girişimlerimizin erişilebilirliği ile ilgili geri bildiriminiz veya sorularınız varsa, lütfen şu adresten iletişime geçin <a rel="noopener noreferrer" target="_blank" href="mailto:accessibility@TechWorkersBerlin.com">accessibility@TechWorkersBerlin.com</a>.
+
+press:
+  mentions: Basında çıkan haberler
+  inquiry: Basınla ilgili sorularınız için bizimle iletişime geçin
+
+# Keys used by localize filter as defined in _plugins/i18n_filter.rb
+tr:
+  time:
+    formats:
+      default: "%A, %d %b %Y %H:%M"
+  date:
+    formats:
+      default: "%-d %B %Y"
+    order:
+      - :day
+      - :month
+      - :year
+    abbr_day_names:
+      - Paz
+      - Pzt
+      - Sal
+      - Çar
+      - Per
+      - Cum
+      - Cmt
+    abbr_month_names:
+      -
+      - Oca
+      - Şub
+      - Mar
+      - Nis
+      - May
+      - Haz
+      - Tem
+      - Ağu
+      - Eyl
+      - Eki
+      - Kas
+      - Ara  
+    day_names:
+      - Pazar
+      - Pazartesi
+      - Salı
+      - Çarşamba
+      - Perşembe
+      - Cuma
+      - Cumartesi
+    month_names:
+      -
+      - Ocak
+      - Şubat
+      - Mart
+      - Nisan
+      - Mayıs
+      - Haziran
+      - Temmuz
+      - Ağustos
+      - Eylül
+      - Ekim
+      - Kasım
+      - Aralık
