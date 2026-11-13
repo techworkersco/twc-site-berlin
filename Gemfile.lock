@@ -10,8 +10,8 @@ GEM
   remote: https://rubygems.org/
   specs:
     Ascii85 (2.0.1)
-    addressable (2.8.7)
-      public_suffix (>= 2.0.2, < 7.0)
+    addressable (2.9.2)
+      public_suffix (>= 2.0.2, < 8.0)
     afm (0.2.2)
     async (2.23.1)
       console (~> 1.29)
@@ -37,6 +37,7 @@ GEM
     eventmachine (1.2.7)
     ffi (1.17.1-arm64-darwin)
     ffi (1.17.1-x64-mingw-ucrt)
+    ffi (1.17.1-x86_64-linux-gnu)
     fiber-annotation (0.2.0)
     fiber-local (1.1.0)
       fiber-storage
@@ -46,6 +47,9 @@ GEM
       bigdecimal
       rake (>= 13)
     google-protobuf (4.30.1-x64-mingw-ucrt)
+      bigdecimal
+      rake (>= 13)
+    google-protobuf (4.30.1-x86_64-linux)
       bigdecimal
       rake (>= 13)
     hashery (2.1.2)
@@ -108,6 +112,8 @@ GEM
       racc (~> 1.4)
     nokogiri (1.18.8-x64-mingw-ucrt)
       racc (~> 1.4)
+    nokogiri (1.18.8-x86_64-linux-gnu)
+      racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     pdf-reader (2.14.1)
@@ -120,7 +126,7 @@ GEM
       coderay (~> 1.1)
       method_source (~> 1.0)
       reline (>= 0.6.0)
-    public_suffix (6.0.1)
+    public_suffix (7.0.5)
     racc (1.8.1)
     rainbow (3.1.1)
     rake (13.2.1)
@@ -136,6 +142,8 @@ GEM
     sass-embedded (1.86.0-arm64-darwin)
       google-protobuf (~> 4.30)
     sass-embedded (1.86.0-x64-mingw-ucrt)
+      google-protobuf (~> 4.30)
+    sass-embedded (1.86.0-x86_64-linux-gnu)
       google-protobuf (~> 4.30)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
